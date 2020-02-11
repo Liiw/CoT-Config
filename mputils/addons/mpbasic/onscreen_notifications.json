@@ -1,6 +1,15 @@
 {
 	"onScreenNotifications": [
 		{
+			"id": "stoneage",
+			"soundlocation": "minecraft:entity.player.levelup",
+			"lines": [
+				"§c§nWelcome to",
+				"§eThe Stone Age!"
+			]
+		},
+		{
+		
 			"id": "darkosto",
 			"soundlocation": "minecraft:entity.player.levelup",
 			"lines": [
