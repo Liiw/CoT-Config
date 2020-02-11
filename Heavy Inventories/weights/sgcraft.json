@@ -1,0 +1,110 @@
+{
+  "ocinterface": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "naquadahore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "naquadahblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tollan_phase_shift_device": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pegasus_upgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zpm_console": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stargatering": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stargatecontroller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sgpowerunit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "naquadah": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stargatebase": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sgirisblade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "naquadahingot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zpm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sgcontrollercrystal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sgcorecrystal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sgchevronupgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sgirisupgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

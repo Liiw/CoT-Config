@@ -1,0 +1,50 @@
+{
+  "chesttransporter_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chesttransporter_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chesttransporter_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chesttransporter_obsidian": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chesttransporter_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chesttransporter_diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chesttransporter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chesttransporter_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

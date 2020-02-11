@@ -1,0 +1,74 @@
+{
+  "masterkey": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "display": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chroma": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "data_glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "energypearl": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "publiclock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "toolstation": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "key": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wrench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "token": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frame": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

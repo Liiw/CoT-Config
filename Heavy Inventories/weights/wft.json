@@ -1,0 +1,14 @@
+{
+  "wft": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wft_creative": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "upgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "machine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "powdered_fuel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

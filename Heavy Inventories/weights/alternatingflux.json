@@ -1,0 +1,20 @@
+{
+  "wirecoil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "material": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "connector": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

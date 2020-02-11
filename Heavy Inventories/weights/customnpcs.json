@@ -1,0 +1,122 @@
+{
+  "npcmovingpath": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "npccarpentybench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "npcscripteddoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "npcmailbox": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "npcscripter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "npcscripteddoortool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "npcmounter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scripted_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "npcsoulstoneempty": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "npcborder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "npcredstoneblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "npcsoulstonefilled": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "npcwand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nbt_book": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "npcbuilderblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "npccopyblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "npcscripted": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "npcteleporter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "npcmobcloner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "npcwaypoint": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

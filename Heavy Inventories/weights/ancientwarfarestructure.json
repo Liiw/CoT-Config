@@ -1,0 +1,296 @@
+{
+  "stool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "loot_basket": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scissor_seat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "golden_idol": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "protection_flag": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tribal_chair": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spawner_placer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "advanced_loot_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "altar_long_cloth": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "altar_sun": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "goblin_totem_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "goblin_totem_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "statue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wooden_throne": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "construction_tool_lakes": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gate_proxy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "loot_chest_placer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "advanced_spawner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "altar_short_cloth": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_builder_ticked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "orc_totem_2_lit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tribal_stool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_info_clicker": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "construction_tool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "drafting_station": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "table": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sound_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "altar_candle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "golden_throne": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_scanner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gate_spawner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "orc_totem_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_scanner_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brazier_flame": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "orc_totem_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "town_builder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "altar_lectern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coffin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wooden_post": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brazier_ember": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "goblin_totem_2_lit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "urn": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stake": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "totem_part": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fire_pit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_builder_world_gen": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_builder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

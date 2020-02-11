@@ -1,0 +1,25 @@
+
+addParent("Stone:root")
+
+//Set icon item
+setIcon(<basketcase:item_twig>)
+
+//Set title String
+setTitle("Get some twigs!")
+
+//Set description String
+setDescription("Punch the leaves until they give you twigs!")
+
+
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(true)
+
+//Set the position
+setPos(50,0)
+
+criteria = addCriteria("get_item", "minecraft:inventory_changed")
+criteria.addItem("basketcase:item_twig")

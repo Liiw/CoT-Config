@@ -1,0 +1,14 @@
+{
+  "coord_checker": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_opener": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

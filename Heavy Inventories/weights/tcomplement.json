@@ -1,0 +1,236 @@
+{
+  "scorched_stairs_brick_cracked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorched_stairs_paver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manyullyn_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "knightslime_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "knightslime_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "knightslime_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorched_stairs_road": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorched_faucet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorched_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "high_oven_io": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manyullyn_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "melter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cast": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steel_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorched_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorched_stairs_cobble": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorched_stairs_tile": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "knightslime_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorched_stairs_brick_fancy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorched_stairs_creeper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorched_casting": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manyullyn_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorched_stairs_brick_small": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorched_stairs_brick_square": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manyullyn_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alloy_tank": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorched_stairs_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "liquid_steam": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cast_clay": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steel_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorched_stairs_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorched_channel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "materials": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "high_oven_controller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steel_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorched_slab2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steel_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scorched_stairs_brick_triangle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

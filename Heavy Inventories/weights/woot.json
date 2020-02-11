@@ -1,0 +1,164 @@
+{
+  "die": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "importer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "soulsanddust": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "anvil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stygianirondust": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cell": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "factorycore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "yahhammer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "exporter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "builder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "upgradeb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "prism": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "factory": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "controller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stygianironore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "upgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stygianiron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stygianironplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "xpshard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "endershard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "layout": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fakemanual": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stygianironingot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "soulstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "factorybase": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

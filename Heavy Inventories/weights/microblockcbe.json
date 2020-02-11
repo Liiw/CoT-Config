@@ -1,0 +1,32 @@
+{
+  "saw_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_rod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "microblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "saw_diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "saw_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

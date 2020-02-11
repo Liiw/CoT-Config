@@ -1,0 +1,14 @@
+{
+  "compost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "compost_bin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

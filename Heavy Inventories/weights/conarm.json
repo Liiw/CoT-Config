@@ -1,0 +1,218 @@
+{
+  "frosty_soles": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "travel_slowfall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "resist_mat_proj": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "travel_potion": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "travel_cloak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "book": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "travel_belt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "invisible_ink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chest_core": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "travel_goggles": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gauntlet_mat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armorforge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "resist_mat_blast": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_trim": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "travel_goggles_base": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leggings_core": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "resist_mat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armorstation": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "polishing_kit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "helmet_core": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "travel_sack": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "travel_soul": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gauntlet_mat_speed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "travel_belt_base": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gauntlet_mat_attack": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gauntlet_mat_reach": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "soft_obsidian": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "boots_core": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "resist_mat_fire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "travel_night": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "travel_sneak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

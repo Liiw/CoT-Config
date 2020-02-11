@@ -1,0 +1,116 @@
+{
+  "pattern.fluid": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage.component": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hardmedrive": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage.fluid.portable": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage.casing": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vibrantchamberfluid": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluidfiller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid.item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pattern.crafting": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluidcrafter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage.physical": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage.fluid": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "terminal.universal.wireless": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "walrus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "part.base": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "certustank": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ecbaseblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "terminal.fluid.wireless": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "oc.upgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

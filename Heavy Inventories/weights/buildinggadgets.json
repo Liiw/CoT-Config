@@ -1,0 +1,98 @@
+{
+  "template": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "exchangertool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "constructionblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "copypastetool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "buildingtool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "templatemanager": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "construction_chunk_dense": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "constructionpastecontainercreative": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "effectblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "constructionblock_dense": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "constructionpastecontainer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "constructionpaste": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "constructionpastecontainert2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "constructionblockpowder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "destructiontool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "constructionpastecontainert3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

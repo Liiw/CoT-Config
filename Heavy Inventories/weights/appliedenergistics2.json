@@ -1,0 +1,722 @@
+{
+  "fluid_storage_cell_64k": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "memory_card": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crafting_storage_16k": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "facade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sky_compass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quantum_ring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "paint": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "matter_cannon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "creative_storage_cell": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sky_stone_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nether_quartz_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smooth_sky_stone_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartz_pillar_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "light_detector": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "energy_acceptor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spatial_pylon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chiseled_quartz_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biometric_card": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crystal_seed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sky_stone_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sky_stone_brick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "matrix_frame": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartz_vibrant_glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "energy_cell": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nether_quartz_cutting_knife": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage_cell_64k": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartz_glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chiseled_quartz_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charger": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartz_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charged_staff": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "drive": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quantum_link": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "inscriber": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_interface": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sky_stone_small_brick_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sky_stone_small_brick_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluix_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "certus_quartz_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartz_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charged_quartz_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smooth_sky_stone_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "condenser": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "encoded_pattern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartz_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spatial_storage_cell_128_cubed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vibration_chamber": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "certus_quartz_wrench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "controller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molecular_assembler": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluix_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "certus_quartz_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cell_workbench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crafting_storage_4k": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartz_pillar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartz_fixture": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nether_quartz_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tiny_tnt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluix_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chiseled_quartz_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sky_stone_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smooth_sky_stone_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spatial_storage_cell_2_cubed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "certus_quartz_spade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dummy_fluid_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_storage_cell_16k": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "view_cell": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cable_bus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crafting_storage_64k": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartz_pillar_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartz_growth_accelerator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smooth_sky_stone_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dense_energy_cell": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nether_quartz_spade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartz_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smooth_sky_stone_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crank": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sky_stone_small_brick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nether_quartz_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spatial_io_port": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sky_stone_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grindstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_storage_cell_1k": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sky_stone_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluix_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sky_stone_brick_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "entropy_manipulator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage_cell_4k": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage_cell_16k": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sky_stone_brick_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "certus_quartz_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "portable_cell": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "io_port": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nether_quartz_wrench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "part": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "interface": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "creative_energy_cell": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sky_stone_small_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wireless_access_point": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crafting_unit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sky_stone_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crafting_accelerator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crafting_storage_1k": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage_cell_1k": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_storage_cell_4k": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crafting_monitor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "network_tool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "certus_quartz_cutting_knife": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "certus_quartz_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "color_applicator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spatial_storage_cell_16_cubed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wireless_terminal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chiseled_quartz_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartz_pillar_double_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "paint_ball": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "material": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartz_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "security_station": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nether_quartz_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "infinity_booster_card": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wut": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

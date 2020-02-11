@@ -1,0 +1,110 @@
+{
+  "block_crystal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_witherring": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_lighter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_greatwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_wandrod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_bucket": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_toast": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_ingot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_paving_aer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_shard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_wandcap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_infuser": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_reinforced": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_obsidian": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_greatwood_framed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_adv_recharge_pedestal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

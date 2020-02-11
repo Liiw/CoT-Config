@@ -1,0 +1,26 @@
+{
+  "drawplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "screwdriver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "resource_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "multimeter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

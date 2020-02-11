@@ -1,0 +1,14 @@
+{
+  "wit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wit_creative": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "arcane_door_silverwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arcane_trapdoor_silverwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "taint_flower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "augment_builder_power": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fracture_locator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seal_copier": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "void_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arcane_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arcane_trapdoor_metal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rift_seed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "augment_builder_effect": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gauntlet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "key": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "augment_custom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "warded_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arcane_door_thaumium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arcane_trapdoor_wood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "morphic_tool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vis_regenerator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "material": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "primal_cutter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "temporary_light": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "augment_caster_rift_energy_storage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arcane_door_greatwood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

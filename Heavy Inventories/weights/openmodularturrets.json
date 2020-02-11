@@ -1,0 +1,122 @@
+{
+  "usable_meta": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turret_base": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "laser_turret": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "intermediate_tiered": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "upgrade_meta": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "incendiary_turret": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rocket_turret": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "potato_cannon_turret": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lever_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "disposable_item_turret": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "teleporter_turret": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "expander": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "relativistic_turret": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "intermediate_regular": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rail_gun_turret": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "base_addon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_meta": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "machine_gun_turret": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "addon_meta": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grenade_turret": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

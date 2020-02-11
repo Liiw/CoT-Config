@@ -1,0 +1,188 @@
+{
+  "crossing_relay_sw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "overhead_lamps": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crossing_gate_pole": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "channelizer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "street_light_single": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crossing_relay_top_ne": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "light_source": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sign": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "drum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crossing_relay_top_nw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "street_light_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crossing_gate_base": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "overhead_crossbuck": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crossing_gate_crossbuck": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crossing_relay_box": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "overhead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crossing_gate_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crossing_relay_tuner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crossing_gate_lamps": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crossing_relay_ne": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "safetran_mechanical": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crossing_relay_top_se": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crossing_relay_top_sw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crossing_relay_se": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shunt_island": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "overhead_pole": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shunt_border": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wig_wag": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crossing_relay_nw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "safetran_type_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

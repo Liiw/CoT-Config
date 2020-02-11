@@ -1,0 +1,68 @@
+{
+  "inverted_cage_lamp": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fallout_lamp": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "inverted_fixture_light": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "light_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "inverted_lantern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "feedback_light_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cage_lamp": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lamp": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lantern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "inverted_fallout_lamp": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fixture_light": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

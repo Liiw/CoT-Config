@@ -1,0 +1,158 @@
+{
+  "chunk_loader_simple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "animal_farm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "warehouse_storage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fish_farm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tree_farm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hand_cranked_generator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "windmill_blade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "worksite_upgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flywheel_controller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stirling_generator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "warehouse_stock_viewer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crop_farm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "warehouse_control": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "warehouse_crafting": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "warehouse_interface": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "torque_distributor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "waterwheel_generator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "windmill_generator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flywheel_storage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chunk_loader_deluxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quarry": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fruit_farm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mailbox": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "torque_shaft": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "auto_crafting": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "torque_junction": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

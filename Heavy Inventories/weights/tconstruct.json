@@ -1,0 +1,1052 @@
+{
+  "molten_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "battlesign": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seared_stairs_tile": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slime_grass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crossbow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rapier": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mudbrick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "longbow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "channel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "binding": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_zinc": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "piggybackpack": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cast": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brownstone_stairs_brick_triangle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "purpleslime": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seared": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slime_vine_purple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "broadsword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seared_stairs_brick_fancy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sword_blade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seared_slab2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fletching": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "milk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slime_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "firewood_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nuggets": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slime_grass_tall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hammer_head": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shuriken": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clear_glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brownstone_slab2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brownstone_stairs_smooth": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deco_ground_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slimesling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scythe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brownstone_stairs_brick_fancy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spaghetti": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fancy_frame": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brownstone_stairs_brick_small": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pattern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "soil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slime": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deco_ground": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brownstone_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dried_clay_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dried_clay_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_manyullyn": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bolt_core": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kama": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "excavator_head": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "toolforge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "casting": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shortbow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_torch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_clay": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tough_binding": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cast_custom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brownstone_stairs_tile": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_dirt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "faucet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ingots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sharpening_kit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pick_head": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shovel_head": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lavawood_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "punji": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slime_vine_blue_end": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smeltery_controller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_pigiron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brownstone_stairs_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slime_vine_purple_mid": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dried_clay": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kama_head": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hatchet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "axe_head": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seared_stairs_brick_triangle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seared_furnace_controller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "edible": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_brass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cross_guard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arrow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "knife_blade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seared_stairs_creeper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tough_tool_rod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smeltery_io": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seared_stairs_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "broad_axe_head": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slime_vine_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_alubrass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brownstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "firewood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seared_stairs_brick_small": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bow_string": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slime_dirt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "large_sword_blade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_cobalt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pan_head": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "large_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bow_limb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seared_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mattock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hand_guard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wood_rail_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clear_stained_glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_knightslime": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seared_stairs_paver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cleaver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seared_stairs_brick_square": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seared_stairs_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "materials": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arrow_head": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slime_congealed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tinker_tank_controller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bolt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "moms_spaghetti": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seared_stairs_road": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slime_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wood_rail": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "longsword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wooden_hopper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dried_brick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "throwball": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brownstone_stairs_paver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool_rod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hammer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_obsidian": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brownstone_stairs_rough": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "book": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scythe_head": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wide_guard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clay_cast": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seared_glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seared_stairs_cobble": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "excavator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tooltables": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arrow_shaft": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_stick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frypan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slime_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rack": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_emerald": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blueslime": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brownstone_stairs_brick_cracked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brownstone_stairs_creeper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lumberaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_ardite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seared_tank": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brownstone_stairs_road": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slime_channel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sign_head": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slime_vine_blue_mid": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_ladder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slime_vine_purple_end": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brownstone_stairs_brick_square": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seared_stairs_brick_cracked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "firewood_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "molten_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

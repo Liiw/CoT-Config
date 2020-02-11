@@ -1,0 +1,926 @@
+{
+  "unuparts_part_unu_container_blackthorne": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_luggage_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_wheel_5d17t": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_graphicartist": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_luggage_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_wheel_4d17": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_trainserver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_paint_sunflower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_container_spagetti": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_engine_j2350tf": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_wheel_4d14": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_trailer_unu_container_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_lightbar_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_bumpersticker_tedcruz": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_unitedcargoco": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_moonspire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_bumpersticker_notchsaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_modelairship": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_zodiackiller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_reelcomputer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_engine_i10h": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_engine_i8h": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_bettercallsaul": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_paint_ford": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_container_unu": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_instrument_unu_electric_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_falloutmc": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_paint_blackthorne": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_container_redcliffe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_wheel_2d6m": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_container_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_container_jim": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_bumpersticker_unusable": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_instrument_unu_speedometer_b1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_instrument_unu_temp_c1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_seat_m1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_bumpersticker_stanford": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_poweredbyunu": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_paint_navy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_engine_j3283tf": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_belt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_unutrendy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_container_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_gramadosserver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_engine_v10h": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_container_moonspire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_unuengines": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_paint_apple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_bumpersticker_ingunuity": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_unuservingblackthorneandtheworld": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_trailer_unu_container_single": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_seat_seatbelt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_container_spagetti": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_cutout_derrick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_engine_v8h": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_engine_j1018tj": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_engine_apu": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_engine_i6h": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_seat_t1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_siren_1_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_instrument_unu_temp_f1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_crate_12": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_tedcruz": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_paint_chocolate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_container_redcliffe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_bumpersticker_smptoolbox": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_paint_sea": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_hubcap_5": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_instrument_unu_multi_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_hubcap_4": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_wheel_4d12a": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_btandt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_spaceballstheflamethrower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_trailer_unu_dolly_single": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_spaceballsthebusad": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_paint_moonspire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_engine_v12ha": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_bumpersticker_farlandsorbust": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_instrument_unu_oilpressure_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_bumpersticker_flanjeep": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_container_jim": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_worldwars": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_seat_b1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_paint_emerald": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_paint_olive": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_redsands": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_bumpersticker_sagebrush": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_ups": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_paint_ivory": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_ninlabs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_wheel_5d14a": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_bumpersticker_prageru": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_seat_p2_manilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_container_unu": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_attachment_flag_blackthorne": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_machine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_wheel_10d28t": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_instrument_unu_speedometer_m3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_engine_i2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_instrument_unu_speedometer_m2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_instrument_unu_tachometer_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_siren_1_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_instrument_unu_speedometer_m1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_paint_manilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_amma": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_wheel_3d12": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_aperturelaboratories": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_spaghetti": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_skid_82": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_seat_a2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_paint_ocean": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_seat_a1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_container_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_wheel_10d28a": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_seat_p2_apple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_bumpersticker_poweredbycreepers": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_engine_h6": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_paint_unu": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_trailer_unu_dolly_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_wheel_3d8a": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_paint_crimson": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_paint_tungsten": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_pride": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_impex": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_paint_mint": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_container_moonspire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_trin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_container_blackthorne": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_instrument_unu_fuel_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_seat_p3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_hchartartschool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_engine_i12h": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_seat_p2_leather": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_hubcap_8_wire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_unuinnovatingsincev10": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_siren_1_orange": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_engine_j34200tj": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_attachment_flag_moonspire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_instrument_unu_speedometer_k3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_instrument_unu_speedometer_k2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_instrument_unu_speedometer_k1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_paint_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_bumpersticker_mysteryshack": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_bumpersticker_pinetree": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_paint_seaweed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_pushbar_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_engine_v8": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_engine_v6": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_container_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_decor_unu_piston": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_engine_i1m": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_wheel_3d8": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_busadvert_lightfeather": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_propeller_4d100": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

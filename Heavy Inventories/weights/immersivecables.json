@@ -1,0 +1,32 @@
+{
+  "relay_fluix": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "transformer_fluix": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "connector_quartz": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wire_coil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coil_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

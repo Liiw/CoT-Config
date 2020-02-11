@@ -1,0 +1,242 @@
+{
+  "preparedtiagapinotnoirmixitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "swampmerlotitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamhopscrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "preparedspicedrummixitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beachrumitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "preparedhardapplecidermixitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "preparedswampmerlotmixitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pinkmoscatoitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "honeymeaditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "savannazinfandelitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "preparedriverchardonnaymixitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "preparedhoneymeadmixitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hardlemonadeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "preparedhardlemonademixitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "preparedpinkmoscatomixitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spicedrumitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "totalvodkaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "preparedhandmadevodkamixitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "prepareduglyavocadoginmixitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "distiller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "preparedcherryvodkamixitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coconutrumitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "handmadevodkaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hardapplecideritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "preparedtotalvodkamixitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "preparedbeachrummixitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "preparedcoconutrummixitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "preparedsavannazinfandelmixitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "riverchardonnayitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hopsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cherryvodkaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hopsseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "preparedpmaxrieslingmixitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "uglyavocadoginitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pmaxrieslingitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tiagapinotnoiritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "preparedrennalgoldmixitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "preparedsakemixitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rennalgolditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

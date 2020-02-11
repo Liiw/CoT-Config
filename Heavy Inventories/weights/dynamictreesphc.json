@@ -1,0 +1,302 @@
+{
+  "paperbarkseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peachseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "passionfruitseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plumseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "orangeseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hazelnutseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonfruitseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nutmegseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pearseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lemonseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pawpawseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "maplebranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pomegranateseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spiderwebseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vanillabeanseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "guavaseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bananaseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leaves0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peppercornseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tamarindseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "almondseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coconutseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gooseberryseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cashewseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pecanseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apricotseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jackfruitseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "breadfruitseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "soursopseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "figseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rambutanseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "avocadoseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cinnamonbranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mangoseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "persimmonseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lycheeseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "starfruitseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "papayaseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "durianseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chestnutseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cinnamonseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "walnutseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "paperbarkbranch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grapefruitseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cherryseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "limeseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dateseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "oliveseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mapleseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pistachioseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

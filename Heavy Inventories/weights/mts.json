@@ -1,0 +1,416 @@
+{
+  "componentbench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vehiclebench_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wheelbench_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wheelbench_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wheelbench_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wheelbench_0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fuelpump_0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vehiclebench_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pole": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vehiclebench_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vehiclebench_0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fuelpump_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fuelpump_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fuelpump_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seatbench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "decororienteddark": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vehiclebench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "enginebench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trafficsignal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jumpercable": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wrench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trafficsign": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "decororientedlight": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "propellerbench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "decorbasiclight": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "enginebench_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "enginebench_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "enginebench_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wheelbench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manual": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "streetlight": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrumentbench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seatbench_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seatbench_0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seatbench_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seatbench_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "key": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrumentbench_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gunbench_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrumentbench_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "polebase": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jerrycan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gunbench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gunbench_0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gunbench_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrumentbench_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "custombench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fuelpump": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gunbench_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrumentbench_0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "custombench_0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "custombench_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "custombench_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "custombench_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trafficsignalcontroller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "propellerbench_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trafficsignalcontroller_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "decorbasicdark": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "propellerbench_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trafficsignalcontroller_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "propellerbench_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "componentbench_3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trafficsignalcontroller_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "propellerbench_0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "componentbench_2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trafficsignalcontroller_0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "enginebench_0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "componentbench_1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "componentbench_0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

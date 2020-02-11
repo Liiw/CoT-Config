@@ -1,0 +1,314 @@
+{
+  "ingotcyanite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turbinecreativesteamgenerator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turbinerotorblade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mineralbenitoite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ingotblutonium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "orebenitoite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ingotyellorium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turbinebearing": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ingotsteel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocksteel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turbinecomputerport": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turbinerotorshaft": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reactorcreativecoolantport": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turbinefluidport": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cyanite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockcyanite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dustcyanite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reactorcoolantport": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "yellorium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turbinecontroller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ingotgraphite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dustludicrite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reactorpowertaptesla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reactorcasing": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reactorredstoneport": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wrench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockludicrite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turbinepowertaprf": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turbinepowertaptesla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reactorcontrolrod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reactorcasingcores": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockyellorium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "oreanglesite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dustblutonium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockblutonium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mineralanglesite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dustyellorium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reactorrednetport": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turbinehousing": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dustgraphite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reactoraccessport": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "duststeel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockgraphite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turbineglass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turbinehousingcores": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reactorpowertaprf": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reactorcontroller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "oreyellorite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ingotludicrite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reactorcomputerport": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reactorglass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "reactorfuelrod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

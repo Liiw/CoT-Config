@@ -1,0 +1,20 @@
+{
+  "wct_creative": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wct": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magnet_card": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

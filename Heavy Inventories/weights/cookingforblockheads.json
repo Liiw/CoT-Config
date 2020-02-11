@@ -1,0 +1,116 @@
+{
+  "fridge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "oven": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "recipe_book": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cooking_table": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "heating_unit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "preservation_chamber": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cow_jar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "counter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool_rack": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fruit_basket": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spice_rack": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "corner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ice_unit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kitchen_floor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cutting_board": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "toaster": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "milk_jar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cabinet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

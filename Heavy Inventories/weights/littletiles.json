@@ -1,0 +1,164 @@
+{
+  "container": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocklittletilesrendered": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hammer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ltwhiteflowinglava": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "colortube": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "recipe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ltcoloredblock2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ltflowingwater": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "recipeadvanced": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ltwhiteflowingwater": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocklittletiles": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocklittletilesticking": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ltcoloredblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "saw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "screwdriver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rubbermallet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chisel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grabber": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wrench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "multitiles": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "utilityknife": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ltparticleblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ltflowinglava": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lttransparentcoloredblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "premade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocklittletilestickingrendered": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ltstorageblocktile": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

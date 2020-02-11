@@ -1,0 +1,26 @@
+{
+  "debug_tool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "multi_tool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "network_cable": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fake_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

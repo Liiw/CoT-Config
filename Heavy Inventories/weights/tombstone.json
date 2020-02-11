@@ -1,0 +1,152 @@
+{
+  "grave_simple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grave_key": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grave_cross": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tablet_of_assistance": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scroll_buff": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "book_of_disenchantment": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "decorative_grave_simple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dust_of_vanishing": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ankh_of_pray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dark_marble": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tablet_of_recall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grave_normal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "decorative_grave_cross": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lost_tablet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tombstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "familiar_receptacle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "decorative_grave_normal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scroll_of_knowledge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fishing_rod_of_misadventure": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "voodoo_poppet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "decorative_tombstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lollypop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "advancement": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "soul_receptacle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crafting_ingredient": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

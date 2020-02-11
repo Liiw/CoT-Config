@@ -1,0 +1,134 @@
+{
+  "log_stripped_birch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_plant_fiber": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_stripped_dark_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "container_basket_large": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_bark_birch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_bark_strips": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_bark_spruce": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "container_basket_small": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_cordage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_bark_dark_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_twig": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_stripped_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_wicker_medium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_wicker_large": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_bark_acacia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_bark_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_stripped_acacia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_stripped_jungle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "container_basket_medium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_bark_jungle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_wicker_small": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_stripped_spruce": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

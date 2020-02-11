@@ -1,0 +1,14 @@
+{
+  "dust_ender": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ore_ender": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

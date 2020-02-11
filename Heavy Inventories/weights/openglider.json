@@ -1,0 +1,20 @@
+{
+  "hang_glider_part": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hang_glider_advanced": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hang_glider_basic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

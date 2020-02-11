@@ -1,0 +1,710 @@
+{
+  "flatgauge6": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flatgauge5": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "switchlink_pearl": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flatgauge4": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flatgauge3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flatgauge2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flatgauge1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sensitiveglass_lime": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "indicator3blink1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "relay_bistableswitchrx1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "relay_bistableswitchrx2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sensitiveglass_orange": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arrowtarget": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sensitiveglass_inverted": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "contactmat_rustic2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "contactmat_rustic1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "contactmat_glass1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "contactmat_glass2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "contactmat_rustic3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bistableswitch_oldfancy4": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bistableswitch_oldfancy3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sensitiveglass_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bistableswitch_oldfancy6": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bistableswitch_oldfancy5": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bistableswitch_oldfancy7": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "industrial_knock_button": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bistableswitch_oldfancy2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bistableswitch_glass2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "indicator_led_white_blink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bistableswitch_oldfancy1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bistableswitch_glass1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bistableswitch8": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bistableswitch6": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bistableswitch7": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "detectorswitch_glass1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "detectorswitch_glass2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "industrial_knock_switch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "indicator_led_white": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "indicator1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bistableswitch_rustic2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "indicator2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bistableswitch_rustic1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "indicator3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bistableswitch_rustic4": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "indicator4": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bistableswitch_rustic3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bistableswitch_rustic6": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bistableswitch_rustic5": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pulseswitch_glass2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bistableswitch_rustic7": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pulseswitch_glass3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sensitiveglass_yellow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "relay_pulseswitchrx1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "indicator2blink1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "relay_pulseswitchrx2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pulseswitch_glass1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pulseswitch6": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pulseswitch5": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pulseswitch_oldfancy3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "timerswitch_glass1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pulseswitch_oldfancy2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pulseswitch_oldfancy1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "contactmat3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "observerswitch1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sensitiveglass_brown": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "contactmat2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "contactmat1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pulseswitch2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pulseswitch1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pulseswitch3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "powerplant_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sensitiveglass_purple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sensitiveglass_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dimmerswitch1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "relay_bistableswitchtx1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sensitiveglass_gray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sensitiveglass_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sensitiveglass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sensitiveglass_pink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "indicator1blink1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sensitiveglass_white": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trapdoorswitch_rustic2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trapdoorswitch_rustic3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trapdoorswitch_rustic1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "indicator_rustic_flag": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bistableswitch4": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pulseswitch_rustic3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bistableswitch5": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pulseswitch_rustic2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bistableswitch2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pulseswitch_rustic1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bistableswitch3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pulseswitch_rustic7": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bistableswitch1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pulseswitch_rustic6": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pulseswitch_rustic5": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pulseswitch_rustic4": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "powerplant_yellow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sensitiveglass_lightgray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gauge_rustic2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sensitiveglass_cyan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sensitiveglass_magenta": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "soundindicator1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trapdoorswitch1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trapdoorswitch2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "daytimeswitch_glass1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trapdoorswitch3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sensitiveglass_black": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sensitiveglass_lightblue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "automaticswitch7": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "automaticswitch6": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "automaticswitch5": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "automaticswitch4": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pulseswitch_oldfancy4": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "automaticswitch3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "automaticswitch2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "automaticswitch1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "relay_pulseswitchtx1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

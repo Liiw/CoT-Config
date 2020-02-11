@@ -1,0 +1,26 @@
+
+addParent("Stone:twig")
+
+//Set icon item
+setIcon(<basketcase:item_cordage>)
+
+//Set title String
+setTitle("Show me the ropes")
+
+//Set description String
+setDescription("Make cordage")
+
+hiddenUnless("Stone:twig")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(true)
+
+//Set the position
+setPos(100,-50)
+
+criteria = addCriteria("craft_item", "triumph:player_crafted_item")
+criteria.addItem(<basketcase:item_cordage>)
+

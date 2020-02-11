@@ -1,0 +1,116 @@
+{
+  "essentia_component_64k": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "essentia_import": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arcane_terminal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "essentia_component_16k": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "essentia_storage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "essentia_cell_16k": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "essentia_cell_64k": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dummy_aspect": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coalescence_core": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "essentia_export": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "essentia_cell_4k": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "essentia_cell_creative": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diffusion_core": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "essentia_terminal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "essentia_component_4k": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "upgrade_arcane": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infusion_provider": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "essentia_cell_1k": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "essentia_component_1k": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

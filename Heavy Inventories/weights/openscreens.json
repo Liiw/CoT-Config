@@ -1,0 +1,56 @@
+{
+  "backflatscreen3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "backflatscreen2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "backflatscreen1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frontflatscreen3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "holoscreen2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frontflatscreen2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "holoscreen3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frontflatscreen1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "holoscreen1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

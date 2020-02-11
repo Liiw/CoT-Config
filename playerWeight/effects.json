@@ -1,0 +1,1 @@
+{ "effects": [ { "type": "potion", "cooldown": "20", "min": 100, "max": 2000, "potions": [ { "name": "minecraft:slowness", "duration": "40", "amplifier": 3 } ] } ] }

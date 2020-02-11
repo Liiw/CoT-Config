@@ -1,0 +1,398 @@
+{
+  "blockhuttownhall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutflorist": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockminecoloniesrack": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scepterlumberjack": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "compost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutcrusher": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutwarehouse": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutcook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutarchery": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockwaypoint": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pirate_top": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clipboard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pirate_cap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutbuilder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutlibrary": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "supplychestdeployer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sizetown": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutguardtower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "resourcescroll": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutcowboy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockbarrackstowersubstitution": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sizemetropolis": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_scimitar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pirate_shoes": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancienttome": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chiefsword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutenchanter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutstonesmeltery": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "composted_dirt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutcomposter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutlumberjack": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "barrel_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutsifter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutfarmer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sizesettlement": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutbarracks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutdeliveryman": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "caliper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutshepherd": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scepterpermission": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pirate_hat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutcitizen": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockconstructiontape": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutfield": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pirate_legs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "santa_hat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pirate_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "supplycampdeployer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutcombatacademy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pirate_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutstonemason": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutbaker": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockinfoposter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutfisherman": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockpostbox": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutsawmill": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "decorationcontroller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sizecity": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutblacksmith": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scepterguard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutswineherder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pirate_leggins": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutchickenherder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutsmeltery": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutbarrackstower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockhutminer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

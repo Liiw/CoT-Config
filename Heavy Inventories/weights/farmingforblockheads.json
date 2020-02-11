@@ -1,0 +1,56 @@
+{
+  "market": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fertilized_farmland_rich": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fertilized_farmland_stable": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fertilized_farmland_healthy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "feeding_trough": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fertilized_farmland_healthy_stable": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chicken_nest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fertilized_farmland_rich_stable": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fertilizer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

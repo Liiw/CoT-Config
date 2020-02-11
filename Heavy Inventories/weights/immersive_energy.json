@@ -1,0 +1,56 @@
+{
+  "sheetmetal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "material": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sheetmetal_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stick_uranium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stick_thorium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metal_generators0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

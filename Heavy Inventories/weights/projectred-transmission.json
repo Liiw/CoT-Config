@@ -1,0 +1,14 @@
+{
+  "wire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "framed_wire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

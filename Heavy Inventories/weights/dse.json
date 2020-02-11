@@ -1,0 +1,194 @@
+{
+  "heavyboots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scubamask": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shader": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "components": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "motorboat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scubalegs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flippers": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "icon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "airtank_creative": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "upgrades": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dinghy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "airtank_highpressure": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armorplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "airtank_small": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "powerunit_small": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vehiclecharger": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "powerunit_medium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shadercore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hyperthermic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "powerunit_large": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vehiclestation": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "powerunit_creative": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hammersteel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hammeriron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charger": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coloredmetal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "airtank_large": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scubachest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hypothermic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "divinggoggles": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scubaboots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "compressor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

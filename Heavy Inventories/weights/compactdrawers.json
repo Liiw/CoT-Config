@@ -1,0 +1,20 @@
+{
+  "compact_drawer_2by1_half": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "compact_drawer_2by1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "compact_drawer_half": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

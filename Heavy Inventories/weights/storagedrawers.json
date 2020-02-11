@@ -1,0 +1,134 @@
+{
+  "upgrade_template": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "upgrade_conversion": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "upgrade_storage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "upgrade_one_stack": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "controller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "customdrawers": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "compdrawers": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "upgrade_void": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "basicdrawers": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "upgrade_status": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "upgrade_creative": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tape": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "keybutton": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trim": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "customtrim": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "framingtable": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shroud_key": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "personal_key": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "controllerslave": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "upgrade_redstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "drawer_key": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quantify_key": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

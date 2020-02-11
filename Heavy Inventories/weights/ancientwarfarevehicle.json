@@ -1,0 +1,572 @@
+{
+  "ammo_stone_shot_15": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_explosive_shot_30": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "powder_case": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_flame_shot_30": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_stone_shot_10": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vehicle_upgrade_aim": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_cluster_shot_45": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_iron_shot_15_30": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_iron_shot_10_15": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_grape_shot_25": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_arrow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_arrow_iron_flame": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vehicle_upgrade_pitch_down": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_canister_shot_10": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "explosive_charge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_ballista_bolt_flame": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_explosive_shot_10_big": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_explosive_shot_45_big": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flame_charge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_napalm_shot_30": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_torpedo_10": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_obsidian": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_hwacha_rocket_explosive": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "major_alloy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_iron_shot_25_45": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_casing": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_torpedo_15": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_canister_shot_5": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_napalm_shot_15": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vehicle_upgrade_speed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_stone_shot_45": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rough_wood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "torsion_unit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_flame_shot_45": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_ballista_bolt_explosive": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rocket_charge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "counter_weight_unit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ironshod_wood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_pebble_shot_10": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_iron_shot_5_10": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_cluster_shot_30": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turret_components": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_pebble_shot_15": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_hwacha_rocket": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clay_casing": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "treated_wood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_grape_shot_5": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "equipment_bay": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vehicle_upgrade_pitch_up": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vehicle_upgrade_reload": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_flame_shot_10": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_stone_shot_30": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_explosive_shot_15": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vehicle_upgrade_power": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "napalm_charge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_arrow_flame": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_ball_shot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_flame_shot_15": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_explosive_shot_15_big": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_explosive_shot_10": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_canister_shot_25": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_pebble_shot_45": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_torpedo_30": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cluster_charge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_grape_shot_10": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_napalm_shot_10": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_core_wood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rough_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_soldier_arrow_5_flaming": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tempered_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vehicle_upgrade_turret_pitch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_soldier_arrow_5": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_soldier_arrow_7": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_cluster_shot_15": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_arrow_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_explosive_shot_30_big": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mobility_unit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_explosive_shot_45": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_grape_shot_15": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_soldier_arrow_7_flaming": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_hwacha_rocket_flame": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spawner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_canister_shot_15": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_cluster_shot_10": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "minor_alloy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_pebble_shot_30": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_torpedo_45": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_ballista_bolt_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_ballista_bolt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_iron_ball_shot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_napalm_shot_45": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fine_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ammo_hwacha_rocket_airburst": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

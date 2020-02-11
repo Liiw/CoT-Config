@@ -1,0 +1,14 @@
+{
+  "wpt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wpt_creative": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

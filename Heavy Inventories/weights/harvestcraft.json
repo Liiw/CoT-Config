@@ -1,0 +1,8360 @@
+{
+  "gigapickleitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "toadintheholeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candledeco12": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candledeco11": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candledeco10": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kiwijellysandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mustardseedsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candledeco16": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candledeco15": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candledeco14": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scalloprawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candledeco13": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fortunecookieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pawpaw_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "custarditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "suaderoitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beanitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pearyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "papayajellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "butteredpotatoitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "caramelcupcakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jackfruititem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "honeyglazedcarrotsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sardinesinhotsauceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ploughmanslunchitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peachyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turtlecookeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cucumbersandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beefwellingtonitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gingersnapsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "netherwingsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "groundrabbititem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chilidogitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "applejellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leekseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "heavycreamitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "walleyerawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "figbaritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nutmegitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scallopcookeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tealeafitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "honeycomb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "oatsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "datenutbreaditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "neapolitanicecreamitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "olive_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turnipitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cranberryitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "braisedonionsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gooseberryyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamkiwicrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamplum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "okraseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chestnutbutteritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cottonitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sweetandsoursauceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cheesedanishitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chorizoitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "potroastitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cranberryyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turtlerawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "papaya_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "curryitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peanutbutterbananasandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peanutsoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spaghettidinneritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chocolatecherryitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pampeppercorn": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pameggplantcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "almond_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "roastedrootveggiemedleyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "walnutraisinbreaditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bratwurstitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chickenpaellaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bakewareitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tamarind_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "strawberryicecreamitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candiedpecansitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "oatsseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "softpretzelandmustarditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "royaljellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "artichokeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cabbageseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bassrawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamspinachcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hummusitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chickensandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grapesmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bulgogiitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "paradiseburgeritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beetseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mochidessertitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gingerbreaditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "broccolindipitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tomatilloseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "toastsandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "greeneggsandhamitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "groundtrap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chestnutitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "herringrawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leafychickensandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "raspberryyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grilledasparagusitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blueberryitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "teaseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "watermelonjellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bibimbapitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bananasplititem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "persimmonsmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spicygreensitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pomegranatejellysandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cornchipsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "theatreboxitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spiceleafseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ryeseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "greenbeancasseroleitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "patreonpieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "paperbark_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spinachpieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tunaonigiriitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamonioncrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gooseberry_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pambreadfruit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cherrycheesecake": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crayfishsaladitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sesameballitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "guavaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pineappleyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shepardspieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pambeetcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blueberryjuiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cornmealitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mangoyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tunasaladitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gourmetvenisonpattyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamspiceleafcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blackberryyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamgrapecrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamsoursop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "potatocakesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "potatoskinsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sourcreamandonionpotatochipsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "figyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hardenedleatheritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "onigiriitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "waterfilter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "montecristosandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cobblestonecobbleritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "battenbergitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kungpaochickenitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "groundmuttonitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mangojellysandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hardenedleatherbootsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beehive": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lambwithmintsauceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jackfruit_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "baconwrappeddatesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ricecakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bakedturnipsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crackersandcheeseitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cherryyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "starfruitjellysandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blackpepperitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grapefruitjellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "groundchickenitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "taroseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scrambledeggitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stuffedchilipeppersitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "limejuiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "baklavaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cheeseontoastitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamgingercrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamraspberrycrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chickpeaseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "saltedcaramelitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flouritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gourmetporkpattyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "currypowderitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "delightedmealitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "koreandinneritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "earlgreyteaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spagettiitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "espressoitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "figjellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pastagardeniaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "well": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hotsauceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blackberryseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "icecreamitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vanillabean_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slimegummiesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamlychee": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chocolatemilkshakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "meringueitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamlettucecrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zucchiniseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blueberryjellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cantonesenoodlesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "raspberrytrifleitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rootbeersodaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rawtofabbititem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "windygarden": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pambeancrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cookedtofuttonitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "limeyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamcurryleafcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamchickpeacrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "teaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jamrollitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sausageitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hardenedleatherchestitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamcantaloupecrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peppermintitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "agaveitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "breadfruititem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "honeysandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamstrawberrycrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fairybreaditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cottagepieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamoatscrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dateitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carrotcake": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peachesandcreamoatmealitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cookedtofishitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zucchinibreaditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arrowrootseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gravlaxitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rivermudcakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pampapaya": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "presser": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "strawberryitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lettuceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "holidaycakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fig_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cinnamonitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "southernstylebreakfastitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamfig": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mapleoatmealitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pammango": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pekingduckitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plumjellysandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crackeritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "barleyseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tomatilloitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "veggiebaititem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cherryjellysandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "saucepanitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kiwiitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pammaple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cornedbeefbreakfastitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cornflakesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "imagawayakiitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "oliveitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "baconpancakesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cookedtofeakitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "epicbltitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pumpkinbreaditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sweetteaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "salmononigiriitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bbqjackfruititem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "curryleafseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grapejellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "babaganoushitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamgarliccrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "liverandonionsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cantaloupeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "merveilleuxitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "creeperwingsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamapple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cashew_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "potatosaladitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "groiledcheesesandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "applecideritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pistachiobakedsalmonitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rhubarbseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eggnogitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carrotcupcakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "greenteaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pickledbeetsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lycheeteaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "akutuqitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "saucedlambkebabitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "riceseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cinnamon_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "almondbutteritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "honeybreaditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poachedpearitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peachcobbleritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamhazelnut": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "persimmonjellysandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pistachioicecreamitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamjicamacrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "calamarirawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bentoboxitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chikorollitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamrutabagacrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mochaicecreamitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "asparagussoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "figjellysandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamchilipeppercrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frogcookeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rawtofenisonitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peachjellysandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonfruit_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mushroomsteakitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "persimmonitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bananamilkshakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cassavaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamcabbagecrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "roastedpumpkinseedsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apple_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chickenchowmeinitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eggtartitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zucchinifriesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "okracreoleitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cinnamonrollitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "soysauceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "waxcomb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "californiarollitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "energydrinkitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mixedsaladitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cranberrybaritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "juiceritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamhuckleberrycrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chocolatecoconutbaritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gingerseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamdurian": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hotchocolateitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pumpkincheesecake": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "snickersbaritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sundayroastitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chilipepperseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "meatfeastpizzaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "figitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "musselrawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hamandcheesesandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "swedishmeatballsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "anchovyrawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shippingbin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "holidaycake": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "oldworldveggiesoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cinnamonbreaditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "asparagusquicheitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamwalnut": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "strawberrycupcakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "raspberryjellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mustardseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pawpawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mochiitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peanutseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "meringuerouladeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "oystercookeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beansontoastitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "padthaiitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apiary": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sweetpotatosouffleitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sisalitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gooseberrysmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "marzipanitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candiedsweetpotatoesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tatertotsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vanillaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sweetandsourchickenitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cherrysmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bubbleteaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sisalseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lemoncupcakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cranberryseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "saltedsunflowerseedsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "guisoitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pavlovaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamlime": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apricotyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "toastitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jelliedeelitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cinnamonappleoatmealitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cornitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gardensoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spicebunitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deluxenachoesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "salmonpattiesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chorusfruitsoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eggplantseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jicamaseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mincepieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turnipsoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamdate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cashewchickenitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cookedtofuduckitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "applesmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brusselsproutitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mango_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "starfruititem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apricot_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plumjuiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fruitpunchitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cauliflowerseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carrotsoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "duckcookeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "passionfruititem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pineapplehamitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "schnitzelitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "toastedwesternitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "summerradishsaladitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pumpkinmuffinitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grilledmushroomitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spagettiandmeatballsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deviledeggitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grapefruititem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "groundduckitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leekbaconsoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lamingtonitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bamboosteamedriceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "heartybreakfastitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "watermelonjellysandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pineappleitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "marshmellowsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lentilseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chocolatebaritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pistachioitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mettbrotchenitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chocolaterollitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "potitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pear_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vegemiteontoastitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pepperjellyandcrackersitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sausagebeanmeltitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apricotglazedporkitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dandelionsaladitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mushroomlasagnaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sprinklescupcakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "friedchickenitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "porklettucewrapitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blueberrymuffinitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lambbarleysoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "splitpeasoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blackberryjellysandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cheddarandsourcreampotatochipsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "onionsoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peppercornitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rawtofurkeyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pineappleupsidedowncakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mushroomketchupomeletitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chilicupcakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rawtofaconitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "popcornitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "boiledeggitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lime_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "parsnipitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apricotitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grapeyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mintchocolatechipicecreamitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pambroccolicrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sweetpotatopieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "caramelappleitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sushiitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cantonesegreensitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cornishpastyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vindalooitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pambellpeppercrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "raspberryitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cashewbutteritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crackersitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blackberryjellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gourmetvenisonburgeritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamartichokecrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cornseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "raspberryjellysandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wintersquashitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tiropitaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pumpkinspicelatteitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chocolatesprinklecakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "takoyakiitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lambkebabitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "toastedsesameseedsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cactussoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lemondrizzlecakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "applejuiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "starfruit_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "roastchickenitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "strawberryjellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grapejuiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rhubarbitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "groundnutmegitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "walnutitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "loadedbakedpotatoitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bolognasandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spidereyesoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pistachio_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "queenbeeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gourmetmuttonpattyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "strawberrysmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamlentilcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "papayajellysandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "creamofavocadosoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redvelvetcakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "onionitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "extremechiliitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coconutsmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamcassavacrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamtamarind": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "limejellysandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gourmetbeefburgeritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "honeysoyribsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pampistachio": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fruitsaladitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jaffaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "baconcheeseburgeritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "applejellysandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candiedwalnutsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamcoffeebeancrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sweetandsourmeatballsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lemonlimesodaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chaiteaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cherryslushieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "applefritteritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "octopuscookeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pancakesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamgooseberry": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pomegranateyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zombiejerkyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sunflowerbroccolisaladitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "whitemushroomitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "orangesmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamgrapefruit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leafyfishsandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "musselcookeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pastaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coconutcreamitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cocoapowderitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lemonaideitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "salisburysteakitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candiedgingeritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peasandceleryitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "minerstewitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "asparagusseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "maplesyruppancakesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bellpepperseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamcucumbercrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "banana_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "waterchestnutseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grouperrawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "corndogitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chimichangaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chocolateorangeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "strawberryrhubarbpieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shrimptemperaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chocolatecaramelfudgeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nachoesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generaltsochickenitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cherrysodaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ricepuddingitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "figsmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pemmicanitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gummybearsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "picklesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ricesoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ovenroastedcaulifloweritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "potstickersitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "baconmushroomburgeritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cottonseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bakedbeansitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "summersquashwithradishitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spicymustardporkitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pampeanutcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "orangejuiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blackberryjuiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pampersimmon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "briochebunitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chickenandwafflesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jellyfishrawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mozzerellasticksitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "broccoliseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "appleyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cookedtofeegitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chocovoxelsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lemonjellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lemon_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tomatoitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deluxecheeseburgeritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cheesecake": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peanutbuttercupcakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glazedcarrotsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "friedfeastitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "oystersauceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "raspberryseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wintersquashseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "futomakiitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "troutrawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "walnut_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bananasmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peasseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamcorncrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "asparagusitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mixingbowlitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pavlovacake": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "parsnipseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pearjuiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shrimpcookeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "garlicitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grilledskewersitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "escargotitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "date_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rawtofuttonitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamwintersquashcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pambarleycrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "guava_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "applesauceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chipsanddipitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seaweedseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pampomegranate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "meatpieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cinnamonsugardonutitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "soursop_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silkentofuitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cactusfruititem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trailmixitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "raspberryicedteaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vanillayogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "roastpotatoesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lemonchickenitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chestnut_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamblueberrycrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turkeyrawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "potatoandleeksoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pinacoladaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hotdogitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chocolatebaconitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "banananutbreaditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coleslawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bambooshootseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cornedbeefitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mangoitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "noodlesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lemonbaritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cookedtofurkeyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "springsaladitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "porksausageitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pearsmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamblackberrycrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "market": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turnipseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cherrypieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beetitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lasagnaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "snapperrawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pralinesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cranberryjellysandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nopalessaladitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rawtofickenitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamjackfruit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vegemiteitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "refriedbeansitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "batteritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "croissantitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chocolatemilkitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "raspberrysmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "orangejellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hotwingsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cassouletitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cheesecakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cactusfruitseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "venisonrawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "groundturkeyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "almonditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "breakfastburritoitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "berrymeringuenestitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gumboitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cherryitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crayfishrawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steamedpeasitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamtealeafcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamricecrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elderberryseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamstarfruit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pumpkinyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plum_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cherry_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cevicheitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "netherstartoastitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamsisalcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lycheeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chickengumboitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pearjellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "broccoliitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "potatoesobrienitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pampear": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tunafishsandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frosteddonutitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peanutbuttercookiesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamdragonfruit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cheeseburgeritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cornbreaditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamwhitemushroomcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chipsandsalsaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fishtrapbaititem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamcashew": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "riceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pumpkinsoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bakedhamitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mashedpotatoeschickenbiscuititem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamchestnut": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "curryleafitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gherkinitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "breadfruit_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "softpretzelitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "avocado_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turkishdelightitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quesadillaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamnutmeg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "raspberrypieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tunapotatoitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tomatosoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "roastedchestnutitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coffeecupcakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "firmtofuitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "strawberryjuiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "saltitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eelrawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sesamesnapsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beanseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bbqpotatochipsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamcinnamon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "creamedcornitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamkenafcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "supremepizzaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zeppoleitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peppercorn_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rouxitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "orangechickenitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grapefruityogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cuttingboarditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beansandriceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seedsoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clamrawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tortillaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pampaperbark": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "strawberrysouffleitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sweetpotatoseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plumsmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "groundfishitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ediblerootitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chickenpotpieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bellpepperitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "garlicchickenitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamseaweedcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mudfishrawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mashedpotatoesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "durianmuffinitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pressedwax": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plumyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "celeryseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plumjellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "honeyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "springrollitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamcottoncrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "teriyakichickenitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hardenedleatherleggingsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "greengrapeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chocolatecupcakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quinoaseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "starfruitjuiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thankfuldinneritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "celeryitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "limesmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peaandhamsoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "raspberrymilkshakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "groundvenisonitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "okraitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "orangejellysandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candleberryseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cherryicecreamitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "groundporkitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamrhubarbcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamelderberrycrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chickpeaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fishlettucewrapitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fivespiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bltitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "meatloafsandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eggplantitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kaleitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mashedsweetpotatoesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plainyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pampecan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spinachseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "melonsmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chickencurryitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gooseberryitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cookiesandmilkitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamcauliflowercrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamtarocrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "starfruityogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "oliveoilitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peanutbuttercupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spiceleafitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eggsbenedictitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "artichokeseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "persimmonyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carprawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grubitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hamburgeritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pinkelitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vanillaicecreamitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "caulifloweritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "baconandeggsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "saladdressingitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pickledonionsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hamsweetpicklesandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chickenbiscuititem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "caramelitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamolive": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frostgarden": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "garliccoinitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pineappleseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beeswaxitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cheeseitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stockitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grilledcheesevegemitetoastitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "timpanoitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crispyricepuffcerealitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "celeryandpeanutbutteritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "celerysoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cucumberitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kiwijellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamapricot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gritsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "taffyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pbandjitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zucchiniitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gingeritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coffeebeanitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "meatystewitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "soymilkitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sunflowerseedsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "applesnowitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blueberrypieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fruitcreamfestivalbreaditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "orangeyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cracklinsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beetburgeritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "freshmilkitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zucchinibakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kohlundpinkelitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamturnipcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gingeredrhubarbtartitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slimepieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "paneeritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bambooshootitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chocolateicecreamitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "springfieldcashewchickenitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hazelnutitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cinnamontoastitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamkohlrabicrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rosepetalteaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "keylimepieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tamarinditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frograwitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "calamaricookeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamavocado": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lemonjellysandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "szechuaneggplantitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bbqsauceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gingerchickenitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spiderweb_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shrimprawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chilichocolateitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "potatoandcheesepirogiitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "melonjuiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beetsaladitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gourmetporkburgeritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pizzasoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peanutitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "strawberryyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "meringuebrownieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "strawberrymilkshakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "papayayogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seedenergygelitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cookedtofickenitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shrimpcocktailitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chiliitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bolognaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "raisincookiesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coconutshrimpitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "venisoncookeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "strawberryjellysandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "meatloafitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pampassionfruit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chocolatedonutitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peasitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gourmetmuttonburgeritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vanillacupcakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "damperitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "honeybunitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coconutyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pampawpaw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mortarandpestleitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cheezepuffsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mintcupcakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "okrachipsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blueberrysmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tomatoherbchickenitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shrimpokrahushpuppiesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rawtofishitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "durianitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "milletitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "toastedcoconutitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flaxitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "musubiitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "limeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "museliitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "agaveseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamokracrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pomegranateitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sausageinbreaditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "papayasmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "garlicbreaditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hushpuppiesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poutineitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rawtofeakitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pampeach": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frenchtoastitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "honeycombchocolatebaritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kohlrabiseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "orangeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sunflowerwheatrollsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sesameseedsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "oysterrawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pampineapplecrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skilletitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "juteseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cornonthecobitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wovencottonitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "barleyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "taroitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "veggiestripsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamquinoacrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tunarawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "phoitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamtomatocrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stuffingitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "doughitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pepperoniitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "monsterfrieddumplingsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peachsmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "veggiestirfryitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "butteritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blueberryseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "maplecandiedbaconitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "festivalbreaditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sugarcookieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gooseberryjellysandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sesameoilitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "surfandturfitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manjuuitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clamchowderitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lamingtoncake": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamkalecrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coffeeconlecheitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brownieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tomatoseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lychee_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gingersodaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "misosoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pitepaltitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wontonsoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jambalayaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pomegranate_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonfruititem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamguava": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "huckleberryseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamcactusfruitcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lettuceseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arrowrootitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "haggisitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slawdogitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chocolatestrawberryitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "garammasalaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hoisinsauceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "orangeduckitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pearitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kiwijuiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crayfishcookeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "creepercookieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chickennoodlesoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gooseberryjellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pambambooshootcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crabcookeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kaleseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "buttertartitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cheesesteakitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coconutitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biscuititem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "epicbaconitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "durian_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bakedbeetsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamsoybeancrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "broccolimacitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ryeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spinachitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rainbowcurryitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weekendpicnicitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "meesuaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beefjerkyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vegetarianlettucewrapitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redvelvetcake": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cassavaseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fishandchipsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crispyricepuffbarsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pecanitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamryecrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "soursopitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gigapickleseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blueberryjellysandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "persimmon_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamarrowrootcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "friedgreentomatoesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "juniperberryseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gravyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "meatystirfryitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamorange": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gooseberrypieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "naanitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "radishitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mushroomrisottoitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rawtofuduckitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "harvestpumpkinitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "passionfruit_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "onionhamburgeritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seaweeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hashitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apricotjellysandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mangosmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cucumbersoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamflaxcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grainbaititem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamgreengrapecrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pambanana": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pambrusselsproutcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kimchiitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pammustardseedscrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamcherry": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bbqpulledporkitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crawfishetoufeeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ketchupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "creamedbroccolisoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "melonyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stuffedduckitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "porklomeinitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cranberryjellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charrrawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "juteitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peach_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lentilitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "honeyglazedhamitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carrotcakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pecanpieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zestyzucchiniitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamlemon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cherrycoconutchocolatebaritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grapefruitsmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kalechipsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pineappleupsidedowncake": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cantaloupeseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "salsaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grilledcheeseitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "limejellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rutabagaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hotandsoursoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamtomatillocrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "milletseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "orangesodaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elderberryitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mangojuiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apricotjellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "paneertikkamasalaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cherryjuiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stuffedmushroomitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "friedonionsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cherrycheesecakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cottoncandyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nutellaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pistachiobutteritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dhalitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candiedlemonitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cucumberseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vinegaritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamgigapicklecrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coleslawburgeritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "maple_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bangersandmashitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sauerbratenitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hazelnut_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "garlicmashedpotatoesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carrotjuiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pearjellysandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "berryvinaigrettesaladitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crabrawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lemonyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "papayajuiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scallionbakedpotatoitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "randomtacoitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bakedsweetpotatoitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "batteredsausageitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eggplantparmitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blueberryyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cookedtofaconitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cookedtofenisonitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chocolateyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fishsandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamspiderweb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "raspberryjuiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mustarditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lavendershortbreaditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "snailcookeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "meringuebombeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smoresitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mushroomketchupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "freshwateritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "groundcinnamonitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hamandpineapplepizzaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spidereyepieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fishsticksitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "strawberrysaladitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steakandchipsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scallionseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "juniperberryitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cashewitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "garlicseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "creamcookieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spumoniicecreamitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamsweetpotatocrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aridgarden": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "avocadoitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "potatochipsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "huckleberryitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pumpkinoatsconesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chickencelerycasseroleitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coffeeseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "meringuecookieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tacoitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dimsumitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "friedeggitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bbqchickenpizzaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sardinerawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bananaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kenafitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eggsaladitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "buttercookieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rutabagaseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blueberrypancakesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bananayogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "raisinsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "friesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blackpaellaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dangoitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gooseberrymilkshakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hardenedleatherhelmitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "footlongitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chaoscookieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "driedsoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sundayhighteaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamleekcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grapefruitjellysandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "snailrawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gyudonitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "taiyakiitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "honey": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pumpkincheesecakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "applepieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "breadedporkchopitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peachitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "soybeanitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fruitcrumbleitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mochicakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamagavecrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cabbageitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lemonitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chocolatesprinklecake": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pepperjellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "whitemushroomseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamalmond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mcpamitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candledeco7": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kiwismoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candledeco6": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candledeco9": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candledeco8": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pampeascrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candledeco3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candledeco2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cookedgrubitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candledeco5": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "onionseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bubblywateritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candledeco4": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candledeco1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wafflesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ceasarsaladitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "strawberrypieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sweetpickleitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cheesyshrimpquinoaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grilledeggplantitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pambitsboxitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamjutecrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pizzasliceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hotdishcasseroleitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "durianmilkshakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chocolatepuddingitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apricotsmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "persimmonjellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jellybeansitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pammilletcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "avocadoburritoitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamscallioncrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ironbrewitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pammulberrycrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tropicalgarden": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rambutanitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pizzaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "groundbeefitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "radishseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coconut_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "duckrawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "octopusrawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jellydonutitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sausagerollitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pomegranatejellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "yorkshirepuddingitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grapefruitsodaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stuffedeggplantitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "greenheartfishitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leekitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rambutan_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "maplesyrupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grapeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "waxcombitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clamcookeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "candleberryitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kenafseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blackberrycobbleritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "orange_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blackberrysmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "strawberrysodaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amaranthitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "caramelicecreamitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "greengrapeseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blazingsoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bbqplatteritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cactusfruitjuiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "porkrindsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sesameseedsseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lemonmeringueitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "timtamitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamcandleberrycrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "persimmonjuiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mayoitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cornedbeefhashitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "guacamoleitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "starfruitsmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "potatosoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coconutmilkitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brusselsproutseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peachjellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fishtacoitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "omeletitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crabkimbapitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "catfishrawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "citrussaladitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mangochutneyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "figjuiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "powdereddonutitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grapesodaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cranberrysauceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fiestacornsaladitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "garlicsteakitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steakfajitaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grapefruitjuiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rootbeerfloatitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamjuniperberrycrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rawtofeegitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chilipoppersitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "imitationcrabsticksitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vegetablesoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cookedtofabbititem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamcranberrycrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coffeeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grapesaladitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quinoaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamamaranthcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pomegranatejuiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biscuitsandgravyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redvelvetcupcakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amaranthseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "threebeansaladitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beetsoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vanillaconchasbreaditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bakedcactusitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamwaterchestnutcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peachjuiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "friedpecanokraitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "froglegstirfryitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "strawberryseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "watertrap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamrambutan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamparsnipcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamcoconut": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "waterchestnutitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamcelerycrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shadedgarden": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jicamaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "honeycombitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blackberryitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lemonsmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gourmetbeefpattyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dandelionteaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "baconwrappedchiliitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deluxechickencurryitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pecan_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "marinatedcucumbersitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "colasodaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "squidinkspaghettiitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamasparaguscrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kiwiyogurtitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scallionitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamsesameseedscrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ramenitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flaxseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "donutitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "misopasteitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grapefruit_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steamedspinachitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "maplesyrupwafflesitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "etonmessitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chilipepperitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vanillabeanitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cranberrysmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "honeylemonlambitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cherryjellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turkeycookeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fruitcakeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "starfruitjellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cranberryjuiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "marshmellowchicksitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "herbbutterparsnipsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mulberryseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chilidonutitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamvanillabean": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "eggrollitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sweetpotatoitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peanutbutteritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fishdinneritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beanburritoitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "maplesausageitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nutmeg_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apricotjuiceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stuffedpepperitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mangojellyitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cucumbersaladitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "omuriceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plumitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "perchrawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pomegranatesmoothieitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bbqchickenbiscuititem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamradishcrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "friedriceitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steaktartareitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hotcocoaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "homestylelunchitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mobsoupitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chickencordonbleuitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grinder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kohlrabiitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "soggygarden": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "anchovypepperonipizzaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "enchiladaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chickenparmasanitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chickenkatsuitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charsiuitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tortillachipsitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grapeseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "friedbolognasandwichitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chickendinneritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "papayaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mulberryitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pamzucchinicrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "soybeanseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bakedalaskaitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fruitbaititem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tilapiarawitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glisteningsaladitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kiwiseeditem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "succotashitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

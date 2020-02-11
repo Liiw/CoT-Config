@@ -1,0 +1,14 @@
+{
+  "icon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stacks_decorative": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

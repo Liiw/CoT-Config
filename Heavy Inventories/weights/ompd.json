@@ -1,0 +1,26 @@
+{
+  "camo_trap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hardened": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

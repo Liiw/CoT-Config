@@ -1,0 +1,848 @@
+{
+  "orphaning_card": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage_terminal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glowing_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "matter_booster": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "featherfallingplus_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flight_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peaceful_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "regeneration_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "liquid_monitor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "space_chamber_card": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elevator_button_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "saturationplus_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elevator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "projector": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "powercell_card": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scanner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "powercell_advanced": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "machine_infuser": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pearl_injector": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "screen_hitblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "support_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "waterbreathing_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "endergenic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rftools_shape_manual": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blindness_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "security_manager": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redstone_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "camo_shield_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "modifier_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "network_monitor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "solid_shield_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smartwrench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "analog_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "camo_shield_block_opaque": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "machine_base": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "computer_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "speedplus_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "invchecker_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_filter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_template_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "remote_storage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "space_chamber_controller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "booster": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "developers_delight": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "security_card": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "counter_block": [
+    {
+      "offset": 0.5,
+      "weight": 2.0
+    }
+  ],
+  "charged_porter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wire_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "space_chamber": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "builder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "counter_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dump_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "notick_camo_shield_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "peace_essence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "machineinformation_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infused_diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_protector": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "composer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dimensional_shard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coalgenerator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spawner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "button_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "inventoryplus_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "notick_solid_shield_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "matter_beamer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shape_card": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rf_monitor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage_control_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shard_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "solid_shield_block_opaque": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nightvision_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "powercell": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "featherfalling_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "machine_frame": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "notick_solid_shield_block_opaque": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "screen": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "saturation_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "logic_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "digit_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage_scanner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weakness_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "screen_controller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "teleport_probe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rftools_manual": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "invisible_shield_block_opaque": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_block2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_block1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "energy_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_block4": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_block3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "level_emitter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "notick_camo_shield_block_opaque": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "simple_dialer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "counterplus_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "noteleport_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dimensional_shard_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "modular_storage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "oredict_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redstone_transmitter_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "powercell_creative": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "locator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redstone_receiver_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "powercell_simple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "energyplus_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluidplus_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "haste_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "filter_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generic_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "matter_transmitter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "invisible_shield_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "notick_invisible_shield_block_opaque": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "text_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "poison_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syringe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "inventory_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slowness_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "notick_invisible_shield_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "matter_receiver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "regenerationplus_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "infused_enderpearl": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "speed_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dialing_device": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "luck_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "timer_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "relay": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "destination_analyzer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hasteplus_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "advanced_charged_porter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clock_module": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "creative_screen": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ender_monitor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crafter1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crafter2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crafter3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "environmental_controller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sequencer_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage_module_tablet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sensor_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "remote_scanner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

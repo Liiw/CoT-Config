@@ -1,0 +1,38 @@
+{
+  "visualiser": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "inscriber": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wireless": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wireless_kit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "encoder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

@@ -1,0 +1,890 @@
+{
+  "btcivil_vehicle_unu_fl124lcc_2084_ocean": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_cp497ltc_2089_sedan_mint": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_emergencyvehicle_unu_rs702ltc_2095_secretpolice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_tr119mcc_2086_seaweed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_im510ltc_2092_sedan_emerald_manilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_gm600ltc_2095_sedanrhd_chocolate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_ct112lcc_2095_towtruck_manilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_dg930mtc_2083_blackthorne": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_emergencyvehicle_unu_sb728ltc_2091_police": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_im510ltc_2092_sedan_ford_apple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rs702ltc_2095_rhd_apple_manilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_cp497ltc_2089_sedan_ivory": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_cp497ltc_2089_wagonrhd_apple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_trailer_unu_short_unu": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_ss120ltc_2089_ocean": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_trailer_unu_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_sb728ltc_2091_ocean": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_ct112lcc_2095_pickup_olive": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_dg930mtc_2083_moonspire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_cp497ltc_2089_wagonrhd_ivory": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rj618lcc_2089_truck_apple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_gm600ltc_2095_limo_seaweed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_trailer_unu_short_moonspire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_fl124lcc_2084_lemon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_im510ltc_2092_sedan_ocean_manilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_trailer_unu_tank_moonspire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rs702ltc_2095_rhd_emerald_manilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_cp497ltc_2089_wagonrhd_ocean": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_gm600ltc_2095_sedan_ford": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_ss120ltc_2089_lemon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_gm600ltc_2095_limo_ford": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rj618lcc_2089_van_flowers": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rs702ltc_2095_seaweed_manilla_stripe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_tb313mcc_2084_moonspire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_im510ltc_2092_sedan_ivory_manilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_ak727hcc_2088_moonspire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_ct112lcc_2095_pickup_ocean": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_im510ltc_2092_wagonw_seaweed_manilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_vp102ltc_2090_seaweed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_cp497ltc_2089_sedanrhd_mint": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rs702ltc_2095_rhd_emerald_manilla_stripe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_sv313mcc_2084_gramadosbank": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_emergencyvehicle_unu_lt123hcc_2089_sunflower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_xdpl1007_2099_sedan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_emergencyvehicle_unu_im510ltc_2092_sedan_police": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_airship_unu_lz131hta_2095": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_emergencyvehicle_unu_cp497ltc_2089_sedan_police": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_tb313mcc_2084": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_trailer_unu_standard_decor_moonspire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_cp497ltc_2089_wagon_ocean": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_cp497ltc_2089_wagonrhd_olive": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_tread_ss120ltc": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_ct112lcc_2095_pickup_ford": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_gm600ltc_2095_sedanrhd_ford": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_emergencyvehicle_unu_rs702ltc_2095_police": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_im510ltc_2092_wagonw_lemon_manilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_ct112lcc_2095_pickup_manilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rj618lcc_2089_truck_tungsten": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_trailer_unu_standard_unu": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_emergencyvehicle_unu_tb313mcc_2084_firetruck_apple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unuparts_part_unu_engine_j1018tjx2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_cp497ltc_2089_wagon_olive": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_trailer_unu_standard_decor_unu": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rs702ltc_2095_ford_apple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_sb728ltc_2091_manilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rs702ltc_2095_rhd_ford_manilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_sv313mcc_2084_btutilities": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rs702ltc_2095_ivory_manilla_stripe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_fl124lcc_2084_olive": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rj618lcc_2089_van_ivory": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_cp497ltc_2089_sedan_ford": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_gm600ltc_2095_sedan_seaweed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_im510ltc_2092_wagonw_saddle_manilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_vp102ltc_2090_sea": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_im510ltc_2092_wagonw_manilla_saddle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_ct112lcc_2095_towtruck_ocean": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rj618lcc_2089_van_connie": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_tr119mcc_2086_ocean": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_im510ltc_2092_sedan_apple_manilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_ss120ltc_2089_sea": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rj618lcc_2089_van_unuparts": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_cp497ltc_2089_sedanrhd_tungsten": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_im510ltc_2092_wagon_ocean_manilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_im510ltc_2092_sedan_ford_manilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_sv313mcc_2084_rail_mtssignallingco": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_sv313mcc_2084_unu": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_im510ltc_2092_wagon_apple_manilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rj618lcc_2089_van_publichealth": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rs702ltc_2095_apple_manilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_gm600ltc_2095_limo_blackthorne": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_emergencyvehicle_unu_cp497ltc_2089_wagon_police": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_emergencyvehicle_unu_im510ltc_2092_wagon_medic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rs702ltc_2095_emerald_manilla_stripe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_emergencyvehicle_unu_im510ltc_2092_sedan_secretpolice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_trailer_unu_standard_moonspire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_sb728ltc_2091_sea": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rs702ltc_2095_rhd_ivory_manilla_stripe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_ct112lcc_2095_towtruck_sea": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rs702ltc_2095_rhd_ford_apple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_emergencyvehicle_unu_im510ltc_2092_wagon_police": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_tr119mcc_2086_ivory": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rj618lcc_2089_van_ford": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_cp497ltc_2089_wagon_apple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_cp497ltc_2089_sedanrhd_ford": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rj618lcc_2089_van_ocean": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_fl124lcc_2084_elementia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rj618lcc_2089_van_mmm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_im510ltc_2092_sedan_navy_manilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_cp497ltc_2089_sedan_tungsten": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_dd228htc_2085": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rj618lcc_2089_truck_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rj618lcc_2089_van_trin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_gm600ltc_2095_sedanrhd_seaweed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_cp497ltc_2089_wagon_ivory": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_im510ltc_2092_sedan_chocolate_manilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_cp497ltc_2089_sedan_taxi": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_trailer_unu_tank_unu": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_ct112lcc_2095_pickup_sunflower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_vp102ltc_2090_apple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_trailer_unu_lt123hcc_2089_apple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_im510ltc_2092_wagonw_olive_saddle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_tr119mcc_2086_apple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_ct112lcc_2095_towtruck_ivory": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rj618lcc_2089_van_tungsten": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_ss514hta_2094_blackthorne": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_vp102ltc_2090_lemon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rs702ltc_2095_emerald_manilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rs702ltc_2095_ford_manilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_emergencyvehicle_unu_lt123hcc_2089_apple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rj618lcc_2089_truck_olive": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_ct112lcc_2095_pickup_apple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_ct112lcc_2095_pickup_ivory": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_ct112lcc_2095_pickup_saddle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_im510ltc_2092_wagon_silver_manilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_gm600ltc_2095_sedan_moonspire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_ak727hcc_2088": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_gm600ltc_2095_sedan_unu": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rs702ltc_2095_rhd_seaweed_manilla_stripe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_sb423mtc_2082_sunflower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_ss514hta_2094_moonspire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_gm600ltc_2095_sedan_blackthorne": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_ss120ltc_2089_apple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_sb728ltc_2091_olive": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_emergencyvehicle_unu_tb313mcc_2084_firetruck_sunflower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_rj618lcc_2089_van_dvc": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_gm600ltc_2095_sedan_chocolate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_vehicle_unu_cp497ltc_2089_sedanrhd_ivory": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "btcivil_trailer_unu_lt123hcc_2089_sunflower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

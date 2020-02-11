@@ -1,0 +1,158 @@
+{
+  "security_terminal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "keypad": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rolldoor_controller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "energy_upgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nanodna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cooldown_upgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "secure_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alarm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rfid_reader": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "door_controller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rolldoor_element": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "damage_upgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rfid_card": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rolldoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "movement_upgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "card_writer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mag_reader": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "data_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "private_secure_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rfid_reader_card": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "entity_detector": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "energy_turret": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mag_card": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nanofog_terminal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biometric_reader": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nanofog": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

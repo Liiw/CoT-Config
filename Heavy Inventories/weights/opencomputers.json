@@ -1,0 +1,272 @@
+{
+  "waypoint": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "robotafterimage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "transposer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "motionsensor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hoverboots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "casecreative": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "geolyzer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "netsplitter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chameliumblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "robot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "screen2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "screen3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "screen1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "endstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cable": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diskdrive": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "misc": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "case1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "keyboard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "case2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rack": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "adapter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "case3": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "upgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpetedcapacitor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "powerdistributor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "printer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "relay": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "assembler": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hologram2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "disassembler": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hologram1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wrench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "capacitor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "component": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "microcontroller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "print": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charger": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "material": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "powerconverter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "card": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "raid": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

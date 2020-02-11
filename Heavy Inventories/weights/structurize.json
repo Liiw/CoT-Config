@@ -1,0 +1,506 @@
+{
+  "blocktimberframe_spruce_horizontalnocap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockshingle_acacia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_jungle_onecrossedrl": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockshingle_jungle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_acacia_horizontalplain": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_dark_oak_downgated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_oak_framed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_birch_plain": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_jungle_sideframed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_acacia_framed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_acacia_onecrossedrl": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_oak_horizontalplain": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_birch_horizontalplain": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_spruce_onecrossedrl": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_oak_onecrossedlr": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_jungle_horizontalnocap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockshingle_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockshingle_spruce": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_jungle_gateframed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_dark_oak_onecrossedrl": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockshingleslab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockcactusdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_birch_doublecrossed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_jungle_horizontalplain": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_spruce_onecrossedlr": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_dark_oak_horizontalnocap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockshingle_birch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockcactusslab_half": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_birch_sideframed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_acacia_doublecrossed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_dark_oak_horizontalplain": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_jungle_doublecrossed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_jungle_framed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockshingle_dark_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_birch_framed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cactusdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockcactusplank": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockcactusslab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_spruce_horizontalplain": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_acacia_onecrossedlr": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_acacia_horizontalnocap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockpaperwall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_spruce_doublecrossed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_dark_oak_doublecrossed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_dark_oak_framed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_oak_plain": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_oak_gateframed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockcactusfencegate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockcactusstair": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_jungle_downgated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_oak_onecrossedrl": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_spruce_gateframed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_dark_oak_plain": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_dark_oak_gateframed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "caliper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockcactustrapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_spruce_downgated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_spruce_framed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_spruce_sideframed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "multiblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_oak_horizontalnocap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_birch_gateframed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_spruce_plain": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_birch_downgated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_birch_onecrossedrl": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sceptersteel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_birch_horizontalnocap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shapetool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_acacia_plain": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_oak_downgated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_acacia_gateframed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_birch_onecrossedlr": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_jungle_plain": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_oak_doublecrossed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_acacia_downgated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sceptergold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocksubstitution": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_dark_oak_onecrossedlr": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockcactusfence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_oak_sideframed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_acacia_sideframed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_jungle_onecrossedlr": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocksolidsubstitution": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktimberframe_dark_oak_sideframed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}
