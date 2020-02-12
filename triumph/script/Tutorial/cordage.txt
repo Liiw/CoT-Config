@@ -1,16 +1,16 @@
 
-addParent("Stone:twig")
+addParent("Tutorial:twig")
 
 //Set icon item
-setIcon(<minecraft:stick>)
+setIcon(<basketcase:item_cordage>)
 
 //Set title String
-setTitle("Sticky business")
+setTitle("Show me the ropes")
 
 //Set description String
-setDescription("Make a stick by combining two twigs")
+setDescription("Make cordage")
 
-hiddenUnless("Stone:twig")
+hiddenUnless("Tutorial:twig")
 
 //Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
 setShowToast(false)
@@ -19,8 +19,8 @@ setShowToast(false)
 setAnnounceToChat(true)
 
 //Set the position
-setPos(100,0)
+setPos(100,-50)
 
 criteria = addCriteria("craft_item", "triumph:player_crafted_item")
-criteria.setItem(<minecraft:stick>)
+criteria.addItem(<basketcase:item_cordage>)
 

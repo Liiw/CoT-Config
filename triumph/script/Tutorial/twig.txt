@@ -1,5 +1,5 @@
 
-addParent("Stone:root")
+addParent("Tutorial:root")
 
 //Set icon item
 setIcon(<basketcase:item_twig>)

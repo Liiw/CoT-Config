@@ -1,2 +1,2 @@
-gamestage silentadd @p stone_1
-recipe give @p *
+gamestage silentadd @p stone_2
+mpa notify @p stoneage

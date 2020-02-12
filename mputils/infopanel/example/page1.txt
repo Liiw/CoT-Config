@@ -1,13 +1,8 @@
-Info panels allow you to write tutorials, welcome messages, or any type of information you would like to add into the game.
+Welcome to this Brave New World , Sentient One!
 
-If you just want it to start up on first world load. add §e'loadOnLogin:true'§r to your infopanel json file.
+This world has many secrets to uncover and many trades to master. May Tahavola shine His light unto you in your endeavours of taming it!
 
-You can also use minecraft books to open the gui. All you have to do is create a minecraft book with nbt data. §9 '{infopanel:<json file name>}' 
-§e~~Command Example (For welcome.json example):§9 /give <player name> minecraft:book 1 0 {infopanel:welcome}§r
+If you find yourself lost without direction, press the "L" key to open the advancements screen. Perhaps there you will something to guide you on your way.
 
-A quicker command to give the command sender a book for a specfic infopanel. '/mpadmin infopanel <playername> <giveBook/opengui> <json file name>', Auto complete is set up to help you out.
 
-If you have load on login true, And you want it to retrigger with a new modpack update, just change the json file name.
-
-§cFiles are read in UTF-8 Encoding! So if you get strange characters. Your file may be the incorrect encoding. Using a tool like Notpad++ will tell your encoding in the bottom right corner. And in a dropdown you can convert the text file. Some editing my be needed. §r
-						  §l§9Click Next for more info on infopanels...
+Also try not to kill yourself til you die to death overdose ;)

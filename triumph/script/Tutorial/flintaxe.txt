@@ -1,7 +1,7 @@
 
-addParent("Stone:stick")
-addParent("Stone:flint")
-addParent("Stone:cordage")
+addParent("Tutorial:stick")
+addParent("Tutorial:flint")
+addParent("Tutorial:cordage")
 
 //Set icon item
 setIcon(<tconstruct:hatchet>)
@@ -15,9 +15,9 @@ setTitle("Get to da choppa")
 setDescription("Make a flint axe by combining flint, cordage and some sticks")
 
 
-hiddenUnless("Stone:stick")
-hiddenUnless("Stone:flint")
-hiddenUnless("Stone:cordage")
+hiddenUnless("Tutorial:stick")
+hiddenUnless("Tutorial:flint")
+hiddenUnless("Tutorial:cordage")
 
 //Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
 setShowToast(false)
