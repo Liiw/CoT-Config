@@ -19,7 +19,7 @@ setBackground("minecraft:textures/gui/advancements/backgrounds/adventure.png")
 setShowToast(false)
 
 //Set the advancement to send a chat message when it is achieved.
-setAnnounceToChat(true)
+setAnnounceToChat(false)
 
 //Set the position
 setPos(0,0)
@@ -27,5 +27,7 @@ setPos(0,0)
 //Adds criteria
 criteria = addCriteria("get_item", "minecraft:inventory_changed")
 criteria.addItem("minecraft:cobblestone")
+
+
 
 setRewardFunction("Stone:start")

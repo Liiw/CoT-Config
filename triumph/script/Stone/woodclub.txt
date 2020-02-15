@@ -1,16 +1,16 @@
 
-addParent("Tutorial:twig")
+addParent("Stone:root")
 
 //Set icon item
-setIcon(<minecraft:stick>)
+setIcon(<primal_tech:wood_club>)
 
 //Set title String
-setTitle("Sticky business")
+setTitle("Let's Go Clubbing!")
 
 //Set description String
-setDescription("Make a stick by combining two twigs")
+setDescription("Get a wooden club. You can get bone shards by clubbing animals")
 
-hiddenUnless("Tutorial:twig")
+
 
 //Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
 setShowToast(false)
@@ -19,8 +19,10 @@ setShowToast(false)
 setAnnounceToChat(true)
 
 //Set the position
-setPos(100,0)
+setPos(50,0)
 
-criteria = addCriteria(""get_item"", "minecraft:inventory_changed")
-criteria.setItem(<minecraft:stick>)
+setRequirements("any");
+
+criteria = addCriteria("get_woodclub", "minecraft:inventory_changed")
+criteria.addItem("primal_tech:wood_club")
 

@@ -998,19 +998,10 @@ geolosys:cluster:10, geolosys.cluster.zinc.name
 geolosys:cluster:11, geolosys.cluster.yellorium.name
 geolosys:cluster:12, geolosys.cluster.osmium.name
 geolosys:field_manual, item.geolosys.field_manual.name
-geolosys:ingot:0, geolosys.ingot.copper.name
-geolosys:ingot:1, geolosys.ingot.tin.name
-geolosys:ingot:2, geolosys.ingot.silver.name
-geolosys:ingot:3, geolosys.ingot.lead.name
-geolosys:ingot:4, geolosys.ingot.aluminum.name
-geolosys:ingot:5, geolosys.ingot.nickel.name
-geolosys:ingot:6, geolosys.ingot.platinum.name
-geolosys:ingot:7, geolosys.ingot.zinc.name
 geolosys:coal:0, geolosys.coal.peat.name
 geolosys:coal:1, geolosys.coal.lignite.name
 geolosys:coal:2, geolosys.coal.bituminous.name
 geolosys:coal:3, geolosys.coal.anthracite.name
-geolosys:pro_pick, item.geolosys.pro_pick.name
 geolosys:coal_coke:0, geolosys.coal_coke.lignite.name
 geolosys:coal_coke:1, geolosys.coal_coke.bituminous.name
 projectred-core:resource_item:0, Circuit Plate
@@ -2087,12 +2078,12 @@ appliedenergistics2:facade:0, Cable Facade - Light Engineering Block
 appliedenergistics2:facade:0, Cable Facade - Heavy Engineering Block
 appliedenergistics2:facade:0, Cable Facade - Generator Block
 appliedenergistics2:facade:0, Cable Facade - Radiator Block
+appliedenergistics2:facade:0, Cable Facade - Stripped Dark Oak Log
+appliedenergistics2:facade:0, Cable Facade - Stripped Oak Log
+appliedenergistics2:facade:0, Cable Facade - Stripped Spruce Log
+appliedenergistics2:facade:0, Cable Facade - Stripped Birch Log
 appliedenergistics2:facade:0, Cable Facade - Stripped Jungle Log
 appliedenergistics2:facade:0, Cable Facade - Stripped Acacia Log
-appliedenergistics2:facade:0, Cable Facade - Stripped Birch Log
-appliedenergistics2:facade:0, Cable Facade - Stripped Spruce Log
-appliedenergistics2:facade:0, Cable Facade - Stripped Oak Log
-appliedenergistics2:facade:0, Cable Facade - Stripped Dark Oak Log
 appliedenergistics2:facade:0, Cable Facade - Dense Construction Block
 appliedenergistics2:facade:0, Cable Facade - Oak Trim
 appliedenergistics2:facade:0, Cable Facade - Spruce Trim
@@ -2265,6 +2256,8 @@ appliedenergistics2:facade:0, Cable Facade - Dark Oak Horizontal Timber Frame
 appliedenergistics2:facade:0, Cable Facade - Dark Oak Horizontal Timber Frame
 appliedenergistics2:facade:0, Cable Facade - BarracksTower Placeholder
 appliedenergistics2:facade:0, Cable Facade - Waypoint placeholder
+appliedenergistics2:facade:0, Cable Facade - Flint Block
+appliedenergistics2:facade:0, Cable Facade - Low Grade Charcoal
 appliedenergistics2:facade:0, Cable Facade - Machine Frame
 appliedenergistics2:facade:0, Cable Facade - White Metal Block
 appliedenergistics2:facade:0, Cable Facade - Orange Metal Block
@@ -3480,41 +3473,41 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Chestplate Core Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Leggings Core Pattern
-tconstruct:pattern:0, Boots Core Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Armor Plates Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Helmet Core Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Armor Trim Pattern
-tconstruct:pattern:0, Sword Blade Pattern
 tconstruct:pattern:0, Scythe Head Pattern
 tconstruct:pattern:0, Polishing Kit Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Boots Core Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Chestplate Core Pattern
 tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Armor Trim Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
 tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Helmet Core Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Armor Plates Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Leggings Core Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Kama Head Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -4788,78 +4781,78 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Chestplate Core Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Leggings Core Cast
-tconstruct:cast:0, Boots Core Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Armor Plates Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Helmet Core Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Bowstring Cast
-tconstruct:cast:0, Armor Trim Cast
-tconstruct:cast:0, Sword Blade Cast
 tconstruct:cast:0, Scythe Head Cast
 tconstruct:cast:0, Polishing Kit Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Boots Core Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Chestplate Core Cast
 tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Armor Trim Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Helmet Core Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Armor Plates Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Pickaxe Head Cast
 tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Kama Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Chestplate Core Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Leggings Core Clay Cast
-tconstruct:clay_cast:0, Boots Core Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Armor Plates Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Helmet Core Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
-tconstruct:clay_cast:0, Armor Trim Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
 tconstruct:clay_cast:0, Scythe Head Clay Cast
 tconstruct:clay_cast:0, Polishing Kit Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Boots Core Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Chestplate Core Clay Cast
 tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Armor Trim Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Helmet Core Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Armor Plates Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
 tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -5266,6 +5259,15 @@ astikorcarts:wheel, Wheel
 astikorcarts:cargocart, Cart
 astikorcarts:plowcart, Plow
 astikorcarts:mobcart, Transportation Cart
+basketcase:container_basket_large, Large Wicker Basket
+basketcase:log_stripped_dark_oak, Stripped Dark Oak Log
+basketcase:log_stripped_oak, Stripped Oak Log
+basketcase:log_stripped_spruce, Stripped Spruce Log
+basketcase:log_stripped_birch, Stripped Birch Log
+basketcase:container_basket_small, Small Wicker Basket
+basketcase:log_stripped_jungle, Stripped Jungle Log
+basketcase:log_stripped_acacia, Stripped Acacia Log
+basketcase:container_basket_medium, Medium Wicker Basket
 basketcase:item_plant_fiber, Plant Fibers
 basketcase:item_cordage, Cordage
 basketcase:item_bark_oak, Oak Bark
@@ -5279,15 +5281,6 @@ basketcase:item_twig, Twig
 basketcase:item_wicker_small, Small Wicker
 basketcase:item_wicker_medium, Medium Wicker
 basketcase:item_wicker_large, Large Wicker
-basketcase:log_stripped_jungle, Stripped Jungle Log
-basketcase:container_basket_small, Small Wicker Basket
-basketcase:container_basket_medium, Medium Wicker Basket
-basketcase:container_basket_large, Large Wicker Basket
-basketcase:log_stripped_acacia, Stripped Acacia Log
-basketcase:log_stripped_birch, Stripped Birch Log
-basketcase:log_stripped_spruce, Stripped Spruce Log
-basketcase:log_stripped_oak, Stripped Oak Log
-basketcase:log_stripped_dark_oak, Stripped Dark Oak Log
 mts:manual, MTS Manual (READ ME!)
 mts:wrench, Wrench
 mts:key, Key
@@ -6038,6 +6031,8 @@ cookingforblockheads:ice_unit, Ice Unit
 cookingforblockheads:preservation_chamber, Preservation Chamber
 opframe:opframe, Online Picture Frame
 opframe:littleopframe, Little Online Picture Frame
+dungpipe:dung_pipe, Dung Pipe
+dungpipe:sewer_pipe, Sewer Pipe
 zerocore:debugtool, Debug Tool
 bigreactors:ingotyellorium, Yellorium Ingot
 bigreactors:ingotcyanite, Cyanite Ingot
@@ -6100,6 +6095,23 @@ farmingforblockheads:fertilized_farmland_stable, Fertilized Farmland
 farmingforblockheads:fertilizer:0, Red Fertilizer
 farmingforblockheads:fertilizer:1, Green Fertilizer
 farmingforblockheads:fertilizer:2, Yellow Fertilizer
+immcraft:chisel, Chisel
+immcraft:saw, Saw
+immcraft:dummybook, Dummy Book
+immcraft:manual, Immersive Craft Manual
+immcraft:furnace, Furnace
+immcraft:bundle, tile.immcraft.bundle.name
+immcraft:workbench, Workbench (WIP)
+immcraft:workbench_sec, Workbench (WIP)
+immcraft:in_world_placer, Placer
+immcraft:in_world_vertical_placer, Placer
+immcraft:rock, Rock
+immcraft:sticks, Sticks
+immcraft:chest, Chest
+immcraft:cupboard, Cupboard
+immcraft:shelf, Shelf
+immcraft:bookshelf, Bookshelf
+immcraft:bookstand, Book Stand
 immersivepetroleum:metal_device:0, Automatic Lubricator
 immersivepetroleum:metal_device:1, Portable Generator
 immersivepetroleum:stone_decoration, tile.immersivepetroleum.stone_decoration.name
@@ -6505,32 +6517,32 @@ openscreens:frontflatscreen3, §bFlatscreen (Front) (Tier 3)
 openscreens:holoscreen1, Holo Screen (Tier 1)
 openscreens:holoscreen2, §eHolo Screen (Tier 2)
 openscreens:holoscreen3, §bHolo Screen (Tier 3)
-opensecurity:rolldoor_element, Rolldoor Element
-opensecurity:mag_reader, Magnetic Card Reader
-opensecurity:alarm, Alarm
-opensecurity:rfid_reader, RFID Reader
-opensecurity:data_block, Data Block
-opensecurity:biometric_reader, Biometric Reader
-opensecurity:security_terminal, Security Terminal
-opensecurity:energy_turret, Energy Turret
 opensecurity:card_writer, Card Writer
-opensecurity:entity_detector, Entity Detector
-opensecurity:nanofog_terminal, NanoFog Terminal
 opensecurity:keypad, Keypad
-opensecurity:private_secure_door, Private Security Door
+opensecurity:entity_detector, Entity Detector
+opensecurity:energy_turret, Energy Turret
+opensecurity:rfid_reader, RFID Reader
+opensecurity:biometric_reader, Biometric Reader
+opensecurity:mag_reader, Magnetic Card Reader
+opensecurity:nanofog_terminal, NanoFog Terminal
+opensecurity:data_block, Data Block
+opensecurity:rolldoor_element, Rolldoor Element
+opensecurity:alarm, Alarm
+opensecurity:security_terminal, Security Terminal
 opensecurity:secure_door, Security Door
-opensecurity:rolldoor_controller, Rolldoor Controller
-opensecurity:nanofog, NanoFog
+opensecurity:private_secure_door, Private Security Door
 opensecurity:door_controller, Door Controller
+opensecurity:nanofog, NanoFog
+opensecurity:rolldoor_controller, Rolldoor Controller
 opensecurity:rolldoor, Rolldoor
-opensecurity:nanodna, NanoDNA
-opensecurity:mag_card, Magnetic Strip Card
-opensecurity:rfid_reader_card, RFID Reader Card
-opensecurity:cooldown_upgrade, Cooldown Upgrade
 opensecurity:energy_upgrade, Energy Upgrade
+opensecurity:rfid_reader_card, RFID Reader Card
 opensecurity:movement_upgrade, Movement Upgrade
-opensecurity:rfid_card, RFID Card
+opensecurity:nanodna, NanoDNA
 opensecurity:damage_upgrade, Damage Upgrade
+opensecurity:mag_card, Magnetic Strip Card
+opensecurity:cooldown_upgrade, Cooldown Upgrade
+opensecurity:rfid_card, RFID Card
 rftools:smartwrench, Smart Wrench
 rftools:rftools_manual, RFTools Manual
 rftools:rftools_shape_manual, RFTools Shape Manual
@@ -6850,6 +6862,7 @@ thaumicaugmentation:augment_builder_effect:0, Effect Crystal: Vis Discount
 thaumicaugmentation:morphic_tool, Morphic Tool
 thaumicaugmentation:primal_cutter, Primal Cutter
 thaumcomp:sealconnector, Golem Seal Connector
+thaumicenergistics:infusion_provider, Essentia Infusion Provider
 thaumicenergistics:essentia_cell_1k, 1k ME Essentia Storage Cell
 thaumicenergistics:essentia_cell_4k, 4k ME Essentia Storage Cell
 thaumicenergistics:essentia_cell_16k, 16k ME Essentia Storage Cell
@@ -6868,7 +6881,6 @@ thaumicenergistics:essentia_component_16k, 16k ME Essentia Storage Component
 thaumicenergistics:essentia_component_64k, 64k ME Essentia Storage Component
 thaumicenergistics:upgrade_arcane, Arcane Charging Upgrade
 thaumicenergistics:dummy_aspect, item.thaumicenergistics.dummy_aspect.name
-thaumicenergistics:infusion_provider, Essentia Infusion Provider
 thaumicrestoration:block_reinforced, Thaumium Plated Stone
 thaumicrestoration:block_greatwood, Greatwood Block
 thaumicrestoration:block_greatwood_framed, Thaumium Framed Greatwood
@@ -7311,6 +7323,38 @@ minecolonies:decorationcontroller, Decoration Controller
 minecolonies:composted_dirt:0, Composted Dirt
 solcarrot:food_book, Food Book
 ocsensors:sensor, tile.ocsensors.sensor.name
+primal_tech:flint_block, Flint Block
+primal_tech:charcoal_block, Low Grade Charcoal
+primal_tech:clay_kiln, Clay Kiln
+primal_tech:stick_bundle, Stick Bundle
+primal_tech:fibre_torch, Un-Lit Fibre Torch
+primal_tech:wooden_hopper, Wopper Mk2 :P
+primal_tech:charcoal_hopper, Flame Grilled Wopper
+primal_tech:fibre_torch_lit, Lit Fibre Torch
+primal_tech:work_stump, Work Stump
+primal_tech:stone_grill, Stone Grill
+primal_tech:work_stump_upgraded, Work Stump Mk2
+primal_tech:water_saw, Water Powered Saw
+primal_tech:stone_anvil, Stone Anvil
+primal_tech:wooden_basin, Wooden Basin
+primal_tech:fire_sticks, Whittled Fire Sticks
+primal_tech:bone_pickaxe, Bone Pickaxe
+primal_tech:bone_axe, Bone Axe
+primal_tech:bone_shovel, Bone Shovel
+primal_tech:bone_shears, Bone Shears
+primal_tech:fluid_bladder:0, Fluid Bladder
+primal_tech:bone_shard, Bone Shard
+primal_tech:plant_fibres, Plant Fibres
+primal_tech:twine, Twine
+primal_tech:rock, Crafting Rock
+primal_tech:wood_club, Wood Club
+primal_tech:bone_club, Bone Club
+primal_tech:stone_club, Stone Club
+primal_tech:flint_edged_disc, Water Powered Saw Blade
+primal_tech:bone_sword, Bone Sword
+primal_tech:bone_knife, Bone Knife
+primal_tech:stone_mallet, Stone Mallet
+primal_tech:leaf_bed, Bed of Straw and Leaves
 agricraft:seed_analyzer, Seed Analyzer
 agricraft:peripheral, Computer Controlled Seed Analyzer
 agricraft:sprinkler, Sprinkler
@@ -7488,6 +7532,7 @@ dse:coloredmetal:12, Brown Metal Block
 dse:coloredmetal:13, Green Metal Block
 dse:coloredmetal:14, Red Metal Block
 dse:coloredmetal:15, Black Metal Block
+mcjtylib_ng:multipart, tile.mcjtylib_ng.multipart.name
 harvestcraft:blackberryitem, Blackberry
 harvestcraft:blackberryseeditem, Blackberry Seed
 harvestcraft:blueberryitem, Blueberry
@@ -8804,7 +8849,6 @@ minecraft:salmon, Raw Salmon
 minecraft:cooked_salmon, Cooked Salmon
 minecraft:clownfish, Clownfish
 minecraft:pufferfish, Pufferfish
-mcjtylib_ng:multipart, tile.mcjtylib_ng.multipart.name
 omlib:debug_tool, Debug Tool
 omlib:fake_sword, item.fake_sword.name
 omlib:multi_tool, item.multi_tool.name
@@ -8928,4 +8972,6 @@ brewcraft:swampmerlotitem, Swamp Merlot
 brewcraft:tiagapinotnoiritem, Tiaga Pinot Noir
 brewcraft:totalvodkaitem, Total Vodka
 brewcraft:uglyavocadoginitem, Ugly Avocado Gin
+primalchests:primal_chest, Primal Chest
+primalchests:primal_chest_advanced, Primal Chest Advanced
 guideapi:woot-guide, item.guideapi.book.woot.guide.name

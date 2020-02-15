@@ -1,16 +1,19 @@
 
-addParent("Tutorial:twig")
+addParent("Stone:woodclub")
+
+
+hiddenUnless("Stone:woodclub")
 
 //Set icon item
-setIcon(<minecraft:stick>)
+setIcon(<primal_tech:fire_sticks>)
 
 //Set title String
-setTitle("Sticky business")
+setTitle("Fire!")
 
 //Set description String
-setDescription("Make a stick by combining two twigs")
+setDescription("Set something on fire (a stick bundle for example)")
 
-hiddenUnless("Tutorial:twig")
+
 
 //Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
 setShowToast(false)
@@ -21,6 +24,9 @@ setAnnounceToChat(true)
 //Set the position
 setPos(100,0)
 
-criteria = addCriteria(""get_item"", "minecraft:inventory_changed")
-criteria.setItem(<minecraft:stick>)
 
+
+
+
+criteriatwo = addCriteria("completed", "triumph:right_click_item")
+criteriatwo.setItem("primal_tech:fire_sticks>.withTag({})")

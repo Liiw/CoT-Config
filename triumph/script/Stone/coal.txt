@@ -1,16 +1,18 @@
 
-addParent("Tutorial:twig")
+addParent("Stone:stone_pick")
+
+hiddenUnless("Stone:stone_pick")
 
 //Set icon item
-setIcon(<minecraft:stick>)
+setIcon(<minecraft:coal>)
 
 //Set title String
-setTitle("Sticky business")
+setTitle("Rock of fire")
 
 //Set description String
-setDescription("Make a stick by combining two twigs")
+setDescription("Get a piece of coal")
 
-hiddenUnless("Tutorial:twig")
+
 
 //Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
 setShowToast(false)
@@ -19,8 +21,11 @@ setShowToast(false)
 setAnnounceToChat(true)
 
 //Set the position
-setPos(100,0)
+setPos(250,0)
 
-criteria = addCriteria(""get_item"", "minecraft:inventory_changed")
-criteria.setItem(<minecraft:stick>)
+setRequirements("any");
 
+criteria = addCriteria("get_item", "minecraft:inventory_changed")
+criteria.addItem("minecraft:coal")
+
+)

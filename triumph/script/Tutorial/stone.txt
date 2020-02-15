@@ -21,6 +21,6 @@ setAnnounceToChat(true)
 //Set the position
 setPos(200,0)
 
-criteria = addCriteria("get_item", "minecraft:inventory_changed")
-criteria.addItem("minecraft:cobblestone")
 
+criteria = addCriteria(""get_item"", "minecraft:inventory_changed")
+criteria.addItem("minecraft:cobblestone")
