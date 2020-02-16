@@ -26,5 +26,5 @@ setRequirements("any");
 criteria = addCriteria("get_item", "minecraft:inventory_changed")
 criteria.addItem("basketcase:item_twig")
 
-criteriatwo = addCriteria("completed", "triumph:completed_advancement")
-criteriatwo.addItem("Tutorial:stick")
+//criteriatwo = addCriteria("completed", "triumph:completed_advancement")
+//criteriatwo.addItem("Tutorial:stick")

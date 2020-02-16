@@ -1,0 +1,10 @@
+{
+  "loadOnLogin": false,
+  "mustRead": false,
+  "pages": [
+    {
+      "title": "Stone Age",
+      "file": "stone_start"
+    }
+  ]
+}

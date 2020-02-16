@@ -16,7 +16,7 @@ hiddenUnless("Tutorial:flintaxe")
 setShowToast(false)
 
 //Set the advancement to not send a chat message when it is achieved.
-setAnnounceToChat(true)
+setAnnounceToChat(false)
 
 //Set the position
 setPos(200,0)

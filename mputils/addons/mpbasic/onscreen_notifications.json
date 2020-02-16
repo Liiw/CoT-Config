@@ -9,6 +9,15 @@
 			]
 		},
 		{
+			"id": "earlymetal",
+			"soundlocation": "minecraft:entity.player.levelup",
+			"lines": [
+				"§c§nWelcome to",
+				"§eThe Age of Metal!",
+				"§2New ores are revealed to you"
+			]
+		},
+		{
 		
 			"id": "darkosto",
 			"soundlocation": "minecraft:entity.player.levelup",
