@@ -1,4 +1,3 @@
-
 addParent("Stone:root")
 
 //Set icon item
@@ -21,8 +20,6 @@ setAnnounceToChat(true)
 //Set the position
 setPos(50,0)
 
-setRequirements("any");
 
 criteria = addCriteria("get_woodclub", "minecraft:inventory_changed")
-criteria.addItem("primal_tech:wood_club")
-
+criteria.addItem(<primal_tech:wood_club>)

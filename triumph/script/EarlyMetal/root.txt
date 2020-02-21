@@ -1,10 +1,9 @@
-
 //This is a root advancement. It is the base advancement for a page. As such, it has no parent and has to set a background.
 
 //pageHiddenUnless()
 
 //Set icon item
-setIcon(<minecraft:stone>)
+setIcon(<thermalfoundation:material:128>)
 
 //Set title String
 setTitle("Early Metal Age")
@@ -26,7 +25,7 @@ setPos(0,0)
 
 //Adds criteria
 criteria = addCriteria("get_item", "minecraft:inventory_changed")
-criteria.addItem("minecraft:stone")
+criteria.addItem(<minecraft:stone>)
 
 
 

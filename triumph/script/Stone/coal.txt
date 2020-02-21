@@ -18,7 +18,7 @@ setDescription("Get a piece of coal")
 setShowToast(false)
 
 //Set the advancement to not send a chat message when it is achieved.
-setAnnounceToChat(true)
+setAnnounceToChat(false)
 
 //Set the position
 setPos(250,0)
@@ -26,6 +26,6 @@ setPos(250,0)
 setRequirements("any");
 
 criteria = addCriteria("get_item", "minecraft:inventory_changed")
-criteria.addItem("minecraft:coal")
+criteria.addItem(<minecraft:coal>)
 
-)
+setRewardFunction("EarlyMetal:start")

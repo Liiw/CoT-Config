@@ -21,6 +21,6 @@ setAnnounceToChat(true)
 //Set the position
 setPos(100,50)
 
-criteria = addCriteria("get_item", "minecraft:inventory_changed")
-criteria.addItem("minecraft:flint")
+criteria = addCriteria("hasFlint", "minecraft:inventory_changed")
+criteria.addItem(<minecraft:flint>)
 

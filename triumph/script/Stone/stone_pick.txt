@@ -23,9 +23,9 @@ setAnnounceToChat(true)
 //Set the position
 setPos(200,0)
 
-setRequirements("any");
+
 
 criteria = addCriteria("get_item", "minecraft:inventory_changed")
-criteria.addItem("minecraft:stone_pickaxe")
+criteria.addItem(<minecraft:stone_pickaxe>)
 
-)
+setRewardFunction("Stone:start3")

@@ -1,5 +1,5 @@
 
-addParent("Tutorial:root")
+setParent("Tutorial:root")
 
 //Set icon item
 setIcon(<basketcase:item_twig>)
@@ -21,10 +21,6 @@ setAnnounceToChat(true)
 //Set the position
 setPos(50,0)
 
-setRequirements("any");
 
-criteria = addCriteria("get_item", "minecraft:inventory_changed")
-criteria.addItem("basketcase:item_twig")
-
-//criteriatwo = addCriteria("completed", "triumph:completed_advancement")
-//criteriatwo.addItem("Tutorial:stick")
+criteria = addCriteria("hastwig", "minecraft:inventory_changed")
+criteria.addItem(<basketcase:item_twig>)

@@ -1,4 +1,6 @@
 gamestage silentadd @p stone_1
+
 give @p minecraft:book 1 0 {color:5 , infopanel:welcome, display:{Name: "StarterGuide", color:2, Lore:["Read me to get started"]}}
+
 
 recipe give @p *

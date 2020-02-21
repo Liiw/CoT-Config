@@ -1,4 +1,3 @@
-
 addParent("Stone:fire")
 
 hiddenUnless("Stone:fire")
@@ -26,6 +25,5 @@ setPos(150,0)
 setRequirements("any");
 
 criteria = addCriteria("get_item", "minecraft:inventory_changed")
-criteria.addItem("primal_tech:stone_grill")
+criteria.addItem(<primal_tech:stone_grill>)
 
-)

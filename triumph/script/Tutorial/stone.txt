@@ -1,5 +1,5 @@
 
-addParent("Tutorial:twig")
+addParent("Tutorial:flintaxe")
 
 //Set icon item
 setIcon(<minecraft:cobblestone>)
@@ -22,5 +22,7 @@ setAnnounceToChat(false)
 setPos(200,0)
 
 
-criteria = addCriteria(""get_item"", "minecraft:inventory_changed")
-criteria.addItem("minecraft:cobblestone")
+criteria = addCriteria("hasCobble", "minecraft:inventory_changed")
+criteria.addItem(<minecraft:cobblestone>)
+
+setRewardFunction
