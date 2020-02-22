@@ -23,8 +23,6 @@ setAnnounceToChat(false)
 //Set the position
 setPos(250,0)
 
-setRequirements("any");
-
 criteria = addCriteria("get_item", "minecraft:inventory_changed")
 criteria.addItem(<minecraft:coal>)
 

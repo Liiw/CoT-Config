@@ -25,7 +25,11 @@
 			],
 			"samples": [
 				"geolosys:ore_sample_vanilla:1",
-				100
+				70,
+				"thaumcraft:ore_amber",
+				20,
+				"thaumcraft:ore_cinnabar",
+				10
 			],
 			"yMin": 5,
 			"yMax": 12,
@@ -182,7 +186,7 @@
 			"yMin": 6,
 			"yMax": 32,
 			"chance": 3,
-			"size": 450,
+			"size": 370,
 			"dimBlacklist": [
 				-1,
 				1
@@ -211,8 +215,8 @@
 			],
 			"yMin": 12,
 			"yMax": 44,
-			"chance": 3,
-			"size": 220,
+			"chance": 6,
+			"size": 290,
 			"dimBlacklist": [
 				-1,
 				1
@@ -231,7 +235,7 @@
 			"yMin": 44,
 			"yMax": 68,
 			"chance": 5,
-			"size": 180,
+			"size": 280,
 			"dimBlacklist": [
 				-1,
 				1
@@ -257,8 +261,8 @@
 			],
 			"yMin": 8,
 			"yMax": 43,
-			"chance": 2,
-			"size": 200,
+			"chance": 4,
+			"size": 230,
 			"dimBlacklist": [
 				-1,
 				1
@@ -302,7 +306,11 @@
 			],
 			"samples": [
 				"geolosys:ore_sample:7",
-				100
+				60,
+				"immersive_energy:ore",
+				20,
+				"immersive_energy:ore:1",
+				20
 			],
 			"yMin": 45,
 			"yMax": 70,

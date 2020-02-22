@@ -1,0 +1,3 @@
+Now that you have a proper pickaxe, you are ready to find some coal!
+
+Look around on the surface for coal samples. These indicate a larger deposits somewhere underground at that location.  You can mine the samples to get a bit of coal.

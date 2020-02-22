@@ -21,6 +21,11 @@ setAnnounceToChat(true)
 //Set the position
 setPos(50,0)
 
+setRequirements("any")
+
 
 criteria = addCriteria("hastwig", "minecraft:inventory_changed")
 criteria.addItem(<basketcase:item_twig>)
+
+criteria2 = addCriteria("stickDone", "triumph:completed_advancement")
+criteria2.setAdvancement("Tutorial:stick")

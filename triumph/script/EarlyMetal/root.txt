@@ -1,6 +1,6 @@
 //This is a root advancement. It is the base advancement for a page. As such, it has no parent and has to set a background.
 
-//pageHiddenUnless()
+
 
 //Set icon item
 setIcon(<thermalfoundation:material:128>)
@@ -24,9 +24,7 @@ setAnnounceToChat(true)
 setPos(0,0)
 
 //Adds criteria
-criteria = addCriteria("get_item", "minecraft:inventory_changed")
-criteria.addItem(<minecraft:stone>)
+criteria = addCriteria("coalDone", "triumph:completed_advancement")
+criteria.setAdvancement("Stone:coal")
 
 
-
-setRewardFunction("EarlyMetal:start")

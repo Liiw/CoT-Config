@@ -1,0 +1,10 @@
+{
+  "loadOnLogin": false,
+  "mustRead": false,
+  "pages": [
+    {
+      "title": "Riches of the deep",
+      "file": "stone_start3"
+    }
+  ]
+}
