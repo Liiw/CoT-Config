@@ -26,4 +26,3 @@ setPos(250,0)
 criteria = addCriteria("get_item", "minecraft:inventory_changed")
 criteria.addItem(<minecraft:coal>)
 
-setRewardFunction("EarlyMetal:start")

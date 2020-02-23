@@ -18,6 +18,15 @@
 			]
 		},
 		{
+			"id": "latemetal",
+			"soundlocation": "minecraft:entity.player.levelup",
+			"lines": [
+				"§c§nWelcome to",
+				"§eThe Age of Metal 2: Judgement Day",
+				"§3New stuff, new ores, new you"
+			]
+		},
+		{
 		
 			"id": "darkosto",
 			"soundlocation": "minecraft:entity.player.levelup",

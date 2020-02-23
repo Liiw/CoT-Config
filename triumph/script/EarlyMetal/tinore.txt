@@ -1,0 +1,32 @@
+
+addParent("EarlyMetal:root")
+
+//Set icon item
+setIcon(<geolosys:cluster:3>)
+
+//setIcon(<tconstruct:pick_head>.withTag({Material: "magmaslime"}))
+
+//.withTag({TinkerData: {Materials: ["wood", "copper", "wood"]})
+
+//Set title String
+setTitle("Can you tin?")
+
+//Set description String
+setDescription("Get some tin ore")
+
+
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(true)
+
+//Set the position
+setPos(50,0)
+
+criteria = addCriteria("hasPick", "minecraft:inventory_changed")
+
+criteria.addItem(<geolosys:cluster:3>)
+
+setRewardFunction("EarlyMetal:start2")

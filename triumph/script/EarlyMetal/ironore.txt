@@ -1,18 +1,18 @@
 
-addParent("EarlyMetal:root")
+addParent("EarlyMetal:tinore")
 
 //Set icon item
-setIcon("tconstruct:pick_head>.withTag({Material: "copper"})")
+setIcon(<geolosys:cluster>)
 
 //setIcon(<tconstruct:pick_head>.withTag({Material: "magmaslime"}))
 
 //.withTag({TinkerData: {Materials: ["wood", "copper", "wood"]})
 
 //Set title String
-setTitle("Copper a feel")
+setTitle("Iron it out")
 
 //Set description String
-setDescription("Get a copper pickaxe")
+setDescription("Find and mine some iron ore")
 
 
 
@@ -20,11 +20,11 @@ setDescription("Get a copper pickaxe")
 setShowToast(false)
 
 //Set the advancement to not send a chat message when it is achieved.
-setAnnounceToChat(true)
+setAnnounceToChat(false)
 
 //Set the position
-setPos(150,0)
+setPos(100,0)
 
 criteria = addCriteria("hasPick", "minecraft:inventory_changed")
 
-criteria.addItem(<tconstruct:pickaxe>.withTag({TinkerData: {Materials: ["wood", "copper", "wood"]})
+criteria.addItem(<geolosys:cluster>)

@@ -1,0 +1,15 @@
+Congratualations on getting tin!
+
+Now you must prepare to make bronze. To alloy metals together, you can use the alloying tank now available to you.
+
+First you must have two melters, with heating underneath, placed one block apart from each other. Between the melters place an alloying tank. Under the alloying tank place a heat source (either a seared heater or a tank filled with lava). 
+When you check JEI for the molten bronze recipe and click on the "alloying" tab, you can see that it takes three copper ingots and one tin ingot to produce four ingots of bronze.
+You should always pay attention to these ratios, so that you do not leave unwanted remainders into your melting machinery. 
+
+Place three ingots worth of copper into one of the melters and one ingots worth of tin to the other. Get heating to both of the melters and the alloying tank.
+When these conditions are satisfied, you can see bronze alloy forming in the alloy tank. From there you can pout it onto a casting table like you did with copper.
+
+You should consider making a bronze pickaxe. After finding tin, new knowledge was unlocked to you and you can now find iron (hematite) ore. 
+However, without a bronze pickaxe, you are unable to mine the ore.
+
+After getting iron ore, you will advance to the Late Metal Age. Follow the advancements to progress through there!

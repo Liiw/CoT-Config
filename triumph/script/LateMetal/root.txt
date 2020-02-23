@@ -3,13 +3,13 @@
 
 
 //Set icon item
-setIcon(<thermalfoundation:material:128>)
+setIcon(<minecraft:iron_ingot>)
 
 //Set title String
-setTitle("Early Metal Age")
+setTitle("Late Metal Age")
 
 //Set description String
-setDescription("Smelt ALL the ores (or at least the ones we can for now)")
+setDescription("Better tools, stronger stuff!")
 
 //Set background String. This is a path to any texture in a resource pack, so you can set it to fun things.
 setBackground("minecraft:textures/gui/advancements/backgrounds/adventure.png")
@@ -25,7 +25,6 @@ setPos(0,0)
 
 //Adds criteria
 criteria = addCriteria("coalDone", "triumph:completed_advancement")
-criteria.setAdvancement("Stone:coal")
+criteria.setAdvancement("EarlyMetal:ironore")
 
-
-setRewardFunction("EarlyMetal:start")
+setRewardFunction("LateMetal:start")
