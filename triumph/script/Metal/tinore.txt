@@ -1,18 +1,18 @@
 
-addParent("EarlyMetal:tinore")
+addParent("Metal:root")
 
 //Set icon item
-setIcon(<geolosys:cluster>)
+setIcon(<geolosys:cluster:3>)
 
 //setIcon(<tconstruct:pick_head>.withTag({Material: "magmaslime"}))
 
 //.withTag({TinkerData: {Materials: ["wood", "copper", "wood"]})
 
 //Set title String
-setTitle("Iron it out")
+setTitle("Can you tin?")
 
 //Set description String
-setDescription("Find and mine some iron ore")
+setDescription("Get some tin ore")
 
 
 
@@ -20,11 +20,13 @@ setDescription("Find and mine some iron ore")
 setShowToast(false)
 
 //Set the advancement to not send a chat message when it is achieved.
-setAnnounceToChat(false)
+setAnnounceToChat(true)
 
 //Set the position
-setPos(100,0)
+setPos(50,0)
 
 criteria = addCriteria("hasPick", "minecraft:inventory_changed")
 
-criteria.addItem(<geolosys:cluster>)
+criteria.addItem(<geolosys:cluster:3>)
+
+setRewardFunction("Metal:start2")

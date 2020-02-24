@@ -1,0 +1,30 @@
+
+addParent("Metal:tinore")
+
+//Set icon item
+setIcon(<geolosys:cluster>)
+
+//setIcon(<tconstruct:pick_head>.withTag({Material: "magmaslime"}))
+
+//.withTag({TinkerData: {Materials: ["wood", "copper", "wood"]})
+
+//Set title String
+setTitle("Iron it out")
+
+//Set description String
+setDescription("Find and mine some iron ore")
+
+
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(true)
+
+//Set the position
+setPos(100,0)
+
+criteria = addCriteria("hasiron", "minecraft:inventory_changed")
+
+criteria.addItem(<geolosys:cluster>)

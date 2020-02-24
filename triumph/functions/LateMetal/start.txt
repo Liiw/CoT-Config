@@ -1,2 +1,0 @@
-gamestage silentadd @p late_metal_1
-mpa notify @p latemetal

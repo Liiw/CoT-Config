@@ -201,7 +201,6 @@
   "immersiveposts": "0.1.4",
   "tconstruct": "1.12.2-2.13.0.171",
   "itemstages": "2.0.49",
-  "claybucket": "1.1",
   "silentlib": "3.0.13",
   "baubles": "1.5.2",
   "creativecore": "1.9.9",

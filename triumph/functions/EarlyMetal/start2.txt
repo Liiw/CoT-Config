@@ -1,3 +1,0 @@
-gamestage silentadd @p early_metal_2
-
-give @p minecraft:book 1 0 {color:5 , infopanel:earlymetal_alloying, display:{Name: "Alloying metals and stuff", color:3, Lore:["Who the hell writes these?"]}}

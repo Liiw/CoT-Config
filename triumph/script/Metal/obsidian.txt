@@ -1,18 +1,18 @@
 
-addParent("EarlyMetal:root")
+addParent("Metal:ironore")
 
 //Set icon item
-setIcon(<geolosys:cluster:3>)
+setIcon(<minecraft:obsidian>)
 
 //setIcon(<tconstruct:pick_head>.withTag({Material: "magmaslime"}))
 
 //.withTag({TinkerData: {Materials: ["wood", "copper", "wood"]})
 
 //Set title String
-setTitle("Can you tin?")
+setTitle("Igneous Rock")
 
 //Set description String
-setDescription("Get some tin ore")
+setDescription("Get a block of obsidian (find some diamond to mine it underground or alloy it from lava and water)")
 
 
 
@@ -20,13 +20,11 @@ setDescription("Get some tin ore")
 setShowToast(false)
 
 //Set the advancement to not send a chat message when it is achieved.
-setAnnounceToChat(true)
+setAnnounceToChat(false)
 
 //Set the position
-setPos(50,0)
+setPos(150,0)
 
-criteria = addCriteria("hasPick", "minecraft:inventory_changed")
+criteria = addCriteria("hasobsidian", "minecraft:inventory_changed")
 
-criteria.addItem(<geolosys:cluster:3>)
-
-setRewardFunction("EarlyMetal:start2")
+criteria.addItem(<minecraft:obsidian>)

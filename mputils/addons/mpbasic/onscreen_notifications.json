@@ -9,7 +9,7 @@
 			]
 		},
 		{
-			"id": "earlymetal",
+			"id": "metal",
 			"soundlocation": "minecraft:entity.player.levelup",
 			"lines": [
 				"§c§nWelcome to",
@@ -18,12 +18,13 @@
 			]
 		},
 		{
-			"id": "latemetal",
+			"id": "medieval",
 			"soundlocation": "minecraft:entity.player.levelup",
 			"lines": [
 				"§c§nWelcome to",
-				"§eThe Age of Metal 2: Judgement Day",
-				"§3New stuff, new ores, new you"
+				"§eThe Medieval Age",
+				"§4New stuff, new ores, new You!",
+				"§eAnd magic!"
 			]
 		},
 		{
