@@ -1,0 +1,28 @@
+
+addParent("Medieval:ghasttear")
+
+//Set icon item
+setIcon(<thaumcraft:ingot>)
+
+//Set title String
+setTitle("Magic Metal!")
+
+//Set description String
+setDescription("Get a thaumium ingot (look for crystals in caves for a start)")
+
+
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(true)
+
+//Set the position
+setPos(100,0)
+
+criteria = addCriteria("hasthaumium", "minecraft:inventory_changed")
+
+criteria.addItem(<thaumcraft:ingot>)
+
+setRewardFunction("Medieval:start3")

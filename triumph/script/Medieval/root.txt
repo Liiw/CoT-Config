@@ -27,5 +27,6 @@ setPos(0,0)
 criteria = addCriteria("obsDone", "triumph:completed_advancement")
 criteria.setAdvancement("Metal:obsidian")
 
+setRewardExperience(50)
 
 setRewardFunction("Medieval:start")

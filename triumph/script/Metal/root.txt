@@ -27,5 +27,6 @@ setPos(0,0)
 criteria = addCriteria("coalDone", "triumph:completed_advancement")
 criteria.setAdvancement("Stone:coal")
 
+setRewardExperience(50)
 
 setRewardFunction("Metal:start")

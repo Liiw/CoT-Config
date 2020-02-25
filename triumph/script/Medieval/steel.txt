@@ -1,0 +1,27 @@
+
+addParent("Medieval:thaumium")
+
+//Set icon item
+setIcon(<thermalfoundation:storage_alloy>)
+
+//Set title String
+setTitle("Blocks of steel!")
+
+//Set description String
+setDescription("Get a steel block (read 'Materials and You' section High Oven for more info)")
+
+
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+//Set the position
+setPos(150,0)
+
+criteria = addCriteria("hasthaumium", "minecraft:inventory_changed")
+
+criteria.addItem(<thermalfoundation:storage_alloy>)
+

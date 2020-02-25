@@ -31,3 +31,5 @@ setPos(150,0)
 criteria = addCriteria("hasAx", "minecraft:inventory_changed")
 
 criteria.addItem(<tconstruct:hatchet>)
+
+setRewardExperience(50)

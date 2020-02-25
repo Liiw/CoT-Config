@@ -28,6 +28,16 @@
 			]
 		},
 		{
+			"id": "industrial",
+			"soundlocation": "minecraft:entity.player.levelup",
+			"lines": [
+				"§c§nWelcome to",
+				"§eThe Industrial Age",
+				"§6Top hats, monocles and martinis",
+				"§5And HEAVY MACHINERY!!!"
+			]
+		},
+		{
 		
 			"id": "darkosto",
 			"soundlocation": "minecraft:entity.player.levelup",

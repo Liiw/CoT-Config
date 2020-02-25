@@ -1,0 +1,28 @@
+
+addParent("Medieval:root")
+
+//Set icon item
+setIcon(<minecraft:ghast_tear>)
+
+//Set title String
+setTitle("A real tear jerker!")
+
+//Set description String
+setDescription("Go to the Nether and get a Ghast tear")
+
+
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(true)
+
+//Set the position
+setPos(50,0)
+
+criteria = addCriteria("hastear", "minecraft:inventory_changed")
+
+criteria.addItem(<minecraft:ghast_tear>)
+
+setRewardFunction("Medieval:start2")
