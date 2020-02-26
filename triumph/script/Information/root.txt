@@ -1,0 +1,32 @@
+//This is a root advancement. It is the base advancement for a page. As such, it has no parent and has to set a background.
+
+
+
+//Set icon item
+setIcon(<opencomputers:component:19>)
+
+//Set title String
+setTitle("Information Age")
+
+//Set description String
+setDescription("Computers and other smart machines")
+
+//Set background String. This is a path to any texture in a resource pack, so you can set it to fun things.
+setBackground("minecraft:textures/gui/advancements/backgrounds/adventure.png")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to send a chat message when it is achieved.
+setAnnounceToChat(true)
+
+//Set the position
+setPos(0,0)
+
+//Adds criteria
+criteria = addCriteria("steelDone", "triumph:completed_advancement")
+criteria.setAdvancement("Industrial:distillationtower")
+
+setRewardExperience(50)
+
+setRewardFunction("Information:start")

@@ -1,0 +1,27 @@
+
+addParent("Industrial:railgun")
+
+//Set icon item
+setIcon(<mts:jerrycan>)
+
+//Set title String
+setTitle("Pump it up!")
+
+//Set description String
+setDescription("Find a fluid reservoir and place a pumpjack on it")
+
+
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(true)
+
+//Set the position
+setPos(200,0)
+
+criteria = addCriteria("formed", "immersiveengineering:multiblock_formed")
+
+criteria.setMultiblock("IP:Pumpjack")
+

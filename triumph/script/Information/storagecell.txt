@@ -1,0 +1,29 @@
+
+addParent("Information:blutonium")
+
+//Set icon item
+setIcon(<extracells:storage.component:3>)
+
+//Set title String
+setTitle("Now that's a hard drive!")
+
+//Set description String
+setDescription("Get a 16384k ME storage component.")
+
+
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+//Set the position
+setPos(100,0)
+
+criteria = addCriteria("blutoniumGot", "minecraft:inventory_changed")
+
+criteria.addItem(<extracells:storage.component:3>)
+
+
+//setRewardFunction("Information:start2")

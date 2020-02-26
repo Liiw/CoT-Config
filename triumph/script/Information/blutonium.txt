@@ -1,0 +1,29 @@
+
+addParent("Information:root")
+
+//Set icon item
+setIcon(<bigreactors:blockblutonium>)
+
+//Set title String
+setTitle("Blue da ba dee da ba daa")
+
+//Set description String
+setDescription("Get a block of blutonium.")
+
+
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(true)
+
+//Set the position
+setPos(50,0)
+
+criteria = addCriteria("blutoniumGot", "minecraft:inventory_changed")
+
+criteria.addItem(<bigreactors:blockblutonium>)
+
+
+setRewardFunction("Information:start2")

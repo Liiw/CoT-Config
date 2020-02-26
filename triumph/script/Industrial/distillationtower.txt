@@ -1,0 +1,27 @@
+
+addParent("Industrial:pumpjack")
+
+//Set icon item
+setIcon(<mts:fuelpump>)
+
+//Set title String
+setTitle("Gimme fuel, gimme fire...")
+
+//Set description String
+setDescription("Build a distillation tower")
+
+
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+//Set the position
+setPos(250,0)
+
+criteria = addCriteria("formed", "immersiveengineering:multiblock_formed")
+
+criteria.setMultiblock("IP:DistillationTower")
+

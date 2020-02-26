@@ -1,0 +1,27 @@
+
+addParent("Industrial:root")
+
+//Set icon item
+setIcon(<immersiveengineering:stone_decoration>)
+
+//Set title String
+setTitle("High on coke")
+
+//Set description String
+setDescription("Create a Coke Oven (look in the Engineer's Manual for more info)")
+
+
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(true)
+
+//Set the position
+setPos(50,0)
+
+criteria = addCriteria("formed", "immersiveengineering:multiblock_formed")
+
+criteria.setMultiblock("IE:CokeOven")
+

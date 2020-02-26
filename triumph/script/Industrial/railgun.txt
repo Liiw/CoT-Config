@@ -1,0 +1,28 @@
+
+addParent("Industrial:cokeoven")
+
+//Set icon item
+setIcon(<immersiveengineering:railgun>)
+
+//Set title String
+setTitle("The Holy gRail-gun")
+
+//Set description String
+setDescription("Get a railgun")
+
+
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(true)
+
+//Set the position
+setPos(150,0)
+
+criteria = addCriteria("railgunGot", "minecraft:inventory_changed")
+
+criteria.addItem(<immersiveengineering:railgun>)
+
+setRewardFunction("Industrial:start2")

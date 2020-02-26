@@ -1,0 +1,27 @@
+
+addParent("Industrial:cokeoven")
+
+//Set icon item
+setIcon(<immersiveengineering:metal:15>)
+
+//Set title String
+setTitle("Crushing it!")
+
+//Set description String
+setDescription("Create a Crusher (IE Multiblock)")
+
+
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(true)
+
+//Set the position
+setPos(100,0)
+
+criteria = addCriteria("formed", "immersiveengineering:multiblock_formed")
+
+criteria.setMultiblock("IE:Crusher")
+

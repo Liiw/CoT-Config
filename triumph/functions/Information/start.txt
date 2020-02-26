@@ -1,0 +1,2 @@
+gamestage silentadd @p information_1
+mpa notify @p information

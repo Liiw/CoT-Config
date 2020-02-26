@@ -38,6 +38,24 @@
 			]
 		},
 		{
+			"id": "information",
+			"soundlocation": "minecraft:entity.player.levelup",
+			"lines": [
+				"§c§nWelcome to",
+				"§eThe Information Age",
+				"§7Work harder AND smarter!"
+			]
+		},
+		{
+			"id": "endgame",
+			"soundlocation": "minecraft:entity.player.levelup",
+			"lines": [
+				"§c§nWelcome to",
+				"§eThe End",
+				"§8So, what now?"
+			]
+		},
+		{
 		
 			"id": "darkosto",
 			"soundlocation": "minecraft:entity.player.levelup",
