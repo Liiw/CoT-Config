@@ -1,6 +1,8 @@
 
 addParent("Industrial:railgun")
 
+hiddenUnless("Industrial:railgun")
+
 //Set icon item
 setIcon(<mts:jerrycan>)
 

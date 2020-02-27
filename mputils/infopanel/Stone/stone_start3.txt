@@ -1,3 +1,10 @@
 Now that you have a proper pickaxe, you are ready to find some coal!
 
-Look around on the surface for coal samples. These indicate a larger deposits somewhere underground at that location.  You can mine the samples to get a bit of coal.
+Look around on the surface for coal samples. These indicate a larger deposit somewhere underground at that location.  You can mine the samples to get a bit of coal, but make sure you place something to indicate the deposit before you mine all the samples.
+
+In the future, as you unlock other materials, similar rules apply: sample on surface means deposit underground.
+
+
+
+
+

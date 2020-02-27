@@ -1,6 +1,8 @@
 
 addParent("Industrial:root")
 
+hiddenUnless("Industrial:root")
+
 //Set icon item
 setIcon(<immersiveengineering:stone_decoration>)
 

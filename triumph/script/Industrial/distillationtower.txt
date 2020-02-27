@@ -1,6 +1,8 @@
 
 addParent("Industrial:pumpjack")
 
+hiddenUnless("Industrial:pumpjack")
+
 //Set icon item
 setIcon(<mts:fuelpump>)
 

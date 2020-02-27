@@ -1,15 +1,15 @@
 //This is a root advancement. It is the base advancement for a page. As such, it has no parent and has to set a background.
 
-
+pageRequiresRoot
 
 //Set icon item
 setIcon(<sgcraft:stargatebase>)
 
 //Set title String
-setTitle("Endgame")
+setTitle("The End")
 
 //Set description String
-setDescription("Do whatever the hell you want :)")
+setDescription("I don't know. Go sunbathing or something")
 
 //Set background String. This is a path to any texture in a resource pack, so you can set it to fun things.
 setBackground("minecraft:textures/gui/advancements/backgrounds/adventure.png")

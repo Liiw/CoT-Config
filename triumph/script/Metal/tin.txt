@@ -1,0 +1,34 @@
+
+addParent("Metal:copper")
+
+hiddenUnless("Metal:copper")
+
+//Set icon item
+setIcon(<thermalfoundation:material:129>)
+
+//setIcon(<tconstruct:pick_head>.withTag({Material: "magmaslime"}))
+
+//.withTag({TinkerData: {Materials: ["wood", "copper", "wood"]})
+
+//Set title String
+setTitle("Can you tin?")
+
+//Set description String
+setDescription("Get a tin ingot")
+
+
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(true)
+
+//Set the position
+setPos(100,0)
+
+criteria = addCriteria("hastin", "minecraft:inventory_changed")
+
+criteria.addItem(<thermalfoundation:material:129>)
+
+setRewardFunction("Metal:start3")

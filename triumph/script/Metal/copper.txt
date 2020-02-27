@@ -1,18 +1,17 @@
 
 addParent("Metal:root")
 
+hiddenUnless("Metal:root")
+
 //Set icon item
-setIcon(<geolosys:cluster:3>)
+setIcon(<geolosys:cluster:2>)
 
-//setIcon(<tconstruct:pick_head>.withTag({Material: "magmaslime"}))
-
-//.withTag({TinkerData: {Materials: ["wood", "copper", "wood"]})
 
 //Set title String
-setTitle("Can you tin?")
+setTitle("Copperfield")
 
 //Set description String
-setDescription("Get some tin ore")
+setDescription("Find and mine some copper ore")
 
 
 
@@ -25,8 +24,8 @@ setAnnounceToChat(true)
 //Set the position
 setPos(50,0)
 
-criteria = addCriteria("hasPick", "minecraft:inventory_changed")
+criteria = addCriteria("hascopper", "minecraft:inventory_changed")
 
-criteria.addItem(<geolosys:cluster:3>)
+criteria.addItem(<geolosys:cluster:2>)
 
 setRewardFunction("Metal:start2")

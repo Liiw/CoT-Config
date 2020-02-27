@@ -1,5 +1,7 @@
 
-addParent("Industrial:cokeoven")
+addParent("Industrial:crusher")
+
+hiddenUnless("Industrial:crusher")
 
 //Set icon item
 setIcon(<immersiveengineering:railgun>)

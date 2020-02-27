@@ -1,6 +1,8 @@
 
 addParent("Medieval:ghasttear")
 
+hiddenUnless("Medieval:ghasttear")
+
 //Set icon item
 setIcon(<thaumcraft:ingot>)
 

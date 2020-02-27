@@ -1,6 +1,8 @@
 
 addParent("Industrial:cokeoven")
 
+hiddenUnless("Industrial:cokeoven")
+
 //Set icon item
 setIcon(<immersiveengineering:metal:15>)
 

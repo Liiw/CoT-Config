@@ -27,3 +27,4 @@ setRequirements("any");
 criteria = addCriteria("get_item", "minecraft:inventory_changed")
 criteria.addItem(<primal_tech:stone_grill>)
 
+setRewardFunction("Stone:start4")

@@ -5,6 +5,10 @@
     {
       "title": "Welcome!",
       "file": "tutorial_start"
+    },
+    {
+      "title": "Some additional info",
+      "file": "tutorial_start2"
     }
   ]
 }

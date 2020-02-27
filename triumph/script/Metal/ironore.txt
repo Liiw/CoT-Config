@@ -1,12 +1,11 @@
 
-addParent("Metal:tinore")
+addParent("Metal:tin")
+
+hiddenUnless("Metal:tin")
 
 //Set icon item
 setIcon(<geolosys:cluster>)
 
-//setIcon(<tconstruct:pick_head>.withTag({Material: "magmaslime"}))
-
-//.withTag({TinkerData: {Materials: ["wood", "copper", "wood"]})
 
 //Set title String
 setTitle("Iron it out")
@@ -23,8 +22,10 @@ setShowToast(false)
 setAnnounceToChat(true)
 
 //Set the position
-setPos(100,0)
+setPos(150,0)
 
 criteria = addCriteria("hasiron", "minecraft:inventory_changed")
 
 criteria.addItem(<geolosys:cluster>)
+
+setRewardFunction("Metal:start4")

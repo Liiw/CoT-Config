@@ -1,6 +1,6 @@
 //This is a root advancement. It is the base advancement for a page. As such, it has no parent and has to set a background.
 
-
+pageRequiresRoot
 
 //Set icon item
 setIcon(<thermalfoundation:material:128>)

@@ -1,6 +1,8 @@
 
 addParent("Medieval:thaumium")
 
+hiddenUnless("Medieval:thaumium")
+
 //Set icon item
 setIcon(<thermalfoundation:storage_alloy>)
 

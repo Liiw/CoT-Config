@@ -1,0 +1,6 @@
+ORE SPAWNING
+
+Some ores are distributed by biomes. Here are the biomes for where these ores will spawn in:
+
+Cassiterite (tin) - ocean, frozen ocean, deep ocean
+Teallite (tin) - river

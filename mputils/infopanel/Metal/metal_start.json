@@ -9,6 +9,10 @@
     {
       "title": "Smelting the metals: making a copper pick",
       "file": "em_start2"
+    },
+    {
+      "title": "Ore spawning",
+      "file": "em_start3"
     }
   ]
 }

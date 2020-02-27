@@ -1,6 +1,8 @@
 
 addParent("Information:blutonium")
 
+hiddenUnless("Information:blutonium")
+
 //Set icon item
 setIcon(<extracells:storage.component:3>)
 

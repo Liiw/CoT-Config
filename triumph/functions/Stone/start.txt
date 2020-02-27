@@ -1,2 +1,6 @@
 gamestage silentadd @p stone_2
 mpa notify @p stoneage
+
+give @p minecraft:book 1 0 {color:5 , infopanel:Stone_start, display:{Name: "Ready-Set-Go!", color:2, Lore:["Your adventure awaits"]}}
+
+give @p minecraft:book 1 0 {color:5 , display:{Name: "USE ME TO MAKE A BOOKSHELF", color:2}}
