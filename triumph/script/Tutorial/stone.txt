@@ -1,4 +1,3 @@
-
 addParent("Tutorial:flintaxe")
 
 //Set icon item
@@ -19,10 +18,8 @@ setShowToast(false)
 setAnnounceToChat(false)
 
 //Set the position
-setPos(200,0)
+setPos(203,0)
 
 
 criteria = addCriteria("hasCobble", "minecraft:inventory_changed")
 criteria.addItem(<minecraft:cobblestone>)
-
-setRewardFunction

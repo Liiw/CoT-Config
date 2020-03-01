@@ -4,7 +4,7 @@ addParent("Metal:tin")
 hiddenUnless("Metal:tin")
 
 //Set icon item
-setIcon(<geolosys:cluster>)
+setIcon(<geolosys:cluster:0>)
 
 
 //Set title String
@@ -26,6 +26,6 @@ setPos(150,0)
 
 criteria = addCriteria("hasiron", "minecraft:inventory_changed")
 
-criteria.addItem(<geolosys:cluster>)
+criteria.addItem(<geolosys:cluster:0>)
 
 setRewardFunction("Metal:start4")

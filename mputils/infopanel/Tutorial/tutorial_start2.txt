@@ -1,26 +1,27 @@
 Some changes in the general game. You don't have all the stuff in JEI showing. You need to unlock most of the stuff. 
 You can follow the advancements screen ("L" key) to see excactly what you would need to be doing.
 
-You for starting you have less hearts than 10. To increase the amount of hearts, you need to eat different types of food.
+Starting off, you have less hearts than 10. To increase the amount of hearts, you need to eat different types of food.
 After you have reached a certain amount (a milestone) you should get an extra heart. The progress should be visible above your
 hotbar.
 
 Most items now also have weight. This is to encourage transportation infrastructure. You will have plenty of ways to transport massive amounts of stuff.
 
-First you need to make a flint axe to get some wood. This is a custom recipe, it needs two stricks, a piece of cordage and a flint placed randomly to your inventory crafting grid.
-After getting the axe, you can proceed somewhat normally. Onve you reach the Metal Age, tool crafting will change a little. You will find out how.
+First you need to make a flint axe to get some wood. This is a custom recipe, it needs two sticks, a piece of cordage and a flint placed randomly to your inventory crafting grid.
+After getting the axe, you can proceed somewhat normally. Once you reach the Metal Age, tool crafting will change a little. You will find out how.
 
 Most of the progressing is done through advancements and gamestages. If you would like to team up with someone, you can use commands from a mod called "together forever".
 If you decide to create a team or join someone elses team, your advancements and gamestages will be synced. That means that if you have been away for a while and your teammates have undergone quite an evolution, your stagedata and advancements will be synced upon your next login.
-If you prefer to go through the ages yourself, it is probably advisable to not join a team. If you find this progressing tedious and just want to play the game. Join someone who is doing a speedrun :D
+If you prefer to go through the ages yourself, it is probably advisable to not join a team. 
+If you find this progressing tedious and just want to play the game, join someone who is doing a speedrun :D
 
 
 To use the commands, enter them onto the chat field ingame. Do note that the "/" is important as then the game will know it is a command.
 
-/tf invite <player_name> - Invites a player to your team, if you don't have a team it will be created
-/tf accept <player_name> - Accepts the invite to join that player's team
-/tf decline <player_name> - Declines the invite to join that player's team
-/tf kick <player_name> - It kicks a player from your team, only the player that created the team is allowed to run the command
-/tf leave - Leaves your current team
-/tf info - Shows information about your team
-/tf forcesync - Forces the sync of team information
+/tofe invite <player_name> - Invites a player to your team, if you don't have a team it will be created
+/tofe accept <player_name> - Accepts the invite to join that player's team
+/tofe decline <player_name> - Declines the invite to join that player's team
+/tofe kick <player_name> - It kicks a player from your team, only the player that created the team is allowed to run the command
+/tofe leave - Leaves your current team
+/tofe info - Shows information about your team
+/tofe forcesync - Forces the sync of team information

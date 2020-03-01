@@ -10,7 +10,7 @@ setIcon(<primal_tech:fire_sticks>)
 setTitle("Fire!")
 
 //Set description String
-setDescription("Set something on fire (a log for example)")
+setDescription("Make two fire sticks and set something on fire (a log for example)")
 
 
 

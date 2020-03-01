@@ -23,4 +23,3 @@ setPos(100,50)
 
 criteria = addCriteria("hasFlint", "minecraft:inventory_changed")
 criteria.addItem(<minecraft:flint>)
-
