@@ -332,9 +332,11 @@
 				"geolosys:ore:8",
 				20,
 				"sgcraft:naquadahore",
-				30,
+				25,
 				"appliedenergistics2:quartz_ore",
-				35,
+				30,
+				"rftools:dimensional_shard_ore:0",
+				10,
 				"appliedenergistics2:charged_quartz_ore",
 				15
 			],
