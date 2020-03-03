@@ -1,16 +1,16 @@
 
-addParent("Industrial:root")
+addParent("Industrial:cokeoven")
 
-hiddenUnless("Industrial:root")
+hiddenUnless("Industrial:cokeoven")
 
 //Set icon item
-setIcon(<immersiveengineering:stone_decoration>)
+setIcon(<immersiveengineering:stone_decoration:1>)
 
 //Set title String
-setTitle("High on coke")
+setTitle("OffBlast!")
 
 //Set description String
-setDescription("Create a Coke Oven (look in the Engineer's Manual for more info)")
+setDescription("Create a Blast Furnace")
 
 
 
@@ -21,10 +21,10 @@ setShowToast(false)
 setAnnounceToChat(true)
 
 //Set the position
-setPos(50,0)
+setPos(100,0)
 
 criteria = addCriteria("formed", "immersiveengineering:multiblock_formed")
 
-criteria.setMultiblock("IE:CokeOven")
+criteria.setMultiblock("IE:BlastFurnace")
 
-setRewardFunction("Industrial:cokeoven")
+setRewardFunction("Industrial:blastfurnace")

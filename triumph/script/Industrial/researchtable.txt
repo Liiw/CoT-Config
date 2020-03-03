@@ -1,16 +1,16 @@
 
-addParent("Industrial:crusher")
+addParent("Industrial:blastfurnace")
 
-hiddenUnless("Industrial:crusher")
+hiddenUnless("Industrial:blastfurnace")
 
 //Set icon item
-setIcon(<immersiveengineering:railgun>)
+setIcon(<researchtable:table>)
 
 //Set title String
-setTitle("The Holy gRail-gun")
+setTitle("Think Tank")
 
 //Set description String
-setDescription("Get a railgun")
+setDescription("Get a Research Table")
 
 
 
@@ -23,8 +23,8 @@ setAnnounceToChat(true)
 //Set the position
 setPos(150,0)
 
-criteria = addCriteria("railgunGot", "minecraft:inventory_changed")
+criteria = addCriteria("restable", "minecraft:inventory_changed")
 
-criteria.addItem(<immersiveengineering:railgun>)
+criteria.addItem(<researchtable:table>)
 
-setRewardFunction("Industrial:start2")
+//setRewardFunction("Industrial:start2")

@@ -2,15 +2,16 @@
 addParent("Industrial:cokeoven")
 
 hiddenUnless("Industrial:cokeoven")
+hiddenUnless("Industrial:researchtable")
 
 //Set icon item
-setIcon(<immersiveengineering:metal:15>)
+setIcon(<immersivetech:stone_decoration>)
 
 //Set title String
-setTitle("Crushing it!")
+setTitle("Coke Overdose!")
 
 //Set description String
-setDescription("Create a Crusher (IE Multiblock)")
+setDescription("Create an Advanced Coke Oven (you need to research it using the Research Table)")
 
 
 
@@ -21,9 +22,8 @@ setShowToast(false)
 setAnnounceToChat(true)
 
 //Set the position
-setPos(100,0)
+setPos(67,-50)
 
 criteria = addCriteria("formed", "immersiveengineering:multiblock_formed")
 
-criteria.setMultiblock("IE:Crusher")
-
+criteria.setMultiblock("IT:CokeOvenAdvanced")
