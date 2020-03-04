@@ -1,16 +1,16 @@
 
-addParent("Information:root")
+addParent("Industrial:researchtable")
 
-
+hiddenUnless("Industrial:researchtable")
 
 //Set icon item
-setIcon(<bigreactors:blockblutonium>)
+setIcon(<immersiveengineering:sheetmetal:8>)
 
 //Set title String
-setTitle("MORE POWER!")
+setTitle("Industrial Upgrade")
 
 //Set description String
-setDescription("Complete the 'Information Upgrade' research in the Research Table")
+setDescription("Complete the 'Industrial Upgrade' research from the Research Table")
 
 
 
@@ -21,12 +21,10 @@ setShowToast(false)
 setAnnounceToChat(true)
 
 //Set the position
-setPos(50,0)
+setPos(250,0)
 
 criteria = addCriteria("adv", "triumph:gamestage")
 
-criteria.setStage("information_2")
+criteria.setStage("industrial_2")
 
-
-
-//setRewardFunction("Information:start2")
+//setRewardFunction("Industrial:start2")

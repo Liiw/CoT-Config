@@ -24,8 +24,8 @@ setAnnounceToChat(true)
 setPos(0,0)
 
 //Adds criteria
-criteria = addCriteria("steelDone", "triumph:completed_advancement")
-criteria.setAdvancement("Industrial:distillationtower")
+criteria = addCriteria("industrialdone", "triumph:completed_advancement")
+criteria.setAdvancement("Industrial:industrial_end")
 
 setRewardExperience(50)
 

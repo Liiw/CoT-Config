@@ -14,7 +14,7 @@
 			"lines": [
 				"§c§nWelcome to",
 				"§eThe Age of Metal!",
-				"§2New ores are revealed to you"
+				"§6§oNew ores are revealed to you"
 			]
 		},
 		{
@@ -24,7 +24,7 @@
 				"§c§nWelcome to",
 				"§eThe Medieval Age",
 				"§4New stuff, new ores, new You!",
-				"§eAnd magic!"
+				"§a§oAnd magic!"
 			]
 		},
 		{
@@ -34,7 +34,7 @@
 				"§c§nWelcome to",
 				"§eThe Industrial Age",
 				"§6Top hats, monocles and martinis",
-				"§5And HEAVY MACHINERY!!!"
+				"§c§oAnd HEAVY MACHINERY!!!"
 			]
 		},
 		{
@@ -43,7 +43,7 @@
 			"lines": [
 				"§c§nWelcome to",
 				"§eThe Information Age",
-				"§7Work harder AND smarter!"
+				"§2§oWork harder AND smarter!"
 			]
 		},
 		{
@@ -52,7 +52,7 @@
 			"lines": [
 				"§c§nWelcome to",
 				"§eThe End",
-				"§4So, what now?"
+				"§d§oSo, what now?"
 			]
 		},
 		{

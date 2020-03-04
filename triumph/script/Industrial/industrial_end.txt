@@ -1,16 +1,16 @@
 
-addParent("Information:blutonium")
+addParent("Industrial:industrial_2")
 
-hiddenUnless("Information:blutonium")
+hiddenUnless("Industrial:industrial_2")
 
 //Set icon item
-setIcon(<extracells:storage.component:3>)
+setIcon(<immersiveengineering:metal_decoration0:3>)
 
 //Set title String
-setTitle("The Art Of The Deal")
+setTitle("Onward!")
 
 //Set description String
-setDescription("Complete 'The Start of The End' research at the Research Table")
+setDescription("Complete the 'Information Starter' research to advance towards the Information Age")
 
 
 
@@ -21,11 +21,8 @@ setShowToast(false)
 setAnnounceToChat(false)
 
 //Set the position
-setPos(100,0)
+setPos(300,0)
 
 criteria = addCriteria("adv", "triumph:gamestage")
 
-criteria.setStage("endgame_1")
-
-
-//setRewardFunction("Information:start2")
+criteria.setStage("industrial_end")

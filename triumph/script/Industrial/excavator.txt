@@ -1,16 +1,16 @@
 
-addParent("Industrial:railgun")
+addParent("Industrial:researchtable")
 
-hiddenUnless("Industrial:railgun")
+hiddenUnless("Industrial:researchtable")
 
 //Set icon item
-setIcon(<mts:jerrycan>)
+setIcon(<immersiveengineering:metal_decoration0:5>)
 
 //Set title String
-setTitle("Pump it up!")
+setTitle("The Excavator")
 
 //Set description String
-setDescription("Find a fluid reservoir and place a pumpjack on it")
+setDescription("Build an excavator (preferably over a resource node- read more about it from the Engineer's Manual")
 
 
 
@@ -21,9 +21,10 @@ setShowToast(false)
 setAnnounceToChat(true)
 
 //Set the position
-setPos(200,0)
+setPos(167,-50)
 
 criteria = addCriteria("formed", "immersiveengineering:multiblock_formed")
 
-criteria.setMultiblock("IP:Pumpjack")
+criteria.setMultiblock("IE:Excavator")
 
+setRewardFunction("Industrial:excavator")

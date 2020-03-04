@@ -1,16 +1,16 @@
 
-addParent("Industrial:pumpjack")
+//addParent("Industrial:industrial_2")
 
-hiddenUnless("Industrial:pumpjack")
+hiddenUnless("Industrial:industrial_2")
 
 //Set icon item
-setIcon(<mts:fuelpump>)
+setIcon(<immersiveengineering:jerrycan>)
 
 //Set title String
-setTitle("Gimme fuel, gimme fire...")
+setTitle("Pump it up!")
 
 //Set description String
-setDescription("Build a distillation tower")
+setDescription("Find a fluid reservoir and place a pumpjack on it")
 
 
 
@@ -18,12 +18,12 @@ setDescription("Build a distillation tower")
 setShowToast(false)
 
 //Set the advancement to not send a chat message when it is achieved.
-setAnnounceToChat(false)
+setAnnounceToChat(true)
 
 //Set the position
 setPos(250,0)
 
 criteria = addCriteria("formed", "immersiveengineering:multiblock_formed")
 
-criteria.setMultiblock("IP:DistillationTower")
+criteria.setMultiblock("IP:Pumpjack")
 
