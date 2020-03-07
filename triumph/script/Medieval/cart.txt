@@ -4,13 +4,13 @@ addParent("Medieval:ghasttear")
 hiddenUnless("Medieval:ghasttear")
 
 //Set icon item
-setIcon(<thaumcraft:ingot>)
+setIcon(<astikorcarts:wheel>)
 
 //Set title String
-setTitle("Magic Metal!")
+setTitle("Cart Shuffle")
 
 //Set description String
-setDescription("Get a thaumium ingot (look for crystals in caves for a start)")
+setDescription("Get a cart, a plow and a transportation cart")
 
 
 
@@ -23,8 +23,10 @@ setAnnounceToChat(true)
 //Set the position
 setPos(100,0)
 
-criteria = addCriteria("hasthaumium", "minecraft:inventory_changed")
+criteria = addCriteria("hascart", "minecraft:inventory_changed")
 
-criteria.addItem(<thaumcraft:ingot>)
+criteria.addItem(<astikorcarts:cargocart>)
+criteria.addItem(<astikorcarts:plowcart>)
+criteria.addItem(<astikorcarts:mobcart>)
 
 setRewardFunction("Medieval:start3")

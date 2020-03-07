@@ -1,7 +1,7 @@
 
-addParent("Medieval:thaumium")
+addParent("Medieval:cart")
 
-hiddenUnless("Medieval:thaumium")
+hiddenUnless("Medieval:cart")
 
 //Set icon item
 setIcon(<thermalfoundation:storage_alloy>)
