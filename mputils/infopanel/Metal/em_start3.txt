@@ -2,5 +2,12 @@ ORE SPAWNING
 
 Some ores are distributed by biomes. Here are the biomes for where these ores will spawn in:
 
-Cassiterite (tin) - ocean, frozen ocean, deep ocean
-Teallite (tin) - river
+Lapis Lazuli - desert, desert M, desert hills
+
+Limonite (iron) - swampland, swampland M, mushroom island, mushroom island shore (NB! the other iron ore, hematite, spawns in every biome)
+
+Galena (lead) - plains, plains M, ice flats, ice flats M 
+
+Bauxite (aluminum) - jungle, jungle M, jungle edge, jungle edge M, jugnle hills, beaches, savanna, savanna M, savanna plateau, savanna plateau M
+
+Platinum, Certus quartz, Autunite (uranium) and Emerald  - ice mountains, extreme hills, extreme hills+, extreme hills M, extreme hills+ M, extreme hills edge

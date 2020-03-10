@@ -16,6 +16,8 @@ After the clay has melted, pour it onto the casting table by right-clicking the 
 Now throw some copper ore (or ingots) into the melter. Two is enough for a pick head. Wait for it to melt. If the melter is complaining about temperatures, use blocks of coal or charcoal to fuel it.
 After the copper has melted, pour it onto the clay cast as you did with the clay. As the pick head thaws, it will consume the clay cast. 
 
+Remember that you can only have one fluid at a time in a melter. Later as you progress, you will be able to build a smeltery which lacks that limitation. 
+
 Once you get the copper pickaxe head, you can make a copper pickaxe by combining the pickaxe head with a binding and a tool rod at the tool station. After getting a copper pickaxe, you can go look for some tin (cassiterite and teallite ores).
 When you have tin, you will learn how to alloy it with copper.
 

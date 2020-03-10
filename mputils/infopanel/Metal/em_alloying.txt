@@ -2,7 +2,7 @@ Congratualations on getting tin!
 
 Now you must prepare to make bronze. To alloy metals together, you can use the alloying tank now available to you.
 
-First you must have two melters, with heating underneath, placed one block apart from each other. Between the melters place an alloying tank. Under the alloying tank place a heat source (either a seared heater or a tank filled with lava). 
+First you must have two melters, with heating underneath, placed one block apart from each other. Between the melters place an alloying tank. Under the alloying tank place a heat source (either a tank filled with lava or a seared heater). 
 When you check JEI for the molten bronze recipe and click on the "alloying" tab, you can see that it takes three copper ingots and one tin ingot to produce four ingots of bronze.
 You should always pay attention to these ratios, so that you do not leave unwanted remainders into your melting machinery. 
 

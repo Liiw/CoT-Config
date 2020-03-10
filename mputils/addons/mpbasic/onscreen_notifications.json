@@ -2,7 +2,7 @@
 	"onScreenNotifications": [
 		{
 			"id": "stoneage",
-			"soundlocation": "minecraft:entity.player.levelup",
+			"soundlocation": "minecraft:ui.toast.challenge_complete",
 			"lines": [
 				"§c§nWelcome to",
 				"§eThe Stone Age!"
@@ -10,7 +10,7 @@
 		},
 		{
 			"id": "metal",
-			"soundlocation": "minecraft:entity.player.levelup",
+			"soundlocation": "minecraft:ui.toast.challenge_complete",
 			"lines": [
 				"§c§nWelcome to",
 				"§eThe Age of Metal!",
@@ -19,7 +19,7 @@
 		},
 		{
 			"id": "medieval",
-			"soundlocation": "minecraft:entity.player.levelup",
+			"soundlocation": "minecraft:ui.toast.challenge_complete",
 			"lines": [
 				"§c§nWelcome to",
 				"§eThe Medieval Age",
@@ -29,7 +29,7 @@
 		},
 		{
 			"id": "industrial",
-			"soundlocation": "minecraft:entity.player.levelup",
+			"soundlocation": "minecraft:ui.toast.challenge_complete",
 			"lines": [
 				"§c§nWelcome to",
 				"§eThe Industrial Age",
@@ -39,7 +39,7 @@
 		},
 		{
 			"id": "information",
-			"soundlocation": "minecraft:entity.player.levelup",
+			"soundlocation": "minecraft:ui.toast.challenge_complete",
 			"lines": [
 				"§c§nWelcome to",
 				"§eThe Information Age",
@@ -48,7 +48,7 @@
 		},
 		{
 			"id": "endgame",
-			"soundlocation": "minecraft:entity.player.levelup",
+			"soundlocation": "minecraft:ui.toast.challenge_complete",
 			"lines": [
 				"§c§nWelcome to",
 				"§eThe End",
@@ -69,7 +69,6 @@
 		},
 		{
 			"id": "example",
-			"soundlocation": "minecraft:entity.creeper.primed",
 			"lines": [
 				"§c§nBoom!!!",
 				"§eDid I scare you?"

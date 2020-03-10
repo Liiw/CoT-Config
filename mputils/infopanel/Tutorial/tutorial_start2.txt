@@ -2,13 +2,15 @@ Some changes in the general game. You don't have all the stuff in JEI showing. Y
 You can follow the advancements screen ("L" key) to see excactly what you would need to be doing.
 
 Starting off, you have less hearts than 10. To increase the amount of hearts, you need to eat different types of food.
-After you have reached a certain amount (a milestone) you should get an extra heart. The progress should be visible above your
-hotbar.
+After you have reached a certain amount (a milestone) you will get an extra heart. Here are the milestones in numbers: 10, 20, 40, 80, 100, 120, 140, 160, 180, 200, 220, 240, 260, 280, 300, 350, 450, 550. 
+This means you will get your first extra heart when you have eaten 10 different food items, the next one at 20 and so on.
 
 Most items now also have weight. This is to encourage transportation infrastructure. You will have plenty of ways to transport massive amounts of stuff.
 
 First you need to make a flint axe to get some wood. This is a custom recipe, it needs two sticks, a piece of cordage and a flint placed randomly to your inventory crafting grid.
 After getting the axe, you can proceed somewhat normally. Once you reach the Metal Age, tool crafting will change a little. You will find out how.
+
+Books, such as this will come to you in future advancements. As soon as you unlock the stone age, you can craft a bookshelf with a book and this helps you to store them more easily.
 
 Most of the progressing is done through advancements and gamestages. If you would like to team up with someone, you can use commands from a mod called "together forever".
 If you decide to create a team or join someone elses team, your advancements and gamestages will be synced. That means that if you have been away for a while and your teammates have undergone quite an evolution, your stagedata and advancements will be synced upon your next login.

@@ -1,1 +1,25 @@
-{ "effects": [ { "type": "potion", "cooldown": "20", "min": 100, "max": 2000, "potions": [ { "name": "minecraft:slowness", "duration": "40", "amplifier": 3 } ] } ] }
+{
+ "effects": 
+    [ 
+        { 
+            "type": "attribute",
+            "effect":"generic.movementSpeed",
+            "min": 1,
+            "max": 500,
+            "percent": true,
+            "id": "effect.moveSlowdown",
+            "amount":-0.05,
+            "modifierType":0
+        },
+        { 
+            "type": "attribute",
+            "effect":"generic.movementSpeed",
+            "min": 1.1,
+            "max": 500,
+            "percent": true,
+            "id": "effect.moveStop",
+            "amount":-0.05,
+            "modifierType":0
+        }
+    ]
+}
