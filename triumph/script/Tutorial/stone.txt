@@ -1,4 +1,4 @@
-addParent("Tutorial:flintaxe")
+addParent("Tutorial:stoneaxe")
 
 //Set icon item
 setIcon(<minecraft:cobblestone>)
@@ -9,7 +9,7 @@ setTitle("Wanna get stoned?")
 //Set description String
 setDescription("Get a piece of cobblestone")
 
-hiddenUnless("Tutorial:flintaxe")
+hiddenUnless("Tutorial:stoneaxe")
 
 //Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
 setShowToast(false)
@@ -18,7 +18,14 @@ setShowToast(false)
 setAnnounceToChat(false)
 
 //Set the position
-setPos(203,0)
+setPos(150,0)
+
+setFrameType("GOAL")
+//Set Better Advancements icon/title/line colors. Supports single color int, 3 rgb ints, and hex.
+setUncompletedIconColor(255,255,255)
+setCompletedIconColor(48, 184, 48)
+
+
 
 
 criteria = addCriteria("hasCobble", "minecraft:inventory_changed")

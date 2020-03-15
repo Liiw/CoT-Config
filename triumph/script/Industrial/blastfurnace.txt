@@ -4,7 +4,7 @@ addParent("Industrial:cokeoven")
 hiddenUnless("Industrial:cokeoven")
 
 //Set icon item
-setIcon(<immersiveengineering:stone_decoration:1>)
+setIcon(<immersiveengineering:stone_device, meta:1>)
 
 //Set title String
 setTitle("OffBlast!")

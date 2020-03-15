@@ -4,7 +4,7 @@ addParent("Industrial:root")
 hiddenUnless("Industrial:root")
 
 //Set icon item
-setIcon(<immersiveengineering:stone_decoration>)
+setIcon(<immersiveengineering:stone_device, meta:0>)
 
 //Set title String
 setTitle("High on coke")

@@ -30,3 +30,4 @@ setPos(100,0)
 criteriatwo = addCriteria("completed", "triumph:right_click_item")
 criteriatwo.setItem(<primal_tech:fire_sticks>)
 
+setRewardFunction("Stone:startfire")

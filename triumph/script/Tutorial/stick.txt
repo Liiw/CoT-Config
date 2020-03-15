@@ -1,5 +1,5 @@
 
-setParent("Tutorial:twig")
+setParent("Tutorial:root")
 
 //Set icon item
 setIcon(<minecraft:stick>)
@@ -8,9 +8,9 @@ setIcon(<minecraft:stick>)
 setTitle("Sticky business")
 
 //Set description String
-setDescription("Make a stick by combining two twigs")
+setDescription("Get a stick (they're everywhere on the ground or get twigs by punching treeleaves)")
 
-hiddenUnless("Tutorial:twig")
+
 
 //Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
 setShowToast(false)
@@ -19,7 +19,7 @@ setShowToast(false)
 setAnnounceToChat(true)
 
 //Set the position
-setPos(100,0)
+setPos(50,0)
 
 
 

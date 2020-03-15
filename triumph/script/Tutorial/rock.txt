@@ -1,0 +1,26 @@
+
+addParent("Tutorial:root")
+
+//Set icon item
+setIcon(<immcraft:rock>)
+
+//Set title String
+setTitle("I WANNA ROCK!")
+
+//Set description String
+setDescription("Get a rock (from the ground)")
+
+hiddenUnless("Tutorial:root")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(true)
+
+//Set the position
+setPos(50,-50)
+
+criteria = addCriteria("get_item", "minecraft:inventory_changed")
+criteria.addItem(<immcraft:rock>)
+

@@ -21,11 +21,16 @@ setShowToast(false)
 //Set the advancement to not send a chat message when it is achieved.
 setAnnounceToChat(true)
 
+
+
 //Set the position
 setPos(150,0)
 
+setRequirements("any")
+
 criteria = addCriteria("hasiron", "minecraft:inventory_changed")
 
-criteria.addItem(<geolosys:cluster:0>)
+
+criteria.addItem(<ore:oreIron>)
 
 setRewardFunction("Metal:start4")

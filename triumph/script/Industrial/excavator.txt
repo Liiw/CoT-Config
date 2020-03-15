@@ -4,7 +4,7 @@ addParent("Industrial:researchtable")
 hiddenUnless("Industrial:researchtable")
 
 //Set icon item
-setIcon(<immersiveengineering:metal_decoration0:5>)
+setIcon(<immersiveengineering:metal_multiblock, meta:12>)
 
 //Set title String
 setTitle("The Excavator")

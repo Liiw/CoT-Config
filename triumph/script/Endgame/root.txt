@@ -23,6 +23,11 @@ setAnnounceToChat(true)
 //Set the position
 setPos(0,0)
 
+setFrameType("CHALLENGE")
+//Set Better Advancements icon/title/line colors. Supports single color int, 3 rgb ints, and hex.
+setUncompletedIconColor(255,255,255)
+setCompletedIconColor(48, 184, 48)
+
 //Adds criteria
 criteria = addCriteria("steelDone", "triumph:completed_advancement")
 criteria.setAdvancement("Information:storagecell")

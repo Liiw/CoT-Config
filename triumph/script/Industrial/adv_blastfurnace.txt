@@ -5,7 +5,7 @@ hiddenUnless("Industrial:blastfurnace")
 hiddenUnless("Industrial:researchtable")
 
 //Set icon item
-setIcon(<immersiveengineering:stone_decoration:2>)
+setIcon(<immersiveengineering:stone_device, meta:2>)
 
 //Set title String
 setTitle("More OffBlast!")

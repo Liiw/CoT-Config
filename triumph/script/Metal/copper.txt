@@ -26,6 +26,6 @@ setPos(50,0)
 
 criteria = addCriteria("hascopper", "minecraft:inventory_changed")
 
-criteria.addItem(<geolosys:cluster:2>)
+criteria.addItem(<ore:oreIron>)
 
 setRewardFunction("Metal:start2")

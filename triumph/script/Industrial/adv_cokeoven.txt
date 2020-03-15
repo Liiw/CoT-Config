@@ -5,7 +5,7 @@ hiddenUnless("Industrial:cokeoven")
 hiddenUnless("Industrial:researchtable")
 
 //Set icon item
-setIcon(<immersivetech:stone_decoration>)
+setIcon(<immersivetech:stone_multiblock, meta:0>)
 
 //Set title String
 setTitle("Coke Overdose!")

@@ -1,0 +1,34 @@
+
+addParent("Tutorial:stick")
+addParent("Tutorial:rock")
+
+
+//Set icon item
+setIcon(<tconstruct:hatchet>)
+
+//setIcon(<minecraft:stone_axe>)
+
+//Set title String
+setTitle("Get to da choppa")
+
+//Set description String
+setDescription("Make a stone axe with a rock and a stick")
+
+
+hiddenUnless("Tutorial:stick")
+hiddenUnless("Tutorial:rock")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(true)
+
+//Set the position
+setPos(100,0)
+
+criteria = addCriteria("hasAx", "minecraft:inventory_changed")
+
+criteria.addItem(<tconstruct:hatchet>)
+
+setRewardExperience(50)

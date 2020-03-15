@@ -23,6 +23,11 @@ setAnnounceToChat(false)
 //Set the position
 setPos(250,0)
 
+setFrameType("GOAL")
+//Set Better Advancements icon/title/line colors. Supports single color int, 3 rgb ints, and hex.
+setUncompletedIconColor(255,255,255)
+setCompletedIconColor(48, 184, 48)
+
 criteria = addCriteria("get_item", "minecraft:inventory_changed")
 criteria.addItem(<minecraft:coal>)
 
