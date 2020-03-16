@@ -7,8 +7,10 @@ This means you will get your first extra heart when you have eaten 10 different 
 
 Most items now also have weight. This is to encourage transportation infrastructure. You will have plenty of ways to transport massive amounts of stuff.
 
-First you need to make a flint axe to get some wood. This is a custom recipe, it needs two sticks, a piece of cordage and a flint placed randomly to your inventory crafting grid.
-After getting the axe, you can proceed somewhat normally. Once you reach the Metal Age, tool crafting will change a little. You will find out how.
+First you need to make a stone axe to get some wood. This is a custom recipe, It needs a stick and a rock placed randomly to your inventory crafting grid.
+After getting the axe, you can proceed somewhat normally- chopping down trees and making a crafting table from the wood and then some vanilla tools for stone mining. Once you reach the Metal Age, tool crafting will change a little. You will find out how.
+
+About chopping wood - HOLDING DOWN SHIFT LETS YOU CHOP THE WHOLE TREE!
 
 Books, such as this will come to you in future advancements. As soon as you unlock the stone age, you can craft a bookshelf with a book and this helps you to store them more easily.
 

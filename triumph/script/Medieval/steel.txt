@@ -30,5 +30,5 @@ setCompletedIconColor(48, 184, 48)
 
 criteria = addCriteria("hasthaumium", "minecraft:inventory_changed")
 
-criteria.addItem(<thermalfoundation:storage_alloy>)
+criteria.addItem(<ore:blockSteel>)
 

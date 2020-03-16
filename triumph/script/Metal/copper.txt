@@ -26,6 +26,6 @@ setPos(50,0)
 
 criteria = addCriteria("hascopper", "minecraft:inventory_changed")
 
-criteria.addItem(<ore:oreIron>)
+criteria.addItem(<ore:oreCopper>)
 
 setRewardFunction("Metal:start2")
