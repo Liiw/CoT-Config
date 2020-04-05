@@ -8,10 +8,10 @@ hiddenUnless("Industrial:researchtable")
 setIcon(<immersiveengineering:stone_device, meta:2>)
 
 //Set title String
-setTitle("More OffBlast!")
+setTranslatedTitle("advancements.industrial.adv_blastfurnace.title")
 
 //Set description String
-setDescription("Create an Advanced Blast Furnace (you need to research it using the Research Table)")
+setTranslatedDescription("advancements.industrial.industrial.adv_blastfurnace.description")
 
 
 

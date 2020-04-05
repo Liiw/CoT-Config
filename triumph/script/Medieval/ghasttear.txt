@@ -7,10 +7,10 @@ hiddenUnless("Medieval:root")
 setIcon(<minecraft:ghast_tear>)
 
 //Set title String
-setTitle("A real tear jerker!")
+setTranslatedTitle("advancements.medieval.ghasttear.title")
 
 //Set description String
-setDescription("Go to the Nether and get a Ghast tear")
+setTranslatedDescription("advancements.medieval.ghasttear.description")
 
 
 

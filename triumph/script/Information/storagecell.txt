@@ -7,10 +7,10 @@ hiddenUnless("Information:blutonium")
 setIcon(<extracells:storage.component:3>)
 
 //Set title String
-setTitle("The Art Of The Deal")
+setTranslatedTitle("advancements.information.storagecell.title")
 
 //Set description String
-setDescription("Complete 'The Start of The End' research at the Research Table")
+setTranslatedDescription("advancements.information.storagecell.description")
 
 
 

@@ -7,10 +7,10 @@
 setIcon(<minecraft:stone>)
 
 //Set title String
-setTitle("Stone Age")
+setTranslatedTitle("advancements.stone.root.title")
 
 //Set description String
-setDescription("We're banging rocks together here.")
+setTranslatedDescription("advancements.stone.root.description")
 
 //Set background String. This is a path to any texture in a resource pack, so you can set it to fun things.
 setBackground("minecraft:textures/gui/advancements/backgrounds/adventure.png")
@@ -25,8 +25,10 @@ setAnnounceToChat(true)
 setPos(0,0)
 
 //Adds criteria
-criteria = addCriteria("get_item", "minecraft:inventory_changed")
-criteria.addItem(<minecraft:cobblestone>)
+
+
+criteria = addCriteria("cobbledone", "triumph:completed_advancement")
+criteria.setAdvancement("Tutorial:stone")
 
 setRewardExperience(50)
 

@@ -7,10 +7,10 @@ hiddenUnless("Industrial:industrial_2")
 setIcon(<immersiveengineering:metal_decoration0:3>)
 
 //Set title String
-setTitle("Onward!")
+setTranslatedTitle("advancements.industrial.industrialend.title")
 
 //Set description String
-setDescription("Complete the 'Information Starter' research to advance towards the Information Age")
+setTranslatedDescription("advancements.industrial.industrialend.description")
 
 
 

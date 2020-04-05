@@ -7,10 +7,10 @@ hiddenUnless("Medieval:ghasttear")
 setIcon(<astikorcarts:wheel>)
 
 //Set title String
-setTitle("Cart Shuffle")
+setTranslatedTitle("advancements.medieval.cart.title")
 
 //Set description String
-setDescription("Get a cart, a plow and a transportation cart")
+setTranslatedDescription("advancements.medieval.cart.description")
 
 
 

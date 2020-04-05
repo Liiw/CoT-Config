@@ -1,3 +1,19 @@
 {
-  "materialMappings": {}
+  "materialMappings": {
+    "nickel_poor_ore": 13,
+    "coal_poor_ore": 9,
+    "lead_poor_ore": 11,
+    "emerald_poor_ore": 8,
+    "gold_poor_ore": 0,
+    "lapis_poor_ore": 12,
+    "platinum_poor_ore": 7,
+    "aluminum_poor_ore": 1,
+    "diamond_poor_ore": 3,
+    "copper_poor_ore": 14,
+    "redstone_poor_ore": 5,
+    "iron_poor_ore": 2,
+    "uranium_poor_ore": 6,
+    "quartz_poor_ore": 4,
+    "tin_poor_ore": 10
+  }
 }

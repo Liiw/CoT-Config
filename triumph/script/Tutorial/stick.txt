@@ -5,10 +5,10 @@ setParent("Tutorial:root")
 setIcon(<minecraft:stick>)
 
 //Set title String
-setTitle("Sticky business")
+setTranslatedTitle("advancements.tutorial.stick.title")
 
 //Set description String
-setDescription("Get a stick (they're everywhere on the ground or get twigs by punching treeleaves)")
+setTranslatedDescription("advancements.tutorial.stick.description")
 
 
 

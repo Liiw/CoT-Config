@@ -4,10 +4,10 @@ addParent("Stone:root")
 setIcon(<primal_tech:wood_club>)
 
 //Set title String
-setTitle("Let's Go Clubbing!")
+setTranslatedTitle("advancements.stone.woodclub.title")
 
 //Set description String
-setDescription("Get a wooden club. You can get bone shards by clubbing animals")
+setTranslatedDescription("advancements.stone.woodclub.description")
 
 
 
@@ -22,4 +22,4 @@ setPos(50,0)
 
 
 criteria = addCriteria("get_woodclub", "minecraft:inventory_changed")
-criteria.addItem(<primal_tech:wood_club>)
+criteria.addItem(<ore:primalClubs>)

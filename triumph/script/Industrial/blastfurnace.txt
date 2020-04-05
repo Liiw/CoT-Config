@@ -7,10 +7,10 @@ hiddenUnless("Industrial:cokeoven")
 setIcon(<immersiveengineering:stone_device, meta:1>)
 
 //Set title String
-setTitle("OffBlast!")
+setTranslatedTitle("advancements.industrial.blastfurnace.title")
 
 //Set description String
-setDescription("Create a Blast Furnace")
+setTranslatedDescription("advancements.industrial.blastfurnace.description")
 
 
 

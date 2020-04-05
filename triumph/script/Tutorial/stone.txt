@@ -4,10 +4,10 @@ addParent("Tutorial:stoneaxe")
 setIcon(<minecraft:cobblestone>)
 
 //Set title String
-setTitle("Wanna get stoned?")
+setTranslatedTitle("advancements.tutorial.stone.title")
 
 //Set description String
-setDescription("Get a piece of cobblestone")
+setTranslatedDescription("advancements.tutorial.stone.description")
 
 hiddenUnless("Tutorial:stoneaxe")
 
@@ -29,4 +29,4 @@ setCompletedIconColor(48, 184, 48)
 
 
 criteria = addCriteria("hasCobble", "minecraft:inventory_changed")
-criteria.addItem(<minecraft:cobblestone>)
+criteria.addItem(<ore:cobbleStones>)

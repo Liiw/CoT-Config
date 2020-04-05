@@ -7,10 +7,10 @@ hiddenUnless("Stone:stonegrill")
 setIcon(<minecraft:stone_pickaxe>)
 
 //Set title String
-setTitle("Can't be picky")
+setTranslatedTitle("advancements.stone.stone_pick.title")
 
 //Set description String
-setDescription("Get a stone pick")
+setTranslatedDescription("advancements.stone.stone_pick.description")
 
 
 

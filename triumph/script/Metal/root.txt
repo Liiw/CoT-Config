@@ -6,10 +6,10 @@
 setIcon(<thermalfoundation:material:128>)
 
 //Set title String
-setTitle("Metal Age")
+setTranslatedTitle("advancements.metal.root.title")
 
 //Set description String
-setDescription("Let's get shredding")
+setTranslatedDescription("advancements.metal.root.description")
 
 //Set background String. This is a path to any texture in a resource pack, so you can set it to fun things.
 setBackground("minecraft:textures/gui/advancements/backgrounds/adventure.png")

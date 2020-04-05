@@ -5,10 +5,10 @@
 setIcon(<minecraft:enchanting_table>)
 
 //Set title String
-setTitle("Medieval Age")
+setTranslatedTitle("advancements.medieval.root.title")
 
 //Set description String
-setDescription("Ye olde blockse and stuffe")
+setTranslatedDescription("advancements.medieval.root.description")
 
 //Set background String. This is a path to any texture in a resource pack, so you can set it to fun things.
 setBackground("minecraft:textures/gui/advancements/backgrounds/adventure.png")

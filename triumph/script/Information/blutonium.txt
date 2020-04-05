@@ -7,10 +7,10 @@ addParent("Information:root")
 setIcon(<bigreactors:blockblutonium>)
 
 //Set title String
-setTitle("MORE POWER!")
+setTranslatedTitle("advancements.information.blutonium.title")
 
 //Set description String
-setDescription("Complete the 'Information Upgrade' research in the Research Table")
+setTranslatedDescription("advancements.information.blutonium.description")
 
 
 

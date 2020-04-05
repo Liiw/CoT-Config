@@ -6,10 +6,10 @@ hiddenUnless("Stone:fire")
 setIcon(<primal_tech:stone_grill>)
 
 //Set title String
-setTitle("BBQ")
+setTranslatedTitle("advancements.stone.stonegrill.title")
 
 //Set description String
-setDescription("Get a stone grill and place it on the fire source. Put stuff in the grill to cook it")
+setTranslatedDescription("advancements.stone.stonegrill.description")
 
 
 
@@ -22,7 +22,7 @@ setAnnounceToChat(true)
 //Set the position
 setPos(150,0)
 
-setRequirements("any");
+
 
 criteria = addCriteria("get_item", "minecraft:inventory_changed")
 criteria.addItem(<primal_tech:stone_grill>)

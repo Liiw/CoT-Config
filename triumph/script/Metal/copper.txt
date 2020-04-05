@@ -8,10 +8,10 @@ setIcon(<geolosys:cluster:2>)
 
 
 //Set title String
-setTitle("Copperfield")
+setTranslatedTitle("advancements.metal.copper.title")
 
 //Set description String
-setDescription("Find and mine some copper ore")
+setTranslatedDescription("advancements.metal.copper.description")
 
 
 

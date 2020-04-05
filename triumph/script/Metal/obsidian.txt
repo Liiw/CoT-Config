@@ -8,11 +8,10 @@ setIcon(<minecraft:obsidian>)
 
 
 //Set title String
-setTitle("Igneous Rock")
+setTranslatedTitle("advancements.metal.obsidian.title")
 
 //Set description String
-setDescription("Get a block of obsidian (find some diamond to mine it underground or alloy it from lava and water)")
-
+setTranslatedDescription("advancements.metal.obsidian.description")
 
 
 //Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.

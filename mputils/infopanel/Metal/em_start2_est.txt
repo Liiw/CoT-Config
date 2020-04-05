@@ -1,0 +1,32 @@
+Esimene maak, mida Sa leida võid, on vask (copper).
+
+Otsi malachite või azurite hunnikuid maapinnal. Nende kaevamisel saad vasemaagi tükke (copper cluster). Maa all sügavamal on veel vaske, enne viimase hunniku kaevamist märgi see asukoht omale kaardil.
+Pärast vase hankimist on Sul vaja teha omale vahendid selle vase töötlemiseks.
+
+Alustuseks tee omale šabloonilaud, tööriistaosade valmistamise laud ja tööriistavalmistamise pink (stencil table, part builder ja tool station). Võid ka teha pattern chesti, et valmistatud šabloone oleks parem hoiustada.
+
+Tee omale šabloonitoorikuid (blank pattern) ja kasutades šabloonilauda, tee omale kirkapea šabloon (pickaxe head pattern).
+Selle šablooni abil valmista kivist kirkapea part builderis.
+Lisaks tee samamoodi puidust tööriistavars ja köidis (wooden tool rod ja wooden binding).
+
+Meisterda kõrvetatud kütteahi (seared heater) ja pane see maha. Selle peale paiguta sulatusnõu (melter), sulatusnõu küljele paiguta valukraan (faucet) ja valukraani alla aseta valulaud (casting table).
+
+Esmalt pead Sa tegema savist valuvormi (clay cast) et teha vasest kirkapea (copper pickaxe head). Selleks pane kütteahju kütust (näiteks sütt või puusütt).
+Seejärel pane sulatusnõusse savi (vormi jaoks on 2 palli piisav) ja oota kuni see ära sulab. Aseta kivist kirkapea valulauale. Pärast savi sulamist vala see valulauale (tee valukraani peal paremklõps). Kui valuvorm on tahenenud, kaob kivist kirkapea ära.
+Nüüd pane vasemaaki (või -kange) sulatusnõusse. Kolm tükki on piisav, et teha kirkapea. Oota kuni see ära sulab. Kui kütteahi kurdab, et temperatuur on liiga madal, kasuta söetükkide asemel söeklotse.
+Pärast vase sulamist, vala see valuvormi. Pärast kirkapea tahenemist kaob valuvorm. Hiljem, kui Sa leiad kulda või saad teha alumiiniummessingut (aluminum brass) on Sul võimalik valmistada valuvorme, mis on korduvkasutatavad.
+
+Sulatusnõus saab korraga olla ainult ühte tüüpi vedelik. Kui tekib ülejääke, saad hoiustamiseks kasutada kõrvetatud anumat (seared tank). Selle jaoks kasuta kraani ning paiguta anum selle alla. Hiljem on Sul võimalik valmistada suur sulatusahi (smeltery) ning see võimaldab enda sisemuses hoida mitut erinevat tüüpi vedelikke.
+
+Pärast vasest kirkapea kättesaamist saad teha vasest kirka. Vali tool stationi pealt vasakult kirka sümbol ning aseta nõutud komponendid oma kohtadele. Kui Sa ei tea, mis komponente Sa vajad siis all paremal on kirjas.
+
+Korda seda protsessi, et vajadusel omale ka teisi vasest tööriistu teha (labidad, kirved jms).
+
+Tinkeri Tööriistade eelis on see, et Sul ei ole vaja mitut sama tööriista koopiat. Kui tööriist kulub või katki läheb, saad seda parandada. Pane tööriist tool stationi keskmisse slotti ja äärmisesse slotti pane kang või kamakas (ingot või nugget) samast materjalist, millest on tööriistapea.
+
+pärast vasest kirka saamist, on Sul võimalik kaevata tina (cassiterite või teallite).
+Kui Sa oled omale tina saanud ja sellest omale ühe kangi sulatanud, õpid Sa kuidas metallisulameid teha.
+
+
+
+

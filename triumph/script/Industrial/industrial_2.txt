@@ -7,10 +7,10 @@ hiddenUnless("Industrial:researchtable")
 setIcon(<immersiveengineering:sheetmetal:8>)
 
 //Set title String
-setTitle("Industrial Upgrade")
+setTranslatedTitle("advancements.industrial.industrial2.title")
 
 //Set description String
-setDescription("Complete the 'Industrial Upgrade' research from the Research Table")
+setTranslatedDescription("advancements.industrial.industrial2.description")
 
 
 

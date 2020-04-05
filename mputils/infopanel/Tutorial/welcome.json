@@ -3,6 +3,14 @@
   "mustRead": false,
   "pages": [
     {
+      "title": "Tere tulemast!",
+      "file": "tutorial_start_est"
+    },
+    {
+      "title": "Lisainfot!",
+      "file": "tutorial_start2_est"
+    },
+    {
       "title": "Welcome!",
       "file": "tutorial_start"
     },

@@ -7,10 +7,10 @@ hiddenUnless("Medieval:cart")
 setIcon(<thermalfoundation:storage_alloy>)
 
 //Set title String
-setTitle("Blocks of steel!")
+setTranslatedTitle("advancements.medieval.steel.title")
 
 //Set description String
-setDescription("Get a steel block (read 'Materials and You' section High Oven for more info)")
+setTranslatedDescription("advancements.medieval.steel.description")
 
 
 

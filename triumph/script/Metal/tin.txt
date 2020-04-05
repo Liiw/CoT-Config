@@ -11,10 +11,10 @@ setIcon(<thermalfoundation:material:129>)
 //.withTag({TinkerData: {Materials: ["wood", "copper", "wood"]})
 
 //Set title String
-setTitle("Can you tin?")
+setTranslatedTitle("advancements.metal.tin.title")
 
 //Set description String
-setDescription("Get a tin ingot")
+setTranslatedDescription("advancements.metal.tin.description")
 
 
 
@@ -29,6 +29,6 @@ setPos(100,0)
 
 criteria = addCriteria("hastin", "minecraft:inventory_changed")
 
-criteria.addItem(<thermalfoundation:material:129>)
+criteria.addItem(<ore:ingotTin>)
 
 setRewardFunction("Metal:start3")

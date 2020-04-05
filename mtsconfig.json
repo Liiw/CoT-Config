@@ -55,6 +55,11 @@
       "defaultValue": true,
       "comment": "Whether or not vehicles can break blocks when they hit them.  If false, vehicles will simply stop when they hit blocks."
     },
+    "wheelBreakage": {
+      "value": true,
+      "defaultValue": true,
+      "comment": "Whether or not wheels can be broken (go flat)."
+    },
     "propellerDamageFactor": {
       "value": 1.0,
       "defaultValue": 1.0,
@@ -145,7 +150,7 @@
       "defaultValue": false,
       "comment": "If enabled, MTS will re-load all resources every time the config key (P) is pressed.  This includes textures for vehicles and parts, JSON files, and OBJ models.  This is intended for use in pack creation with pack components being placed in an un-zipped resource pack.  Note that every re-load will also re-load EVERY resource, not just MTS resources.  Make sure not to have lots of mods installed when you are doing this!"
     },
-    "seaLevelOffset": {
+    "seaLvlOffset": {
       "value": false,
       "defaultValue": false,
       "comment": "Does altimiter read zero at average sea level instead of Y\u003d0?"
@@ -155,10 +160,40 @@
       "defaultValue": false,
       "comment": "Enable mouse yoke for vehicles? Prevents looking around unless unlocked.  Think MCHeli controls."
     },
-    "keyboardOverride": {
+    "kbOverride": {
       "value": true,
       "defaultValue": true,
       "comment": "Should keyboard controls be ignored when a joystick control is mapped?  Leave true to free up the keyboard while using a joysick."
+    },
+    "renderHUD_1P": {
+      "value": true,
+      "defaultValue": true,
+      "comment": "If false, the HUD in vehicles will not render in 1st-person mode."
+    },
+    "renderHUD_3P": {
+      "value": true,
+      "defaultValue": true,
+      "comment": "If false, the HUD in vehicles will not render in 3rd-person mode."
+    },
+    "fullHUD_1P": {
+      "value": false,
+      "defaultValue": false,
+      "comment": "If true, the full-size HUD will render in 1st-person rather than the half-size HUD."
+    },
+    "fullHUD_3P": {
+      "value": false,
+      "defaultValue": false,
+      "comment": "If true, the full-size HUD will render in 3rd-person rather than the half-size HUD."
+    },
+    "transpHUD_1P": {
+      "value": false,
+      "defaultValue": false,
+      "comment": "If true, the background textures for the HUD will not be rendered in 1st-person."
+    },
+    "transpHUD_3P": {
+      "value": false,
+      "defaultValue": false,
+      "comment": "If true, the background textures for the HUD will not be rendered in 1st-person."
     },
     "renderReductionHeight": {
       "value": 250,
@@ -175,6 +210,11 @@
       "defaultValue": 20,
       "comment": "How many units (1/10 of a degree) to turn the wheels on vehicles for every tick the button is held down.  This is not used when using a joystick."
     },
+    "flightIncrement": {
+      "value": 6,
+      "defaultValue": 6,
+      "comment": "How many units (1/10 of a degree) to move the elevators and ailerons on aircraft for every tick the button is held down.  This is not used when using a joystick."
+    },
     "joystickDeadZone": {
       "value": 0.03,
       "defaultValue": 0.03,
@@ -187,10 +227,10 @@
         "keyCode": 54
       },
       "aircraft.brake": {
-        "keyCode": 48
+        "keyCode": 50
       },
       "aircraft.throttle_u": {
-        "keyCode": 23
+        "keyCode": 17
       },
       "car.panel": {
         "keyCode": 22
@@ -211,19 +251,19 @@
         "keyCode": 157
       },
       "aircraft.yaw_l": {
-        "keyCode": 36
+        "keyCode": 30
       },
       "car.gas": {
         "keyCode": 17
       },
       "aircraft.throttle_d": {
-        "keyCode": 37
+        "keyCode": 31
       },
       "car.turn_l": {
         "keyCode": 30
       },
       "aircraft.roll_l": {
-        "keyCode": 30
+        "keyCode": 203
       },
       "car.camlock": {
         "keyCode": 157
@@ -232,10 +272,10 @@
         "keyCode": 32
       },
       "aircraft.yaw_r": {
-        "keyCode": 38
+        "keyCode": 32
       },
       "aircraft.roll_r": {
-        "keyCode": 32
+        "keyCode": 205
       },
       "car.shift_d": {
         "keyCode": 33
@@ -244,7 +284,7 @@
         "keyCode": 12
       },
       "aircraft.pitch_d": {
-        "keyCode": 17
+        "keyCode": 200
       },
       "car.zoom_o": {
         "keyCode": 209
@@ -262,7 +302,7 @@
         "keyCode": 201
       },
       "aircraft.pitch_u": {
-        "keyCode": 31
+        "keyCode": 208
       },
       "aircraft.mod": {
         "keyCode": 54

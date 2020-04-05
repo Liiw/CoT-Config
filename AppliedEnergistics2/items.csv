@@ -2712,12 +2712,12 @@ appliedenergistics2:facade:0, Cable Facade - Light Engineering Block
 appliedenergistics2:facade:0, Cable Facade - Heavy Engineering Block
 appliedenergistics2:facade:0, Cable Facade - Generator Block
 appliedenergistics2:facade:0, Cable Facade - Radiator Block
-appliedenergistics2:facade:0, Cable Facade - Stripped Oak Log
-appliedenergistics2:facade:0, Cable Facade - Stripped Spruce Log
-appliedenergistics2:facade:0, Cable Facade - Stripped Jungle Log
-appliedenergistics2:facade:0, Cable Facade - Stripped Acacia Log
-appliedenergistics2:facade:0, Cable Facade - Stripped Dark Oak Log
 appliedenergistics2:facade:0, Cable Facade - Stripped Birch Log
+appliedenergistics2:facade:0, Cable Facade - Stripped Jungle Log
+appliedenergistics2:facade:0, Cable Facade - Stripped Dark Oak Log
+appliedenergistics2:facade:0, Cable Facade - Stripped Oak Log
+appliedenergistics2:facade:0, Cable Facade - Stripped Acacia Log
+appliedenergistics2:facade:0, Cable Facade - Stripped Spruce Log
 appliedenergistics2:facade:0, Cable Facade - Dense Construction Block
 appliedenergistics2:facade:0, Cable Facade - Oak Trim
 appliedenergistics2:facade:0, Cable Facade - Spruce Trim
@@ -3826,8 +3826,6 @@ enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive IV"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive IV"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive V"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive V"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "The One Probe"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "The One Probe"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Travel"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Travel"
 enderio:item_owl_egg, Owl Egg
@@ -4111,40 +4109,40 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Armor Plates Pattern
+tconstruct:pattern:0, Axe Head Pattern
 tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Helmet Core Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Large Plate Pattern
 tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Leggings Core Pattern
+tconstruct:pattern:0, Kama Head Pattern
 tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Sign Plate Pattern
 tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Wide Guard Pattern
 tconstruct:pattern:0, Hammer Head Pattern
 tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Polishing Kit Pattern
-tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Leggings Core Pattern
 tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Helmet Core Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Pan Pattern
 tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Boots Core Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Bowstring Pattern
 tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Boots Core Pattern
+tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Polishing Kit Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Wide Guard Pattern
 tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Armor Plates Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Excavator Head Pattern
 tconstruct:pattern:0, Armor Trim Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
@@ -4164,6 +4162,7 @@ tconstruct:shard:0, Bone Shard
 tconstruct:shard:0, Obsidian Shard
 tconstruct:shard:0, Prismarine Shard
 tconstruct:shard:0, End Shard
+tconstruct:shard:0, Paper Shard
 tconstruct:shard:0, Sponge Shard
 tconstruct:shard:0, Firewood Shard
 tconstruct:shard:0, Iron Shard
@@ -4208,6 +4207,7 @@ tconstruct:sharpening_kit:0, Bone Sharpening Kit
 tconstruct:sharpening_kit:0, Obsidian Sharpening Kit
 tconstruct:sharpening_kit:0, Prismarine Sharpening Kit
 tconstruct:sharpening_kit:0, End Sharpening Kit
+tconstruct:sharpening_kit:0, Paper Sharpening Kit
 tconstruct:sharpening_kit:0, Sponge Sharpening Kit
 tconstruct:sharpening_kit:0, Firewood Sharpening Kit
 tconstruct:sharpening_kit:0, Iron Sharpening Kit
@@ -4252,6 +4252,7 @@ tconstruct:pick_head:0, Bone Pickaxe Head
 tconstruct:pick_head:0, Obsidian Pickaxe Head
 tconstruct:pick_head:0, Prismarine Pickaxe Head
 tconstruct:pick_head:0, End Pickaxe Head
+tconstruct:pick_head:0, Paper Pickaxe Head
 tconstruct:pick_head:0, Sponge Pickaxe Head
 tconstruct:pick_head:0, Firewood Pickaxe Head
 tconstruct:pick_head:0, Iron Pickaxe Head
@@ -4296,6 +4297,7 @@ tconstruct:shovel_head:0, Bone Shovel Head
 tconstruct:shovel_head:0, Obsidian Shovel Head
 tconstruct:shovel_head:0, Prismarine Shovel Head
 tconstruct:shovel_head:0, End Shovel Head
+tconstruct:shovel_head:0, Paper Shovel Head
 tconstruct:shovel_head:0, Sponge Shovel Head
 tconstruct:shovel_head:0, Firewood Shovel Head
 tconstruct:shovel_head:0, Iron Shovel Head
@@ -4340,6 +4342,7 @@ tconstruct:axe_head:0, Bone Axe Head
 tconstruct:axe_head:0, Obsidian Axe Head
 tconstruct:axe_head:0, Prismarine Axe Head
 tconstruct:axe_head:0, End Axe Head
+tconstruct:axe_head:0, Paper Axe Head
 tconstruct:axe_head:0, Sponge Axe Head
 tconstruct:axe_head:0, Firewood Axe Head
 tconstruct:axe_head:0, Iron Axe Head
@@ -4384,6 +4387,7 @@ tconstruct:broad_axe_head:0, Bone Broad Axe Head
 tconstruct:broad_axe_head:0, Obsidian Broad Axe Head
 tconstruct:broad_axe_head:0, Prismarine Broad Axe Head
 tconstruct:broad_axe_head:0, End Broad Axe Head
+tconstruct:broad_axe_head:0, Paper Broad Axe Head
 tconstruct:broad_axe_head:0, Sponge Broad Axe Head
 tconstruct:broad_axe_head:0, Firewood Broad Axe Head
 tconstruct:broad_axe_head:0, Iron Broad Axe Head
@@ -4428,6 +4432,7 @@ tconstruct:sword_blade:0, Bone Sword Blade
 tconstruct:sword_blade:0, Obsidian Sword Blade
 tconstruct:sword_blade:0, Prismarine Sword Blade
 tconstruct:sword_blade:0, End Sword Blade
+tconstruct:sword_blade:0, Paper Sword Blade
 tconstruct:sword_blade:0, Sponge Sword Blade
 tconstruct:sword_blade:0, Firewood Sword Blade
 tconstruct:sword_blade:0, Iron Sword Blade
@@ -4472,6 +4477,7 @@ tconstruct:large_sword_blade:0, Bone Large Sword Blade
 tconstruct:large_sword_blade:0, Obsidian Large Sword Blade
 tconstruct:large_sword_blade:0, Prismarine Large Sword Blade
 tconstruct:large_sword_blade:0, End Large Sword Blade
+tconstruct:large_sword_blade:0, Paper Large Sword Blade
 tconstruct:large_sword_blade:0, Sponge Large Sword Blade
 tconstruct:large_sword_blade:0, Firewood Large Sword Blade
 tconstruct:large_sword_blade:0, Iron Large Sword Blade
@@ -4516,6 +4522,7 @@ tconstruct:hammer_head:0, Bone Hammer Head
 tconstruct:hammer_head:0, Obsidian Hammer Head
 tconstruct:hammer_head:0, Prismarine Hammer Head
 tconstruct:hammer_head:0, End Hammer Head
+tconstruct:hammer_head:0, Paper Hammer Head
 tconstruct:hammer_head:0, Sponge Hammer Head
 tconstruct:hammer_head:0, Firewood Hammer Head
 tconstruct:hammer_head:0, Iron Hammer Head
@@ -4560,6 +4567,7 @@ tconstruct:excavator_head:0, Bone Excavator Head
 tconstruct:excavator_head:0, Obsidian Excavator Head
 tconstruct:excavator_head:0, Prismarine Excavator Head
 tconstruct:excavator_head:0, End Excavator Head
+tconstruct:excavator_head:0, Paper Excavator Head
 tconstruct:excavator_head:0, Sponge Excavator Head
 tconstruct:excavator_head:0, Firewood Excavator Head
 tconstruct:excavator_head:0, Iron Excavator Head
@@ -4604,6 +4612,7 @@ tconstruct:kama_head:0, Bone Kama Head
 tconstruct:kama_head:0, Obsidian Kama Head
 tconstruct:kama_head:0, Prismarine Kama Head
 tconstruct:kama_head:0, End Kama Head
+tconstruct:kama_head:0, Paper Kama Head
 tconstruct:kama_head:0, Sponge Kama Head
 tconstruct:kama_head:0, Firewood Kama Head
 tconstruct:kama_head:0, Iron Kama Head
@@ -4648,6 +4657,7 @@ tconstruct:scythe_head:0, Bone Scythe Head
 tconstruct:scythe_head:0, Obsidian Scythe Head
 tconstruct:scythe_head:0, Prismarine Scythe Head
 tconstruct:scythe_head:0, End Scythe Head
+tconstruct:scythe_head:0, Paper Scythe Head
 tconstruct:scythe_head:0, Sponge Scythe Head
 tconstruct:scythe_head:0, Firewood Scythe Head
 tconstruct:scythe_head:0, Iron Scythe Head
@@ -4692,6 +4702,7 @@ tconstruct:pan_head:0, Bone Pan
 tconstruct:pan_head:0, Obsidian Pan
 tconstruct:pan_head:0, Prismarine Pan
 tconstruct:pan_head:0, End Pan
+tconstruct:pan_head:0, Paper Pan
 tconstruct:pan_head:0, Sponge Pan
 tconstruct:pan_head:0, Firewood Pan
 tconstruct:pan_head:0, Iron Pan
@@ -4736,6 +4747,7 @@ tconstruct:sign_head:0, Bone Sign Plate
 tconstruct:sign_head:0, Obsidian Sign Plate
 tconstruct:sign_head:0, Prismarine Sign Plate
 tconstruct:sign_head:0, End Sign Plate
+tconstruct:sign_head:0, Paper Sign Plate
 tconstruct:sign_head:0, Sponge Sign Plate
 tconstruct:sign_head:0, Firewood Sign Plate
 tconstruct:sign_head:0, Iron Sign Plate
@@ -4780,6 +4792,7 @@ tconstruct:tool_rod:0, Bone Tool Rod
 tconstruct:tool_rod:0, Obsidian Tool Rod
 tconstruct:tool_rod:0, Prismarine Tool Rod
 tconstruct:tool_rod:0, End Tool Rod
+tconstruct:tool_rod:0, Paper Tool Rod
 tconstruct:tool_rod:0, Sponge Tool Rod
 tconstruct:tool_rod:0, Firewood Tool Rod
 tconstruct:tool_rod:0, Iron Tool Rod
@@ -4824,6 +4837,7 @@ tconstruct:tough_tool_rod:0, Bone Tough Tool Rod
 tconstruct:tough_tool_rod:0, Obsidian Tough Tool Rod
 tconstruct:tough_tool_rod:0, Prismarine Tough Tool Rod
 tconstruct:tough_tool_rod:0, End Tough Tool Rod
+tconstruct:tough_tool_rod:0, Paper Tough Tool Rod
 tconstruct:tough_tool_rod:0, Sponge Tough Tool Rod
 tconstruct:tough_tool_rod:0, Firewood Tough Tool Rod
 tconstruct:tough_tool_rod:0, Iron Tough Tool Rod
@@ -4868,6 +4882,7 @@ tconstruct:binding:0, Bone Binding
 tconstruct:binding:0, Obsidian Binding
 tconstruct:binding:0, Prismarine Binding
 tconstruct:binding:0, End Binding
+tconstruct:binding:0, Paper Binding
 tconstruct:binding:0, Sponge Binding
 tconstruct:binding:0, Firewood Binding
 tconstruct:binding:0, Iron Binding
@@ -4912,6 +4927,7 @@ tconstruct:tough_binding:0, Bone Tough Binding
 tconstruct:tough_binding:0, Obsidian Tough Binding
 tconstruct:tough_binding:0, Prismarine Tough Binding
 tconstruct:tough_binding:0, End Tough Binding
+tconstruct:tough_binding:0, Paper Tough Binding
 tconstruct:tough_binding:0, Sponge Tough Binding
 tconstruct:tough_binding:0, Firewood Tough Binding
 tconstruct:tough_binding:0, Iron Tough Binding
@@ -4956,6 +4972,7 @@ tconstruct:wide_guard:0, Bone Wide Guard
 tconstruct:wide_guard:0, Obsidian Wide Guard
 tconstruct:wide_guard:0, Prismarine Wide Guard
 tconstruct:wide_guard:0, End Wide Guard
+tconstruct:wide_guard:0, Paper Wide Guard
 tconstruct:wide_guard:0, Sponge Wide Guard
 tconstruct:wide_guard:0, Firewood Wide Guard
 tconstruct:wide_guard:0, Iron Wide Guard
@@ -5000,6 +5017,7 @@ tconstruct:hand_guard:0, Bone Hand Guard
 tconstruct:hand_guard:0, Obsidian Hand Guard
 tconstruct:hand_guard:0, Prismarine Hand Guard
 tconstruct:hand_guard:0, End Hand Guard
+tconstruct:hand_guard:0, Paper Hand Guard
 tconstruct:hand_guard:0, Sponge Hand Guard
 tconstruct:hand_guard:0, Firewood Hand Guard
 tconstruct:hand_guard:0, Iron Hand Guard
@@ -5044,6 +5062,7 @@ tconstruct:cross_guard:0, Bone Cross Guard
 tconstruct:cross_guard:0, Obsidian Cross Guard
 tconstruct:cross_guard:0, Prismarine Cross Guard
 tconstruct:cross_guard:0, End Cross Guard
+tconstruct:cross_guard:0, Paper Cross Guard
 tconstruct:cross_guard:0, Sponge Cross Guard
 tconstruct:cross_guard:0, Firewood Cross Guard
 tconstruct:cross_guard:0, Iron Cross Guard
@@ -5088,6 +5107,7 @@ tconstruct:large_plate:0, Bone Large Plate
 tconstruct:large_plate:0, Obsidian Large Plate
 tconstruct:large_plate:0, Prismarine Large Plate
 tconstruct:large_plate:0, End Large Plate
+tconstruct:large_plate:0, Paper Large Plate
 tconstruct:large_plate:0, Sponge Large Plate
 tconstruct:large_plate:0, Firewood Large Plate
 tconstruct:large_plate:0, Iron Large Plate
@@ -5132,6 +5152,7 @@ tconstruct:knife_blade:0, Bone Knife Blade
 tconstruct:knife_blade:0, Obsidian Knife Blade
 tconstruct:knife_blade:0, Prismarine Knife Blade
 tconstruct:knife_blade:0, End Knife Blade
+tconstruct:knife_blade:0, Paper Knife Blade
 tconstruct:knife_blade:0, Sponge Knife Blade
 tconstruct:knife_blade:0, Firewood Knife Blade
 tconstruct:knife_blade:0, Iron Knife Blade
@@ -5176,6 +5197,7 @@ tconstruct:bow_limb:0, Bone Bowlimb
 tconstruct:bow_limb:0, Obsidian Bowlimb
 tconstruct:bow_limb:0, Prismarine Bowlimb
 tconstruct:bow_limb:0, End Bowlimb
+tconstruct:bow_limb:0, Paper Bowlimb
 tconstruct:bow_limb:0, Sponge Bowlimb
 tconstruct:bow_limb:0, Firewood Bowlimb
 tconstruct:bow_limb:0, Iron Bowlimb
@@ -5220,6 +5242,7 @@ tconstruct:arrow_head:0, Bone Arrow Head
 tconstruct:arrow_head:0, Obsidian Arrow Head
 tconstruct:arrow_head:0, Prismarine Arrow Head
 tconstruct:arrow_head:0, End Arrow Head
+tconstruct:arrow_head:0, Paper Arrow Head
 tconstruct:arrow_head:0, Sponge Arrow Head
 tconstruct:arrow_head:0, Firewood Arrow Head
 tconstruct:arrow_head:0, Iron Arrow Head
@@ -5403,38 +5426,38 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Armor Plates Cast
+tconstruct:cast:0, Axe Head Cast
 tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Helmet Core Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Large Plate Cast
 tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Kama Head Cast
 tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Sign Plate Cast
 tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Wide Guard Cast
 tconstruct:cast:0, Hammer Head Cast
 tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Polishing Kit Cast
-tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Leggings Core Cast
 tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Helmet Core Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Pan Cast
 tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Bowstring Cast
 tconstruct:cast:0, Boots Core Cast
+tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Polishing Kit Cast
+tconstruct:cast:0, Shard Cast
 tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Scythe Head Cast
 tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Wide Guard Cast
 tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Armor Plates Cast
+tconstruct:cast:0, Excavator Head Cast
 tconstruct:cast:0, Armor Trim Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
@@ -5442,38 +5465,38 @@ tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Armor Plates Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
 tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Helmet Core Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
 tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
 tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
 tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
 tconstruct:clay_cast:0, Hammer Head Clay Cast
 tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Polishing Kit Clay Cast
-tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Leggings Core Clay Cast
 tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Helmet Core Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
 tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
 tconstruct:clay_cast:0, Boots Core Clay Cast
+tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Polishing Kit Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
 tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
 tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
 tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Armor Plates Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
 tconstruct:clay_cast:0, Armor Trim Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
@@ -5882,6 +5905,15 @@ astikorcarts:wheel, Wheel
 astikorcarts:cargocart, Cart
 astikorcarts:plowcart, Plow
 astikorcarts:mobcart, Transportation Cart
+basketcase:log_stripped_birch, Stripped Birch Log
+basketcase:log_stripped_jungle, Stripped Jungle Log
+basketcase:log_stripped_dark_oak, Stripped Dark Oak Log
+basketcase:container_basket_small, Small Wicker Basket
+basketcase:container_basket_large, Large Wicker Basket
+basketcase:log_stripped_oak, Stripped Oak Log
+basketcase:container_basket_medium, Medium Wicker Basket
+basketcase:log_stripped_acacia, Stripped Acacia Log
+basketcase:log_stripped_spruce, Stripped Spruce Log
 basketcase:item_plant_fiber, Plant Fibers
 basketcase:item_cordage, Cordage
 basketcase:item_bark_oak, Oak Bark
@@ -5895,15 +5927,6 @@ basketcase:item_twig, Twig
 basketcase:item_wicker_small, Small Wicker
 basketcase:item_wicker_medium, Medium Wicker
 basketcase:item_wicker_large, Large Wicker
-basketcase:log_stripped_oak, Stripped Oak Log
-basketcase:container_basket_medium, Medium Wicker Basket
-basketcase:container_basket_large, Large Wicker Basket
-basketcase:log_stripped_spruce, Stripped Spruce Log
-basketcase:log_stripped_jungle, Stripped Jungle Log
-basketcase:log_stripped_acacia, Stripped Acacia Log
-basketcase:log_stripped_dark_oak, Stripped Dark Oak Log
-basketcase:log_stripped_birch, Stripped Birch Log
-basketcase:container_basket_small, Small Wicker Basket
 buildinggadgets:buildingtool, Building Gadget
 buildinggadgets:exchangertool, Exchanging Gadget
 buildinggadgets:copypastetool, Copy-Paste Gadget
@@ -6042,6 +6065,7 @@ conarm:helmet_core:0, Bone Helmet Core
 conarm:helmet_core:0, Obsidian Helmet Core
 conarm:helmet_core:0, Prismarine Helmet Core
 conarm:helmet_core:0, End Helmet Core
+conarm:helmet_core:0, Paper Helmet Core
 conarm:helmet_core:0, Sponge Helmet Core
 conarm:helmet_core:0, Firewood Helmet Core
 conarm:helmet_core:0, Iron Helmet Core
@@ -6068,6 +6092,7 @@ conarm:armor_trim:0, Bone Armor Trim
 conarm:armor_trim:0, Obsidian Armor Trim
 conarm:armor_trim:0, Prismarine Armor Trim
 conarm:armor_trim:0, End Armor Trim
+conarm:armor_trim:0, Paper Armor Trim
 conarm:armor_trim:0, Sponge Armor Trim
 conarm:armor_trim:0, Firewood Armor Trim
 conarm:armor_trim:0, Iron Armor Trim
@@ -6094,6 +6119,7 @@ conarm:armor_plate:0, Bone Armor Plates
 conarm:armor_plate:0, Obsidian Armor Plates
 conarm:armor_plate:0, Prismarine Armor Plates
 conarm:armor_plate:0, End Armor Plates
+conarm:armor_plate:0, Paper Armor Plates
 conarm:armor_plate:0, Sponge Armor Plates
 conarm:armor_plate:0, Firewood Armor Plates
 conarm:armor_plate:0, Iron Armor Plates
@@ -6120,6 +6146,7 @@ conarm:chest_core:0, Bone Chestplate Core
 conarm:chest_core:0, Obsidian Chestplate Core
 conarm:chest_core:0, Prismarine Chestplate Core
 conarm:chest_core:0, End Chestplate Core
+conarm:chest_core:0, Paper Chestplate Core
 conarm:chest_core:0, Sponge Chestplate Core
 conarm:chest_core:0, Firewood Chestplate Core
 conarm:chest_core:0, Iron Chestplate Core
@@ -6146,6 +6173,7 @@ conarm:leggings_core:0, Bone Leggings Core
 conarm:leggings_core:0, Obsidian Leggings Core
 conarm:leggings_core:0, Prismarine Leggings Core
 conarm:leggings_core:0, End Leggings Core
+conarm:leggings_core:0, Paper Leggings Core
 conarm:leggings_core:0, Sponge Leggings Core
 conarm:leggings_core:0, Firewood Leggings Core
 conarm:leggings_core:0, Iron Leggings Core
@@ -6172,6 +6200,7 @@ conarm:boots_core:0, Bone Boots Core
 conarm:boots_core:0, Obsidian Boots Core
 conarm:boots_core:0, Prismarine Boots Core
 conarm:boots_core:0, End Boots Core
+conarm:boots_core:0, Paper Boots Core
 conarm:boots_core:0, Sponge Boots Core
 conarm:boots_core:0, Firewood Boots Core
 conarm:boots_core:0, Iron Boots Core
@@ -6224,6 +6253,7 @@ conarm:polishing_kit:0, Bone Polishing Kit
 conarm:polishing_kit:0, Obsidian Polishing Kit
 conarm:polishing_kit:0, Prismarine Polishing Kit
 conarm:polishing_kit:0, End Polishing Kit
+conarm:polishing_kit:0, Paper Polishing Kit
 conarm:polishing_kit:0, Sponge Polishing Kit
 conarm:polishing_kit:0, Firewood Polishing Kit
 conarm:polishing_kit:0, Iron Polishing Kit
@@ -6375,13 +6405,70 @@ farmingforblockheads:fertilized_farmland_stable, Fertilized Farmland
 farmingforblockheads:fertilizer:0, Red Fertilizer
 farmingforblockheads:fertilizer:1, Green Fertilizer
 farmingforblockheads:fertilizer:2, Yellow Fertilizer
-horsepower:flour, Flour
-horsepower:dough, Dough
+mts:handbook_en, item.handbook_en.name
+mts:handbook_ru, item.handbook_ru.name
+mts:wrench, Wrench
+mts:key, Key
+mts:jumpercable, Jumper Cables
+mts:jerrycan, Jerrycan
+mts:vehiclebench, Drafting Table (Vehicles)
+mts:propellerbench, Propeller Bench
+mts:enginebench, Engine Hoist
+mts:wheelbench, Wheel Workbench
+mts:seatbench, Table Saw (Seats & Cargo)
+mts:gunbench, Rifling Machine (Guns & Ammo)
+mts:custombench, Tool Bench (Custom Parts)
+mts:instrumentbench, Instrument Bench
+mts:componentbench, Component Bench (Custom Items)
+mts:decorbench, Decor Bench (Decorative Blocks)
+mts:fuelpump, Fuel Pump
+mts:trafficsignalcontroller, Traffic Signal Controller
+mts:pole, Pole
+mts:polebase, Pole Base
+mts:trafficsignal, Traffic Signal
+mts:crossingsignal, Crossing Signal
+mts:streetlight, Street Light
+mts:trafficsign, Traffic Sign
+ivairlinerpack:a320, item.ivairlinerpack.a320.name
+ivairlinerpack:crj200_blank, item.ivairlinerpack.crj200_blank.name
+ivairlinerpack:crj200_gap, item.ivairlinerpack.crj200_gap.name
+ivairlinerpack:crj200_ryanair, item.ivairlinerpack.crj200_ryanair.name
+ivairlinerpack:crj200_unu, item.ivairlinerpack.crj200_unu.name
+ivairlinerpack:crj200_trin, item.ivairlinerpack.crj200_trin.name
+ivairlinerpack:crj200_canada, item.ivairlinerpack.crj200_canada.name
+ivairlinerpack:crj200_lufthansa, item.ivairlinerpack.crj200_lufthansa.name
+ivairlinerpack:crj200_iberia, item.ivairlinerpack.crj200_iberia.name
+ivairlinerpack:crj200_aerlingus, item.ivairlinerpack.crj200_aerlingus.name
+ivairlinerpack:crj200_britishairways, item.ivairlinerpack.crj200_britishairways.name
+ivairlinerpack:trin_cator, item.ivairlinerpack.trin_cator.name
+ivairlinerpack:cf34_3series, item.ivairlinerpack.cf34_3series.name
+ivairlinerpack:engine_jet, item.ivairlinerpack.engine_jet.name
+ivairlinerpack:engine_radial, item.ivairlinerpack.engine_radial.name
+ivairlinerpack:engine_turboprop, item.ivairlinerpack.engine_turboprop.name
+ivairlinerpack:iron_plate, item.ivairlinerpack.iron_plate.name
+ivairlinerpack:livery_aerlingus, item.ivairlinerpack.livery_aerlingus.name
+ivairlinerpack:livery_britishairways, item.ivairlinerpack.livery_britishairways.name
+ivairlinerpack:livery_canada, item.ivairlinerpack.livery_canada.name
+ivairlinerpack:livery_gap, item.ivairlinerpack.livery_gap.name
+ivairlinerpack:livery_iberia, item.ivairlinerpack.livery_iberia.name
+ivairlinerpack:livery_lufthansa, item.ivairlinerpack.livery_lufthansa.name
+ivairlinerpack:livery_ryanair, item.ivairlinerpack.livery_ryanair.name
+ivairlinerpack:livery_trin, item.ivairlinerpack.livery_trin.name
+ivairlinerpack:livery_unu, item.ivairlinerpack.livery_unu.name
+ivairlinerpack:navi_comp, item.ivairlinerpack.navi_comp.name
+ivairlinerpack:wing_elliptical_medium, item.ivairlinerpack.wing_elliptical_medium.name
+ivairlinerpack:wing_elliptical_small, item.ivairlinerpack.wing_elliptical_small.name
+ivairlinerpack:wing_rectangular, item.ivairlinerpack.wing_rectangular.name
+ivairlinerpack:wing_sweep_large, item.ivairlinerpack.wing_sweep_large.name
+ivairlinerpack:wing_sweep_medium, item.ivairlinerpack.wing_sweep_medium.name
+ivairlinerpack:wing_sweep_small, item.ivairlinerpack.wing_sweep_small.name
 horsepower:hand_grindstone, Grindstone
 horsepower:grindstone, Horse Grindstone
 horsepower:chopping_block, Chopping Block
 horsepower:chopper, Horse Chopping Block
 horsepower:press, Horse Press
+horsepower:flour, Flour
+horsepower:dough, Dough
 immcraft:chisel, Chisel
 immcraft:saw, Saw
 immcraft:dummybook, Dummy Book
@@ -6432,30 +6519,6 @@ immersive_energy:material:0, Tungsten Rod
 immersive_energy:material:1, Solar Panel Array
 immersive_energy:stick_thorium, Thorium Rod
 immersive_energy:stick_uranium, Uranium Rod
-mts:handbook_en, item.handbook_en.name
-mts:handbook_ru, item.handbook_ru.name
-mts:wrench, Wrench
-mts:key, Key
-mts:jumpercable, Jumper Cables
-mts:jerrycan, Jerrycan
-mts:vehiclebench, Drafting Table (Vehicles)
-mts:propellerbench, Propeller Bench
-mts:enginebench, Engine Hoist
-mts:wheelbench, Wheel Workbench
-mts:seatbench, Table Saw (Seats & Cargo)
-mts:gunbench, Rifling Machine (Guns & Ammo)
-mts:custombench, Tool Bench (Custom Parts)
-mts:instrumentbench, Instrument Bench
-mts:componentbench, Component Bench (Custom Items)
-mts:decorbench, Decor Bench (Decorative Blocks)
-mts:fuelpump, Fuel Pump
-mts:trafficsignalcontroller, Traffic Signal Controller
-mts:pole, Pole
-mts:polebase, Pole Base
-mts:trafficsignal, Traffic Signal
-mts:crossingsignal, Crossing Signal
-mts:streetlight, Street Light
-mts:trafficsign, Traffic Sign
 immersivecables:coil_block:0, Fluix Coil Block
 immersivecables:coil_block:1, Dense Fluix Coil Block
 immersivecables:coil_block:2, Quartz Fiber Coil Block
@@ -6520,24 +6583,6 @@ ironbackpacks:upgrade:0, Damage Bar Upgrade
 ironbackpacks:upgrade:0, Latch Upgrade
 ironbackpacks:upgrade:0, Extra Upgrade Point
 ironbackpacks:upgrade:0, Everlasting Upgrade
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -6658,6 +6703,24 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 littleopener:coord_checker, Coordinate Setter
 littleopener:block_opener, Little Opener
 littletiles:hammer:0, Little Hammer
@@ -6770,6 +6833,7 @@ mtsofficialpack:propellersmall2blade, item.mtsofficialpack.propellersmall2blade.
 mtsofficialpack:propellersmall3blade, item.mtsofficialpack.propellersmall3blade.name
 mtsofficialpack:scouthardtop, item.mtsofficialpack.scouthardtop.name
 mtsofficialpack:scoutvinyltop, item.mtsofficialpack.scoutvinyltop.name
+mtsofficialpack:seatblack, item.mtsofficialpack.seatblack.name
 mtsofficialpack:seatblue, item.mtsofficialpack.seatblue.name
 mtsofficialpack:seatbrown, item.mtsofficialpack.seatbrown.name
 mtsofficialpack:seatgrey, item.mtsofficialpack.seatgrey.name
@@ -6828,32 +6892,42 @@ openscreens:frontflatscreen3, §bFlatscreen (Front) (Tier 3)
 openscreens:holoscreen1, Holo Screen (Tier 1)
 openscreens:holoscreen2, §eHolo Screen (Tier 2)
 openscreens:holoscreen3, §bHolo Screen (Tier 3)
-opensecurity:security_terminal, Security Terminal
-opensecurity:keypad, Keypad
-opensecurity:rolldoor_element, Rolldoor Element
-opensecurity:rfid_reader, RFID Reader
-opensecurity:mag_reader, Magnetic Card Reader
-opensecurity:biometric_reader, Biometric Reader
 opensecurity:data_block, Data Block
-opensecurity:alarm, Alarm
-opensecurity:entity_detector, Entity Detector
-opensecurity:energy_turret, Energy Turret
-opensecurity:nanofog_terminal, NanoFog Terminal
+opensecurity:keypad, Keypad
+opensecurity:biometric_reader, Biometric Reader
 opensecurity:card_writer, Card Writer
+opensecurity:energy_turret, Energy Turret
+opensecurity:rolldoor_element, Rolldoor Element
+opensecurity:security_terminal, Security Terminal
+opensecurity:mag_reader, Magnetic Card Reader
+opensecurity:rfid_reader, RFID Reader
+opensecurity:nanofog_terminal, NanoFog Terminal
+opensecurity:entity_detector, Entity Detector
+opensecurity:alarm, Alarm
 opensecurity:private_secure_door, Private Security Door
 opensecurity:secure_door, Security Door
-opensecurity:door_controller, Door Controller
 opensecurity:rolldoor_controller, Rolldoor Controller
-opensecurity:nanofog, NanoFog
 opensecurity:rolldoor, Rolldoor
-opensecurity:energy_upgrade, Energy Upgrade
-opensecurity:mag_card, Magnetic Strip Card
+opensecurity:door_controller, Door Controller
+opensecurity:nanofog, NanoFog
 opensecurity:damage_upgrade, Damage Upgrade
-opensecurity:nanodna, NanoDNA
-opensecurity:rfid_card, RFID Card
+opensecurity:movement_upgrade, Movement Upgrade
 opensecurity:rfid_reader_card, RFID Reader Card
 opensecurity:cooldown_upgrade, Cooldown Upgrade
-opensecurity:movement_upgrade, Movement Upgrade
+opensecurity:energy_upgrade, Energy Upgrade
+opensecurity:rfid_card, RFID Card
+opensecurity:nanodna, NanoDNA
+opensecurity:mag_card, Magnetic Strip Card
+randallag:randallballplanter2, item.randallag.randallballplanter2.name
+randallag:randallballplanter4, item.randallag.randallballplanter4.name
+randallag:randallballplanter6, item.randallag.randallballplanter6.name
+randallag:randallballplanter8, item.randallag.randallballplanter8.name
+randallag:randallchiselplow3, item.randallag.randallchiselplow3.name
+randallag:randallharvester30, item.randallag.randallharvester30.name
+randallag:chiselplowunit, item.randallag.chiselplowunit.name
+randallag:header30, item.randallag.header30.name
+randallag:planterrowunit, item.randallag.planterrowunit.name
+randallag:seedhopper, item.randallag.seedhopper.name
 rftools:smartwrench, Smart Wrench
 rftools:rftools_manual, RFTools Manual
 rftools:rftools_shape_manual, RFTools Shape Manual
@@ -7131,6 +7205,39 @@ rsgauges:bistableswitch_rustic4, Bistable Switch
 rsgauges:bistableswitch_rustic5, Bistable Switch
 rsgauges:bistableswitch_rustic6, Bistable Switch
 rsgauges:switchlink_pearl, Switch Link Pearl
+spitfirepack:spitfiremkix, item.spitfirepack.spitfiremkix.name
+spitfirepack:bullet20mm, item.spitfirepack.bullet20mm.name
+spitfirepack:bullet303, item.spitfirepack.bullet303.name
+spitfirepack:spitfirebrowning, item.spitfirepack.spitfirebrowning.name
+spitfirepack:spitfirecowlingbottom, item.spitfirepack.spitfirecowlingbottom.name
+spitfirepack:spitfirecowlingtop, item.spitfirepack.spitfirecowlingtop.name
+spitfirepack:spitfireengine, item.spitfirepack.spitfireengine.name
+spitfirepack:spitfirehispano, item.spitfirepack.spitfirehispano.name
+spitfirepack:spitfireleftpanel, item.spitfirepack.spitfireleftpanel.name
+spitfirepack:spitfirepropeller, item.spitfirepack.spitfirepropeller.name
+spitfirepack:spitfirerearwheel, item.spitfirepack.spitfirerearwheel.name
+spitfirepack:spitfirerightpanel, item.spitfirepack.spitfirerightpanel.name
+spitfirepack:spitfireseat, item.spitfirepack.spitfireseat.name
+spitfirepack:spitfirewheel, item.spitfirepack.spitfirewheel.name
+spitfirepack:instrument_spitfire_airspeed, item.spitfirepack.instrument_spitfire_airspeed.name
+spitfirepack:instrument_spitfire_altimeter, item.spitfirepack.instrument_spitfire_altimeter.name
+spitfirepack:instrument_spitfire_boost, item.spitfirepack.instrument_spitfire_boost.name
+spitfirepack:instrument_spitfire_brake, item.spitfirepack.instrument_spitfire_brake.name
+spitfirepack:instrument_spitfire_clock, item.spitfirepack.instrument_spitfire_clock.name
+spitfirepack:instrument_spitfire_compass, item.spitfirepack.instrument_spitfire_compass.name
+spitfirepack:instrument_spitfire_fuel, item.spitfirepack.instrument_spitfire_fuel.name
+spitfirepack:instrument_spitfire_gyro, item.spitfirepack.instrument_spitfire_gyro.name
+spitfirepack:instrument_spitfire_horizon, item.spitfirepack.instrument_spitfire_horizon.name
+spitfirepack:instrument_spitfire_oil, item.spitfirepack.instrument_spitfire_oil.name
+spitfirepack:instrument_spitfire_oiltemp, item.spitfirepack.instrument_spitfire_oiltemp.name
+spitfirepack:instrument_spitfire_oxygen_1, item.spitfirepack.instrument_spitfire_oxygen_1.name
+spitfirepack:instrument_spitfire_oxygen_2, item.spitfirepack.instrument_spitfire_oxygen_2.name
+spitfirepack:instrument_spitfire_radtemp, item.spitfirepack.instrument_spitfire_radtemp.name
+spitfirepack:instrument_spitfire_tachometer, item.spitfirepack.instrument_spitfire_tachometer.name
+spitfirepack:instrument_spitfire_trim, item.spitfirepack.instrument_spitfire_trim.name
+spitfirepack:instrument_spitfire_turnslip, item.spitfirepack.instrument_spitfire_turnslip.name
+spitfirepack:instrument_spitfire_vertspeed, item.spitfirepack.instrument_spitfire_vertspeed.name
+spitfirepack:instrument_spitfire_volt, item.spitfirepack.instrument_spitfire_volt.name
 thaumicaugmentation:vis_regenerator, Vis Regenerator
 thaumicaugmentation:warded_chest, Warded Chest
 thaumicaugmentation:temporary_light, Casted Light
@@ -7351,6 +7458,7 @@ tombstone:scroll_buff:5, §6Scroll of Reach
 tombstone:tablet_of_recall, Tablet of Recall
 tombstone:tablet_of_home, Tablet of Home
 tombstone:tablet_of_assistance, Tablet of Assistance
+tombstone:tablet_of_cupidity, Tablet of Cupidity
 tombstone:fishing_rod_of_misadventure, Fishing Rod of Misadventure
 tombstone:lost_tablet, Lost Tablet
 tombstone:dust_of_vanishing, Dust of Vanishing
@@ -7481,6 +7589,7 @@ unuparts:unuparts_part_unu_wheel_10d28t, §3UNU Huge Truck Wheel §7[10D28T]
 unuparts:unuparts_part_unu_hubcap_4, §3UNU Hubcap §7[3D12]
 unuparts:unuparts_part_unu_hubcap_5, §3UNU Hubcap §7[4D14]
 unuparts:unuparts_part_unu_hubcap_8_wire, §3UNU Wire Hubcap §7[4D14]
+unuparts:unuparts_part_unu_wheel_invisible, item.unuparts.unuparts_part_unu_wheel_invisible.name
 unuparts:unuparts_part_unu_skid_82, §3UNU Small Skid §7[82]
 unuparts:unuparts_part_unu_wheel_2d6m, §3UNU Scooter Wheel §7[2D6M]
 unuparts:unuparts_part_unu_wheel_3d8a, §3UNU Small Aircraft Wheel §7[3D8A]
@@ -7610,6 +7719,13 @@ unuparts:unuparts_decor_unu_springs_coilover, §3Coilover Springs
 unuparts:unuparts_decor_unu_springs_leaf, §3Leaf Springs
 unuparts:unuparts_decor_unu_steeringwheel_car, §3Car Steering Wheel
 unuparts:unuparts_decor_unu_steeringwheel_truck, §3Truck Steering Wheel
+unuparts:blackthorne_currency_1, 1 Credit
+unuparts:blackthorne_currency_5, 5 Credits
+unuparts:blackthorne_currency_10, 10 Credits
+unuparts:blackthorne_currency_50, 50 Credits
+unuparts:blackthorne_currency_100, 100 Credits
+unuparts:blackthorne_currency_500, 500 Credits
+unuparts:unu_emblem, UNU Emblem
 unucivil:unucivil_airship_unu_aerwhale_cargo, §3UNU Aerwhale (Cargo) §7[LZ-131-HTA]
 unucivil:unucivil_vehicle_unu_chancellor_sedanrhd_chocolate, §3UNU Chancellor RHD (Chocolate) §7[GM-600-LTC]
 unucivil:unucivil_vehicle_unu_chancellor_sedanrhd_ford, §3UNU Chancellor RHD (Ford) §7[GM-600-LTC]
@@ -7649,6 +7765,14 @@ unucivil:unucivil_vehicle_unu_baron_wagonw_manilla_saddle, §3UNU Baron Wagon (M
 unucivil:unucivil_vehicle_unu_baron_wagonw_olive_saddle, §3UNU Baron Wagon (Olive/Saddle) §7[IM-510-LTC]
 unucivil:unucivil_vehicle_unu_baron_wagonw_saddle_manilla, §3UNU Baron Wagon (Saddle/Manilla) §7[IM-510-LTC]
 unucivil:unucivil_vehicle_unu_baron_wagonw_seaweed_manilla, §3UNU Baron Wagon (Seaweed/Manilla) §7[IM-510-LTC]
+unucivil:unucivil_vehicle_unu_broker_coupe_apple, item.unucivil.unucivil_vehicle_unu_broker_coupe_apple.name
+unucivil:unucivil_vehicle_unu_broker_coupe_ford, item.unucivil.unucivil_vehicle_unu_broker_coupe_ford.name
+unucivil:unucivil_vehicle_unu_broker_coupe_ivory, item.unucivil.unucivil_vehicle_unu_broker_coupe_ivory.name
+unucivil:unucivil_vehicle_unu_broker_coupe_lemon, item.unucivil.unucivil_vehicle_unu_broker_coupe_lemon.name
+unucivil:unucivil_vehicle_unu_broker_coupe_mint, item.unucivil.unucivil_vehicle_unu_broker_coupe_mint.name
+unucivil:unucivil_vehicle_unu_broker_coupe_ocean, item.unucivil.unucivil_vehicle_unu_broker_coupe_ocean.name
+unucivil:unucivil_vehicle_unu_broker_coupe_olive, item.unucivil.unucivil_vehicle_unu_broker_coupe_olive.name
+unucivil:unucivil_vehicle_unu_broker_coupe_sea, item.unucivil.unucivil_vehicle_unu_broker_coupe_sea.name
 unucivil:unucivil_vehicle_unu_chancellor_limo_ford, §3UNU Chancellor Limousine (Ford) §7[GM-600-LTC]
 unucivil:unucivil_vehicle_unu_chancellor_limo_seaweed, §3UNU Chancellor Limousine (Seaweed) §7[GM-600-LTC]
 unucivil:unucivil_vehicle_unu_chancellor_sedan_chocolate, §3UNU Chancellor (Chocolate) §7[GM-600-LTC]
@@ -7776,8 +7900,6 @@ unucivil:unucivil_vehicle_unu_swift_unu, item.unucivil.unucivil_vehicle_unu_swif
 unucivil:unucivil_vehicle_unu_xdpl1007_sedan, §3UNU Prototype X-DPL-1007
 unucivil:unucivil_part_unu_stakeside_solenodon, §3UNU Solenodon Stakeside Bed
 unucivil:unuparts_part_unu_engine_j1018tjx2, §3UNU Small Turbojet Jet Engine (x2)
-unucivil:unucivil_trailer_unu_standard_decor_moonspire, §3UNU Standard Trailer Block (Moonspire)
-unucivil:unucivil_trailer_unu_standard_decor_unu, §3UNU Standard Trailer Block (UNU)
 weirdinggadget:weirding_gadget, Weirding Gadget
 wct:wct, Wireless Crafting Terminal
 wct:wct_creative, Creative Wireless Crafting Terminal
@@ -8023,6 +8145,20 @@ minecolonies:decorationcontroller, Decoration Controller
 minecolonies:composted_dirt:0, Composted Dirt
 solcarrot:food_book, Food Book
 ocsensors:sensor, tile.ocsensors.sensor.name
+primal_tech:flint_block, Flint Block
+primal_tech:charcoal_block, Low Grade Charcoal
+primal_tech:clay_kiln, Clay Kiln
+primal_tech:stick_bundle, Stick Bundle
+primal_tech:fibre_torch, Un-Lit Fibre Torch
+primal_tech:wooden_hopper, Wopper Mk2 :P
+primal_tech:charcoal_hopper, Flame Grilled Wopper
+primal_tech:fibre_torch_lit, Lit Fibre Torch
+primal_tech:work_stump, Work Stump
+primal_tech:stone_grill, Stone Grill
+primal_tech:work_stump_upgraded, Work Stump Mk2
+primal_tech:water_saw, Water Powered Saw
+primal_tech:stone_anvil, Stone Anvil
+primal_tech:wooden_basin, Wooden Basin
 primal_tech:fire_sticks, Whittled Fire Sticks
 primal_tech:bone_pickaxe, Bone Pickaxe
 primal_tech:bone_axe, Bone Axe
@@ -8041,20 +8177,6 @@ primal_tech:bone_sword, Bone Sword
 primal_tech:bone_knife, Bone Knife
 primal_tech:stone_mallet, Stone Mallet
 primal_tech:leaf_bed, Bed of Straw and Leaves
-primal_tech:flint_block, Flint Block
-primal_tech:charcoal_block, Low Grade Charcoal
-primal_tech:clay_kiln, Clay Kiln
-primal_tech:stick_bundle, Stick Bundle
-primal_tech:fibre_torch, Un-Lit Fibre Torch
-primal_tech:wooden_hopper, Wopper Mk2 :P
-primal_tech:charcoal_hopper, Flame Grilled Wopper
-primal_tech:fibre_torch_lit, Lit Fibre Torch
-primal_tech:work_stump, Work Stump
-primal_tech:stone_grill, Stone Grill
-primal_tech:work_stump_upgraded, Work Stump Mk2
-primal_tech:water_saw, Water Powered Saw
-primal_tech:stone_anvil, Stone Anvil
-primal_tech:wooden_basin, Wooden Basin
 agricraft:seed_analyzer, Seed Analyzer
 agricraft:peripheral, Computer Controlled Seed Analyzer
 agricraft:sprinkler, Sprinkler
@@ -8080,13 +8202,6 @@ agricraft:agri_nugget:10, Platinum Nugget
 agricraft:agri_nugget:11, Osmium Nugget
 agricraft:agri_nugget:12, Unknown Fragment
 agricraft:magnifying_glass, Magnifying Glass
-theoneprobe:probe, The One Probe
-theoneprobe:creativeprobe, The Creative Probe
-theoneprobe:probenote, The One Probe Read Me
-theoneprobe:diamond_helmet_probe:0, Diamond Helmet with Probe
-theoneprobe:gold_helmet_probe:0, Gold Helmet with Probe
-theoneprobe:iron_helmet_probe:0, Iron Helmet with Probe
-theoneprobe:probe_goggles, The One Probe (Bauble)
 customnpcs:npcwand, Npc Wand
 customnpcs:npcmobcloner, Mob Cloner
 customnpcs:npcscripter, Scripter

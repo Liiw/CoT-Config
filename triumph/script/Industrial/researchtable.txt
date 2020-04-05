@@ -7,10 +7,10 @@ hiddenUnless("Industrial:blastfurnace")
 setIcon(<researchtable:table>)
 
 //Set title String
-setTitle("Think Tank")
+setTranslatedTitle("advancements.industrial.researchtable.title")
 
 //Set description String
-setDescription("Get a Research Table")
+setTranslatedDescription("advancements.industrial.researchtable.description")
 
 
 

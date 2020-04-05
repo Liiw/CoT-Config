@@ -1,6 +1,6 @@
 The first ore you are going to get is copper. You need to find some. Let's make a copper pick
 
-Look for malachite or azurite ore. Those drop copper clusters. After getting copper, you need to start building stuff to process the copper.
+Look for malachite or azurite ore. Those drop copper clusters. Before mining the last pile, make sure you place a marker on your map. There is more copper deep below the surface. After getting copper, you need to start building stuff to process the copper.
 
 Craft a stencil table, a part builder and a tool station. Place them down somewhere.
 
@@ -11,15 +11,21 @@ Also create a wooden binding and a wooden tool rod in the same way.
 Craft a seared heater and place it down. On top of the heater, place a melter. On the side of the melter, place a faucet and under the faucet place a casting table.
 
 First you need to make a clay cast for the copper pickaxe head. To do this, put some fuel into the seared heater (coal or charcoal for example).
-Then throw some clay into the melter (two balls is enough for now) and wait for it to melt. In the meantime, place the stone pickaxe head onto the casting table. 
+Then throw some clay into the melter (two balls is enough for a cast) and wait for it to melt. In the meantime, place the stone pickaxe head onto the casting table. 
 After the clay has melted, pour it onto the casting table by right-clicking the faucet. After the cast has thawed, the stone pick head will disappear. 
-Now throw some copper ore (or ingots) into the melter. Two is enough for a pick head. Wait for it to melt. If the melter is complaining about temperatures, use blocks of coal or charcoal to fuel it.
-After the copper has melted, pour it onto the clay cast as you did with the clay. As the pick head thaws, it will consume the clay cast. 
+Now throw some copper ore (or ingots) into the melter. Three is enough for a pick head. Wait for it to melt. If the melter is complaining about temperatures, use blocks of coal or charcoal to fuel it.
+After the copper has melted, pour it onto the clay cast as you did with the clay. As the pick head thaws, it will consume the clay cast. Later as you unlock gold or aluminum brass, you can make casts that can be used multiple times.
 
-Remember that you can only have one fluid at a time in a melter. Later as you progress, you will be able to build a smeltery which lacks that limitation. 
+Remember that you can only have one fluid at a time in a melter. For storage, you can pour the leftover fluids into a seared tank with a faucet. Later as you progress, you will be able to build a smeltery which lacks that limitation. 
 
-Once you get the copper pickaxe head, you can make a copper pickaxe by combining the pickaxe head with a binding and a tool rod at the tool station. After getting a copper pickaxe, you can go look for some tin (cassiterite and teallite ores).
-When you have tin, you will learn how to alloy it with copper.
+Once you get the copper pickaxe head, you can make a copper pickaxe by combining the pickaxe head with a binding and a tool rod at the tool station. Select the pickaxe from the left and place the parts in their places. If you don't know what parts you need, they should be visible on the lower right of the menu. 
 
 Repeat this process to get other tools made of copper.
+
+Remember that with Tinker Tools, you don't need multiple copies of the same tool. If the tool wears down or breaks, you can repair it in the tool station by placing the pick in the middle slot and placing an ingot or a nugget of the tool's head material into any of the surrounding slots.
+
+After getting a copper pickaxe, you can go look for some tin (cassiterite and teallite ores).
+When you have tin, you will learn how to alloy it with copper.
+
+
 

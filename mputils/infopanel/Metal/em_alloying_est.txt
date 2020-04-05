@@ -1,0 +1,29 @@
+Palju õnne tina leidmise puhul!
+
+Nüüd pead valmistuma pronksi (bronze) tegemiseks. Et metalle omavahel kokku sulatada on Sul vaja sulaminõud (alloy tank), mis on Sulle nüüd saadaval.
+
+Esiteks pead Sa juurde tegema teise sulatusnõu (melter) ja paigutama selle nii, et tal jääks olemasolevaga üks blokk vahet. Uue sulatusnõu alla paiguta samuti kütteallikas. Kahe sulatusnõu vahele paiguta sulaminõu ning selle alla samuti kütteallikas.
+Kui Sa vaatad JEI-st (taskumenüüs paremal see osa, kust saab retsepte vaadata) sulanud pronksi (molten bronze) retsepti ja vajutad selle retsepti vaate peal ülevalt "alloying" vahekaardile, näed Sa pronksisulami loomise retsepti. Sealt on näha, et kui Sa liidad kokku kolm osa vaske ühe osa tinaga, saad neli osa pronksi.
+Neid vahekordasid tasub silmas pidada ka tulevikus teiste sulamite valmistamisel, et Su sulatusaparatuuri ei jääks vajamatuid jääkmetalle.
+
+Pane kolme kangi jagu vaske ühte sulatusnõusse ning ühe kangi jagu tina teise sulatusnõusse. Selleks võid kasutada metallimaake või juba töödeldud kange/kamakaid jms. Veendu, et kõigi kolme nõu all olevates kütteahjudes oleks sütt.
+Kui need tingimused on rahuldatud, näed pronksi sulaminõusse moodustumas. Sealt saad pronksi välja valada samamoodi nagu enne vasega tegid (sa võid savist valuvormi teha teise valulaua peal ning saad vormi liigutada sinna lauale, kuhu pronksi valad).
+
+Mõistlik oleks teha pronksist kirkapea. Pärast tinakangi saamist, said Sa uusi teadmisi ning nüüd võid leida ka rauda (hematite või limonite). Paraku madalama taseme materjalist kirkaga kui pronks seda kaevata ei saa. Kui Sa oled pronksist kirkapea omale teinud, saad selle lihtsalt olemasoelva vaskkirka pea asemele panna. Vaskpea kaob selle protsessi käigus ära, seda tagasi ei saa.
+Kirkapead ei saa vahetada kui vana kirka pea on liiga kulunud või lausa katki. See kehtib ka teiste tööriistade kohta.
+
+Erinevatel blokkidel, tööriistadel ja materjalides on erinevad kaevandustasemed (mining level). Need tasemed on, kasvavas järjestuses, sellised:
+
+        0:Stone (kivi)
+        1:Copper (vask)
+        2:Bronze (pronks)
+        3:Iron (raud)
+        4:Diamond (teemant)
+        5:Obsidian (obsidiaan)
+        6:Steel (teras)
+        7:Ardite
+        8:Manyullyn
+
+Kevandustasemeid näed Sa JEI lisainfo väljadelt (hoia shifti kui eseme ikooni peal hiirt hoiad) ja lisaks ka bloki infolahtris, mis on Su ekraani üleval vasakus servas (The One Probe). Samuti saad tööriistade ja tööriistamaterjalide kaevamistasemeid vaadata JEI-st ja oma taskust.
+
+Pärast raua leidmist saad Sa veel uusi teadmisi. Järgi edasijõudmisi, et edeneda!

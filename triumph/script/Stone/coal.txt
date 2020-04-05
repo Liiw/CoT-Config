@@ -7,10 +7,10 @@ hiddenUnless("Stone:stone_pick")
 setIcon(<minecraft:coal>)
 
 //Set title String
-setTitle("Rock of fire")
+setTranslatedTitle("advancements.stone.coal.title")
 
 //Set description String
-setDescription("Get a piece of coal")
+setTranslatedDescription("advancements.stone.coal.description")
 
 
 

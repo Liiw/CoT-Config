@@ -9,10 +9,10 @@ setIcon(<tconstruct:hatchet>)
 //setIcon(<minecraft:stone_axe>)
 
 //Set title String
-setTitle("Get to da choppa")
+setTranslatedTitle("advancements.tutorial.stoneaxe.title")
 
 //Set description String
-setDescription("Make a stone axe with a rock and a stick")
+setTranslatedDescription("advancements.tutorial.stoneaxe.description")
 
 
 hiddenUnless("Tutorial:stick")

@@ -7,10 +7,10 @@ hiddenUnless("Stone:woodclub")
 setIcon(<primal_tech:fire_sticks>)
 
 //Set title String
-setTitle("Fire!")
+setTranslatedTitle("advancements.stone.fire.title")
 
 //Set description String
-setDescription("Make two fire sticks and set something on fire (a log for example)")
+setTranslatedDescription("advancements.stone.fire.description")
 
 
 

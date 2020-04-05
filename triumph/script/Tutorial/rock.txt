@@ -5,10 +5,10 @@ addParent("Tutorial:root")
 setIcon(<immcraft:rock>)
 
 //Set title String
-setTitle("I WANNA ROCK!")
+setTranslatedTitle("advancements.tutorial.rock.title")
 
 //Set description String
-setDescription("Get a rock (from the ground)")
+setTranslatedDescription("advancements.tutorial.rock.description")
 
 hiddenUnless("Tutorial:root")
 

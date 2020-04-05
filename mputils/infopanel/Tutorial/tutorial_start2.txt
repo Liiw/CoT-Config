@@ -14,13 +14,17 @@ About chopping wood - HOLDING DOWN SHIFT LETS YOU CHOP THE WHOLE TREE!
 
 Books, such as this will come to you in future advancements. As soon as you unlock the stone age, you can craft a bookshelf with a book and this helps you to store them more easily.
 
+Also, each book starts with estonian chapters, but all of them have the same info in english afterwards.
+
 Most of the progressing is done through advancements and gamestages. If you would like to team up with someone, you can use commands from a mod called "together forever".
-If you decide to create a team or join someone elses team, your advancements and gamestages will be synced. That means that if you have been away for a while and your teammates have undergone quite an evolution, your stagedata and advancements will be synced upon your next login.
+If you decide to create a team or join someone elses team, your advancements and gamestages will be synced. That means that if one of your teammates gets an advancement or gamestage, it will be transferred to all the other team members.
 If you prefer to go through the ages yourself, it is probably advisable to not join a team. 
 If you find this progressing tedious and just want to play the game, join someone who is doing a speedrun :D
 
 
 To use the commands, enter them onto the chat field ingame. Do note that the "/" is important as then the game will know it is a command.
+
+COMMANDS:
 
 /tofe invite <player_name> - Invites a player to your team, if you don't have a team it will be created
 /tofe accept <player_name> - Accepts the invite to join that player's team

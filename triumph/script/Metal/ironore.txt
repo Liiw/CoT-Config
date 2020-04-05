@@ -8,10 +8,10 @@ setIcon(<geolosys:cluster:0>)
 
 
 //Set title String
-setTitle("Iron it out")
+setTranslatedTitle("advancements.metal.ironore.title")
 
 //Set description String
-setDescription("Find and mine some iron ore")
+setTranslatedDescription("advancements.metal.ironore.description")
 
 
 

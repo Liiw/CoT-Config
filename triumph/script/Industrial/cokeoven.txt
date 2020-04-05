@@ -7,10 +7,10 @@ hiddenUnless("Industrial:root")
 setIcon(<immersiveengineering:stone_device, meta:0>)
 
 //Set title String
-setTitle("High on coke")
+setTranslatedTitle("advancements.industrial.cokeoven.title")
 
 //Set description String
-setDescription("Create a Coke Oven (look in the Engineer's Manual for more info)")
+setTranslatedDescription("advancements.industrial.cokeoven.description")
 
 
 

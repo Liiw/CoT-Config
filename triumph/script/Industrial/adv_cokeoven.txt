@@ -8,10 +8,10 @@ hiddenUnless("Industrial:researchtable")
 setIcon(<immersivetech:stone_multiblock, meta:0>)
 
 //Set title String
-setTitle("Coke Overdose!")
+setTranslatedTitle("advancements.industrial.adv_cokeoven.title")
 
 //Set description String
-setDescription("Create an Advanced Coke Oven (you need to research it using the Research Table)")
+setTranslatedDescription("advancements.industrial.adv_cokeoven.description")
 
 
 

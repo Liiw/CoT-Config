@@ -1,3 +1,21 @@
 {
-  "savedSubBlockNames": {}
+  "savedSubBlockNames": {
+    "0": {
+      "0": "nickel_poor_ore",
+      "1": "coal_poor_ore",
+      "2": "lead_poor_ore",
+      "3": "gold_poor_ore",
+      "4": "emerald_poor_ore",
+      "5": "platinum_poor_ore",
+      "6": "lapis_poor_ore",
+      "7": "aluminum_poor_ore",
+      "8": "diamond_poor_ore",
+      "9": "copper_poor_ore",
+      "10": "redstone_poor_ore",
+      "11": "iron_poor_ore",
+      "12": "uranium_poor_ore",
+      "13": "quartz_poor_ore",
+      "14": "tin_poor_ore"
+    }
+  }
 }

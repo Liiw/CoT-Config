@@ -7,10 +7,10 @@ hiddenUnless("Industrial:researchtable")
 setIcon(<immersiveengineering:metal_multiblock, meta:12>)
 
 //Set title String
-setTitle("The Excavator")
+setTranslatedTitle("advancements.industrial.excavator.title")
 
 //Set description String
-setDescription("Build an excavator (preferably over a resource node- read more about it from the Engineer's Manual")
+setTranslatedDescription("advancements.industrial.excavator.description")
 
 
 

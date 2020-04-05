@@ -3,6 +3,10 @@
   "mustRead": false,
   "pages": [
     {
+      "title": "Kiviaeg",
+      "file": "stone_start_est"
+    },
+    {
       "title": "Stone Age",
       "file": "stone_start"
     }

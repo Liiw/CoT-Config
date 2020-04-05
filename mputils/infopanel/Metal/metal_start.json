@@ -3,6 +3,18 @@
   "mustRead": false,
   "pages": [
     {
+      "title": "Metalliaeg",
+      "file": "em_start_est"
+    },
+    {
+      "title": "Metallide töötlemine: vasest kirka tegemine",
+      "file": "em_start2_est"
+    },
+    {
+      "title": "Maakide jaotus maapõues",
+      "file": "em_start3_est"
+    },
+    {
       "title": "Metal Age",
       "file": "em_start"
     },

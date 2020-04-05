@@ -3,6 +3,10 @@
   "mustRead": false,
   "pages": [
     {
+      "title": "Metallisulamid",
+      "file": "em_alloying_est"
+    },
+    {
       "title": "Metal Alloying",
       "file": "em_alloying"
     }

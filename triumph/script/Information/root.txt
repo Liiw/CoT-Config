@@ -6,10 +6,10 @@
 setIcon(<opencomputers:component:19>)
 
 //Set title String
-setTitle("Information Age")
+setTranslatedTitle("advancements.information.root.title")
 
 //Set description String
-setDescription("Computers and other smart machines")
+setTranslatedDescription("advancements.information.root.description")
 
 //Set background String. This is a path to any texture in a resource pack, so you can set it to fun things.
 setBackground("minecraft:textures/gui/advancements/backgrounds/adventure.png")
