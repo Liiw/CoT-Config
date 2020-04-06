@@ -1,6 +1,26 @@
 INFO MAAKIDE JAOTUSE KOHTA MAA-ALADE KAUPA
 
-Maagid on jaotatud suurtesse kogumitesse maa all. Neid kogumeid märgivad pinna peal väikesed maaki sisaldavad kuhjad.
+
+Maagid on jaotatud suurtesse kogumitesse maa all. Neid kogumeid märgivad pinna peal väikesed maaki sisaldavad kuhjad. Maagid on leiduvad mineraalidest, osadel mineraalidel ei ole väga loomupärased nimed:
+
+Azurite, Malachite - Vask
+Teallite, Cassiterite - Tina
+Hematite - Raud 
+Limonite - Raud, Nikkel
+Galena - Plii, Hõbe
+Bauxite - Alumiinium
+Kimberlite - Teemant
+Beryl - Smaragd (emerald)
+Autunite - Uraan
+Cinnabar - Redstone
+Assorted Quartz - Nether Kvarts, Thaumcraft Kvarts
+Platinum - Plaatina, Naquadah, Certus Quartz
+
+
+
+
+
+
 Mõned maagid on jaotatud maa-ala (biome) kaupa aeraldi. Siin on maagid, mis on maa-ala kaupa piiratud:
 
 

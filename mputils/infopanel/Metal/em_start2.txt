@@ -1,6 +1,6 @@
 The first ore you are going to get is copper. You need to find some. Let's make a copper pick
 
-Look for malachite or azurite ore. Those drop copper clusters. Before mining the last pile, make sure you place a marker on your map. There is more copper deep below the surface. After getting copper, you need to start building stuff to process the copper.
+Look for malachite or azurite ore samples. These mean that there is copper deep below the surface. After getting copper, you need to start building stuff to process the copper.
 
 Craft a stencil table, a part builder and a tool station. Place them down somewhere.
 

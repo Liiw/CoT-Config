@@ -1,7 +1,26 @@
 INFO ON ORE SPAWNING BY BIOMES
 
-Ores now spawn in large clusters. Those clusters are also indicated by samples on the surface.
+Ores now spawn in large clusters. Those clusters are also indicated by samples on the surface. The minerals that contain the ores have different names than the ores:
+
+
+Azurite, Malachite - Copper
+Teallite, Cassiterite - Tin
+Hematite - Iron 
+Limonite - Iron, Nickel
+Galena - Lead, Silver
+Bauxite - Aluminium
+Kimberlite - Diamond
+Beryl - Emerald
+Autunite - Uranium
+Cinnabar - Redstone
+Assorted Quartz - Nether Quartz, Thaumcraft Quartz
+Platinum - Platinum, Naquadah, Certus Quartz
+
+
+
 Some ores are distributed by biomes. Here are the biomes for where these ores will spawn in:
+
+
 
 Lapis Lazuli - desert, desert M, desert hills
 

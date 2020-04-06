@@ -1,6 +1,6 @@
 Esimene maak, mida Sa leida võid, on vask (copper).
 
-Otsi malachite või azurite hunnikuid maapinnal. Nende kaevamisel saad vasemaagi tükke (copper cluster). Maa all sügavamal on veel vaske, enne viimase hunniku kaevamist märgi see asukoht omale kaardil.
+Otsi malachite või azurite hunnikuid maapinnal. Nende kaevamisel ei saa Sa midagi, need märgivad, et kuskil sügavamal on vaske.
 Pärast vase hankimist on Sul vaja teha omale vahendid selle vase töötlemiseks.
 
 Alustuseks tee omale šabloonilaud, tööriistaosade valmistamise laud ja tööriistavalmistamise pink (stencil table, part builder ja tool station). Võid ka teha pattern chesti, et valmistatud šabloone oleks parem hoiustada.
