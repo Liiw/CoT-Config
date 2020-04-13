@@ -11,7 +11,7 @@ setIcon(<immersiveengineering:stone_device, meta:2>)
 setTranslatedTitle("advancements.industrial.adv_blastfurnace.title")
 
 //Set description String
-setTranslatedDescription("advancements.industrial.industrial.adv_blastfurnace.description")
+setTranslatedDescription("advancements.industrial.adv_blastfurnace.description")
 
 
 
