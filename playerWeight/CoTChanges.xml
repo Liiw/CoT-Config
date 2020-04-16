@@ -60,7 +60,7 @@
 <type=ore name=blockGraphite weight=6.75>
 <type=ore name=blockHaderoth weight=6.75>
 <type=ore name=blockHepatizon weight=6.75>
-<type=ore name=blockHopper weight=6.75>
+<type=ore name=blockHopper weight=2.00>
 <type=ore name=blockIce weight=6.75>
 <type=ore name=blockIgnatius weight=6.75>
 <type=ore name=blockInfuscolium weight=6.75>
@@ -101,7 +101,7 @@
 <type=ore name=blockPulsatingIron weight=6.75>
 <type=ore name=blockQuartz weight=6.75>
 <type=ore name=blockQuicksilver weight=6.75>
-<type=ore name=blockRedstone weight=6.75>
+<type=ore name=blockRedstone weight=2.25>
 <type=ore name=blockRedstoneAlloy weight=6.75>
 <type=ore name=blockRockwool weight=6.75>
 <type=ore name=blockRubracium weight=6.75>
@@ -2483,3 +2483,4 @@
 <type=ore name=oreDarkSteel weight=1.5>
 <type=ore name=oreDeepIron weight=1.5>
 <type=item name=minecraft:spider_eye weight=0.05>
+<type=ore name=fiberHemp weight=0.05>
