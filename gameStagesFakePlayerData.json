@@ -1,0 +1,159 @@
+[
+    {
+    "fakePlayerName": "[IF]",
+    "stages": [ 
+        "stone_1",
+        "stone_2",
+        "stone_3",
+        "stone_4",
+      
+        "metal_1",
+        "metal_2",
+        "metal_3",
+        "metal_4",
+      
+        "medieval_1",
+        "medieval_2",
+        "medieval_3",
+      
+        "industrial_1",
+        "blastfurnace",
+        "researchtable",
+        "excavator",
+        "industrial_2",
+        "advanced_blastfurnace",
+        "advanced_cokeoven",
+      
+        "information_1",
+        "information_2",
+      
+        "endgame_1"
+    ]
+    },
+    {
+    "fakePlayerName" : "[ImmersiveEngineering]",
+    "stages": [ 
+        "stone_1",
+        "stone_2",
+        "stone_3",
+        "stone_4",
+      
+        "metal_1",
+        "metal_2",
+        "metal_3",
+        "metal_4",
+      
+        "medieval_1",
+        "medieval_2",
+        "medieval_3",
+      
+        "industrial_1",
+        "blastfurnace",
+        "researchtable",
+        "excavator",
+        "industrial_2",
+        "advanced_blastfurnace",
+        "advanced_cokeoven",
+      
+        "information_1",
+        "information_2",
+      
+        "endgame_1"
+     ]
+    },
+    {
+    "fakePlayerName" : "rftools_builder",
+    "stages": [
+        "stone_1",
+        "stone_2",
+        "stone_3",
+        "stone_4",
+    
+        "metal_1",
+        "metal_2",
+        "metal_3",
+        "metal_4",
+    
+        "medieval_1",
+        "medieval_2",
+        "medieval_3",
+    
+        "industrial_1",
+        "blastfurnace",
+        "researchtable",
+        "excavator",
+        "industrial_2",
+        "advanced_blastfurnace",
+        "advanced_cokeoven",
+    
+        "information_1",
+        "information_2",
+    
+        "endgame_1" 
+            
+    ]
+    },
+    {
+        "fakePlayerName" : "rftools_elevator",
+        "stages": [
+            "stone_1",
+            "stone_2",
+            "stone_3",
+            "stone_4",
+        
+            "metal_1",
+            "metal_2",
+            "metal_3",
+            "metal_4",
+        
+            "medieval_1",
+            "medieval_2",
+            "medieval_3",
+        
+            "industrial_1",
+            "blastfurnace",
+            "researchtable",
+            "excavator",
+            "industrial_2",
+            "advanced_blastfurnace",
+            "advanced_cokeoven",
+        
+            "information_1",
+            "information_2",
+        
+            "endgame_1" 
+                
+        ]
+        },
+    {
+        "fakePlayerName": "[Minecraft]",
+        "stages": [
+            "stone_1",
+            "stone_2",
+            "stone_3",
+            "stone_4",
+        
+            "metal_1",
+            "metal_2",
+            "metal_3",
+            "metal_4",
+        
+            "medieval_1",
+            "medieval_2",
+            "medieval_3",
+        
+            "industrial_1",
+            "blastfurnace",
+            "researchtable",
+            "excavator",
+            "industrial_2",
+            "advanced_blastfurnace",
+            "advanced_cokeoven",
+        
+            "information_1",
+            "information_2",
+        
+            "endgame_1" 
+        ]
+    }
+]
