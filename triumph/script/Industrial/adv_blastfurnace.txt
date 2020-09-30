@@ -28,3 +28,4 @@ criteria = addCriteria("formed", "immersiveengineering:multiblock_formed")
 
 criteria.setMultiblock("IE:BlastFurnaceAdvanced") 
 
+setRewardFunction("Industrial:advblastfurnace")

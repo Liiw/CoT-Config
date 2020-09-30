@@ -4,7 +4,7 @@ addParent("Medieval:ghasttear")
 hiddenUnless("Medieval:ghasttear")
 
 //Set icon item
-setIcon(<astikorcarts:wheel>)
+setIcon(<minecraft:splash_potion>)
 
 //Set title String
 setTranslatedTitle("advancements.medieval.cart.title")
@@ -23,10 +23,8 @@ setAnnounceToChat(true)
 //Set the position
 setPos(100,0)
 
-criteria = addCriteria("hascart", "minecraft:inventory_changed")
+criteria = addCriteria("brewedpotion", "minecraft:brewed_potion")
 
-criteria.addItem(<astikorcarts:cargocart>)
-criteria.addItem(<astikorcarts:plowcart>)
-criteria.addItem(<astikorcarts:mobcart>)
+criteria.setPotionType("minecraft:strong_regeneration")
 
 setRewardFunction("Medieval:start3")

@@ -1,1 +1,1 @@
-gamestage silentadd @p industrial_2
+gamestage silentadd @p excavator

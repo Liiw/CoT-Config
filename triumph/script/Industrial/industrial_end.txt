@@ -31,3 +31,5 @@ setCompletedIconColor(48, 184, 48)
 criteria = addCriteria("adv", "triumph:gamestage")
 
 criteria.setStage("industrial_end")
+
+setRewardFunction("Industrial:ind_end")

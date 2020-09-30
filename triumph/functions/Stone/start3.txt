@@ -1,3 +1,2 @@
 gamestage silentadd @p stone_3
 
-give @p minecraft:book 1 0 {color:5 , infopanel:Stone_start3, display:{Name: "Prospecting", color:2, Lore:["Some info about ores"]}}

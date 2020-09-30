@@ -27,3 +27,5 @@ setPos(67,-50)
 criteria = addCriteria("formed", "immersiveengineering:multiblock_formed")
 
 criteria.setMultiblock("IT:CokeOvenAdvanced")
+
+setRewardFunction("Industrial:advcokeoven")

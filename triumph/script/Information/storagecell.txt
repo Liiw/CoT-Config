@@ -32,5 +32,4 @@ criteria = addCriteria("adv", "triumph:gamestage")
 
 criteria.setStage("endgame_1")
 
-
-//setRewardFunction("Information:start2")
+setRewardFunction("Information:end")

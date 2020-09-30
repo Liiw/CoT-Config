@@ -24,6 +24,6 @@ The blocks, tools and materials have different mining levels. These levels are, 
         7:Ardite
         8:Manyullyn
 
-You can see the mining level required in JEI tooltips (hold shift when hovering over items in JEI) and also on the block info provided by TOP on the top left of your screen. You can also see different mining levels of tools and tool materials in JEI and in your inventory.
+You can see the mining level required in JEI tooltips (hold shift when hovering over items in JEI) and also on the block info provided by HWYLA on the top of your screen. You can also see different mining levels of tools and tool materials in JEI and in your inventory.
 
 After getting iron ore, you will unlock more new knowledge. Follow the advancements to progress!

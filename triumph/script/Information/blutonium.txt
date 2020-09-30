@@ -29,4 +29,4 @@ criteria.setStage("information_2")
 
 
 
-//setRewardFunction("Information:start2")
+setRewardFunction("Information:start2")

@@ -27,4 +27,4 @@ criteria = addCriteria("adv", "triumph:gamestage")
 
 criteria.setStage("industrial_2")
 
-//setRewardFunction("Industrial:start2")
+setRewardFunction("Industrial:start2")
