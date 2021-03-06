@@ -2,7 +2,7 @@
 addParent("Tutorial:root")
 
 //Set icon item
-setIcon(<immcraft:rock>)
+setIcon(<pyrotech:rock>)
 
 //Set title String
 setTranslatedTitle("advancements.tutorial.rock.title")
@@ -22,5 +22,5 @@ setAnnounceToChat(true)
 setPos(50,-50)
 
 criteria = addCriteria("get_item", "minecraft:inventory_changed")
-criteria.addItem(<immcraft:rock>)
+criteria.addItem(<pyrotech:rock>)
 

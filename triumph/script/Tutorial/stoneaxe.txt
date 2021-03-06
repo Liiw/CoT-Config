@@ -4,7 +4,7 @@ addParent("Tutorial:rock")
 
 
 //Set icon item
-setIcon(<tconstruct:hatchet>)
+setIcon(<pyrotech:crude_axe>)
 
 //setIcon(<minecraft:stone_axe>)
 
@@ -29,6 +29,6 @@ setPos(100,0)
 
 criteria = addCriteria("hasAx", "minecraft:inventory_changed")
 
-criteria.addItem(<tconstruct:hatchet>)
+criteria.addItem(<pyrotech:crude_axe>)
 
 setRewardExperience(50)

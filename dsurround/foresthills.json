@@ -1,0 +1,18 @@
+{
+    "biomes":[
+        {
+            "conditions": "biome.name == 'ForestHills'",
+            "soundReset": true,
+            "sounds": [
+                {
+                    "sound": "dsurround:forest",
+                    "conditions": "weather.isNotRaining && !weather.canWaterFreeze && diurnal.isDay"
+                },
+                {
+                    "sound": "dsurround:crickets",
+                    "conditions": "weather.isNotRaining && !weather.canWaterFreeze && diurnal.isNight"
+                }           
+            ]
+        }
+    ]
+}

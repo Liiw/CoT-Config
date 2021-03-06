@@ -21,11 +21,11 @@
 		{
 			"blocks": [
 				"geolosys:ore_vanilla:1",
-				70,
-				"thaumcraft:ore_amber",
-				20,
-				"thaumcraft:ore_cinnabar",
-				10
+				50,
+				"thermalfoundation:ore_fluid:2",
+				25,
+				"<thermalfoundation:ore:8",
+				25
 			],
 			"samples": [
 				"geolosys:ore_sample_vanilla:1",
@@ -88,11 +88,7 @@
 		{
 			"blocks": [
 				"geolosys:ore_vanilla:4",
-				65,
-				"thaumcraft:ore_amber",
-				25,
-				"thaumcraft:ore_cinnabar",
-				10
+				100
 			],
 			"samples": [
 				"geolosys:ore_sample_vanilla:4",
@@ -292,11 +288,8 @@
 		{
 			"blocks": [
 				"geolosys:ore:7",
-				70,
-				"immersive_energy:ore",
-				15,
-				"immersive_energy:ore:1",
-				15
+				100
+				
 			],
 			"samples": [
 				"geolosys:ore_sample:7",
@@ -330,13 +323,17 @@
 				"geolosys:ore:8",
 				20,
 				"sgcraft:naquadahore",
-				25,
+				20,
 				"appliedenergistics2:quartz_ore",
-				30,
+				20,
+				"libvulpes:ore0",
+				10,
 				"rftools:dimensional_shard_ore:0",
 				10,
 				"appliedenergistics2:charged_quartz_ore",
-				15
+				10,
+				"libvulpes:ore0:8",
+				10
 			],
 			"samples": [
 				"geolosys:ore_sample:8",
@@ -394,7 +391,9 @@
 		{
 			"blocks": [
 				"geolosys:ore:10",
-				100
+				50,
+				"thermalfoundation:ore:7",
+				50
 			],
 			"samples": [
 				"geolosys:ore_sample:10",
@@ -402,7 +401,7 @@
 			],
 			"yMin": 37,
 			"yMax": 46,
-			"chance": 0,
+			"chance": 3,
 			"size": 120,
 			"dimBlacklist": [
 				-1,
