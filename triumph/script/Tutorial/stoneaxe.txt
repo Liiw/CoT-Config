@@ -1,6 +1,7 @@
 
 addParent("Tutorial:stick")
 addParent("Tutorial:rock")
+addParent("Tutorial:plantfibre")
 
 
 //Set icon item
@@ -17,6 +18,7 @@ setTranslatedDescription("advancements.tutorial.stoneaxe.description")
 
 hiddenUnless("Tutorial:stick")
 hiddenUnless("Tutorial:rock")
+hiddenUnless("Tutorial:plantfibre")
 
 //Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
 setShowToast(false)

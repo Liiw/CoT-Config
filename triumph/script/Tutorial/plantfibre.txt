@@ -1,0 +1,24 @@
+addParent("Tutorial:root")
+
+//Set icon item
+setIcon(<pyrotech:material:12>)
+
+//Set title String
+setTranslatedTitle("advancements.tutorial.fibre.title")
+
+//Set description String
+setTranslatedDescription("advancements.tutorial.fibre.description")
+
+hiddenUnless("Tutorial:root")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(true)
+
+//Set the position
+setPos(50,50)
+
+criteria = addCriteria("get_item", "minecraft:inventory_changed")
+criteria.addItem(<pyrotech:material:12>)
