@@ -1,0 +1,33 @@
+addParent("Tutorial:flint_and_tinder")
+
+//Set icon item
+setIcon(<pyrotech:worktable>)
+
+//Set title String
+setTranslatedTitle("advancements.tutorial.worktable.title")
+
+//Set description String
+setTranslatedDescription("advancements.tutorial.worktable.description")
+
+hiddenUnless("Tutorial:flint_and_tinder")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(true)
+
+//Set the position
+setPos(200,0)
+
+//setFrameType("GOAL")
+//Set Better Advancements icon/title/line colors. Supports single color int, 3 rgb ints, and hex.
+//setUncompletedIconColor(255,255,255)
+//setCompletedIconColor(48, 184, 48)
+
+
+
+
+criteria = addCriteria("placed_Table", "minecraft:placed_block")
+criteria.setItem(<pyrotech:worktable>)
+

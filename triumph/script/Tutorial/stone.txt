@@ -1,4 +1,4 @@
-addParent("Tutorial:stoneaxe")
+addParent("Tutorial:worktable")
 
 //Set icon item
 setIcon(<minecraft:cobblestone>)
@@ -9,7 +9,7 @@ setTranslatedTitle("advancements.tutorial.stone.title")
 //Set description String
 setTranslatedDescription("advancements.tutorial.stone.description")
 
-hiddenUnless("Tutorial:stoneaxe")
+hiddenUnless("Tutorial:worktable")
 
 //Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
 setShowToast(false)
@@ -18,7 +18,7 @@ setShowToast(false)
 setAnnounceToChat(false)
 
 //Set the position
-setPos(150,0)
+setPos(250,0)
 
 setFrameType("GOAL")
 //Set Better Advancements icon/title/line colors. Supports single color int, 3 rgb ints, and hex.

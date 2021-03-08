@@ -1,0 +1,34 @@
+addParent("Tutorial:stoneaxe")
+
+//Set icon item
+setIcon(<pyrotech:flint_and_tinder>)
+
+//Set title String
+setTranslatedTitle("advancements.tutorial.FT.title")
+
+//Set description String
+setTranslatedDescription("advancements.tutorial.FT.description")
+
+hiddenUnless("Tutorial:stoneaxe")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(true)
+
+//Set the position
+setPos(150,0)
+
+//setFrameType("GOAL")
+//Set Better Advancements icon/title/line colors. Supports single color int, 3 rgb ints, and hex.
+//setUncompletedIconColor(255,255,255)
+//setCompletedIconColor(48, 184, 48)
+
+
+
+
+criteria = addCriteria("hasFT", "minecraft:inventory_changed")
+criteria.addItem(<pyrotech:flint_and_tinder>)
+
+setRewardFunction("Tutorial:startfire")
