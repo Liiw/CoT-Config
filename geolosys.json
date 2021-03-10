@@ -362,7 +362,7 @@
 			"blocks": [
 				"geolosys:ore:9",
 				85,
-				"minecraft:stone:1",
+				"bigreactors:oreyellorite",
 				15
 			],
 			"samples": [
