@@ -194,6 +194,7 @@
   "pyrotech": "1.12.2-1.5.8",
   "mts": "19.14.0",
   "moartinkers": "0.6.0",
+  "tinkersoc": "0.6",
   "bonsaitrees": "1.1.4",
   "projectred-compat": "1.0",
   "recipestages": "1.1.3",
