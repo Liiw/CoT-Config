@@ -1,7 +1,7 @@
 
-addParent("Stone:stone_pick")
+addParent("Stone:better_pick")
 
-hiddenUnless("Stone:stone_pick")
+hiddenUnless("Stone:better_pick")
 
 //Set icon item
 setIcon(<minecraft:coal>)
@@ -21,13 +21,18 @@ setShowToast(false)
 setAnnounceToChat(false)
 
 //Set the position
-setPos(250,0)
+setPos(200,0)
 
 setFrameType("GOAL")
 //Set Better Advancements icon/title/line colors. Supports single color int, 3 rgb ints, and hex.
 setUncompletedIconColor(255,255,255)
 setCompletedIconColor(48, 184, 48)
 
-criteria = addCriteria("get_item", "minecraft:inventory_changed")
+setRequiresParents(true)
+
+
+criteria = addCriteria("get_coal", "minecraft:inventory_changed")
 criteria.addItem(<minecraft:coal>)
+
+
 

@@ -21,7 +21,7 @@ setAnnounceToChat(true)
 //Set the position
 setPos(50,0)
 
-
+setRequiresParents(true)
 
 criteria = addCriteria("hasStick", "minecraft:inventory_changed")
 criteria.addItem(<minecraft:stick>)

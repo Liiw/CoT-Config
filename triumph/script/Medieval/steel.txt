@@ -28,6 +28,8 @@ setFrameType("GOAL")
 setUncompletedIconColor(255,255,255)
 setCompletedIconColor(48, 184, 48)
 
+setRequiresParents(true)
+
 criteria = addCriteria("hasthaumium", "minecraft:inventory_changed")
 
 criteria.addItem(<ore:blockSteel>)

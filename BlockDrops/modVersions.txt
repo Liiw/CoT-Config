@@ -147,6 +147,7 @@
   "projectred-illumination": "4.9.4.120",
   "cofhworld": "1.4.0",
   "customsignposts": "1.0",
+  "agriseasons": "1.0.2",
   "mcjtylib_ng": "3.5.4",
   "architecturecraft": "@VERSION@",
   "clochecall": "1.1.2",

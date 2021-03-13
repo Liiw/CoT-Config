@@ -1,13 +1,13 @@
 addParent("Stone:root")
 
 //Set icon item
-setIcon(<primal_tech:wood_club>)
+setIcon(<pyrotech:anvil_granite>)
 
 //Set title String
-setTranslatedTitle("advancements.stone.woodclub.title")
+setTranslatedTitle("advancements.stone.anvil_granite.title")
 
 //Set description String
-setTranslatedDescription("advancements.stone.woodclub.description")
+setTranslatedDescription("advancements.stone.anvil_granite.description")
 
 
 
@@ -20,6 +20,9 @@ setAnnounceToChat(true)
 //Set the position
 setPos(50,0)
 
+setRequiresParents(true)
 
-criteria = addCriteria("get_woodclub", "minecraft:inventory_changed")
-criteria.addItem(<ore:primalClubs>)
+criteria = addCriteria("get_anvil", "minecraft:placed_block")
+criteria.setItem(<pyrotech:anvil_granite>)
+
+setRewardFunction("Stone:start3")

@@ -25,8 +25,8 @@ setFrameType("GOAL")
 setUncompletedIconColor(255,255,255)
 setCompletedIconColor(48, 184, 48)
 
-
+setRequiresParents(true)
 
 
 criteria = addCriteria("hasCobble", "minecraft:inventory_changed")
-criteria.addItem(<ore:cobbleStones>)
+criteria.addItem(<ore:cobblestone>)

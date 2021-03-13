@@ -28,6 +28,8 @@ setPos(150,0)
 
 setRequirements("any")
 
+setRequiresParents(true)
+
 criteria = addCriteria("hasiron", "minecraft:inventory_changed")
 
 

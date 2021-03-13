@@ -1,16 +1,18 @@
+addParent("Stone:granite_anvil")
 
-addParent("Tutorial:root")
+
+hiddenUnless("Stone:granite_anvil")
 
 //Set icon item
-setIcon(<pyrotech:rock>)
+setIcon(<pyrotech:stone_kiln>)
 
 //Set title String
-setTranslatedTitle("advancements.tutorial.rock.title")
+setTranslatedTitle("advancements.stone.kiln.title")
 
 //Set description String
-setTranslatedDescription("advancements.tutorial.rock.description")
+setTranslatedDescription("advancements.stone.kiln.description")
 
-hiddenUnless("Tutorial:root")
+
 
 //Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
 setShowToast(false)
@@ -19,10 +21,13 @@ setShowToast(false)
 setAnnounceToChat(true)
 
 //Set the position
-setPos(50,-50)
+setPos(100,0)
 
 setRequiresParents(true)
 
-criteria = addCriteria("get_item", "minecraft:inventory_changed")
-criteria.addItem(<pyrotech:rock>)
+
+
+criteria = addCriteria("get_kiln", "minecraft:placed_block")
+criteria.setItem(<pyrotech:stone_kiln>)
+
 

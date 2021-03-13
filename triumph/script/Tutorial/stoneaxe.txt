@@ -29,6 +29,8 @@ setAnnounceToChat(true)
 //Set the position
 setPos(100,0)
 
+setRequiresParents(true)
+
 criteria = addCriteria("hasAx", "minecraft:inventory_changed")
 
 criteria.addItem(<pyrotech:crude_axe>)

@@ -23,6 +23,8 @@ setAnnounceToChat(true)
 //Set the position
 setPos(100,0)
 
+setRequiresParents(true)
+
 criteria = addCriteria("brewedpotion", "minecraft:brewed_potion")
 
 criteria.setPotionType("minecraft:strong_regeneration")

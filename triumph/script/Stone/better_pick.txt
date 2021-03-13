@@ -1,0 +1,35 @@
+
+addParent("Stone:stone_kiln")
+
+hiddenUnless("Stone:stone_kiln")
+
+//Set icon item
+setIcon(<pyrotech:flint_pickaxe>)
+
+//Set title String
+setTranslatedTitle("advancements.stone.better_pick.title")
+
+//Set description String
+setTranslatedDescription("advancements.stone.better_pick.description")
+
+
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(true)
+
+//Set the position
+setPos(150,0)
+
+setRequiresParents(true)
+
+setRequirements("any")
+
+
+criteria = addCriteria("get_pick", "minecraft:inventory_changed")
+criteria.addItem(<ore:orePick>)
+
+
+setRewardFunction("Stone:start3")

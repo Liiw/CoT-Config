@@ -24,6 +24,8 @@ setAnnounceToChat(true)
 //Set the position
 setPos(117,-50)
 
+setRequiresParents(true)
+
 criteria = addCriteria("formed", "immersiveengineering:multiblock_formed")
 
 criteria.setMultiblock("IE:BlastFurnaceAdvanced") 

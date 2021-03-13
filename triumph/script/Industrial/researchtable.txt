@@ -23,6 +23,8 @@ setAnnounceToChat(true)
 //Set the position
 setPos(150,0)
 
+setRequiresParents(true)
+
 criteria = addCriteria("restable", "minecraft:inventory_changed")
 
 criteria.addItem(<researchtable:table>)

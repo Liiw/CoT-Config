@@ -26,7 +26,7 @@ setPos(150,0)
 //setCompletedIconColor(48, 184, 48)
 
 
-
+setRequiresParents(true)
 
 criteria = addCriteria("hasFT", "minecraft:inventory_changed")
 criteria.addItem(<pyrotech:flint_and_tinder>)

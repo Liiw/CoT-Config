@@ -24,6 +24,8 @@ setAnnounceToChat(true)
 //Set the position
 setPos(50,0)
 
+setRequiresParents(true)
+
 criteria = addCriteria("hascopper", "minecraft:inventory_changed")
 
 criteria.addItem(<ore:oreCopper>)

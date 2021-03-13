@@ -27,6 +27,8 @@ setAnnounceToChat(true)
 //Set the position
 setPos(100,0)
 
+setRequiresParents(true)
+
 criteria = addCriteria("hastin", "minecraft:inventory_changed")
 
 criteria.addItem(<ore:ingotTin>)

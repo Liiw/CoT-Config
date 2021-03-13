@@ -20,5 +20,7 @@ setAnnounceToChat(true)
 //Set the position
 setPos(50,50)
 
+setRequiresParents(true)
+
 criteria = addCriteria("get_item", "minecraft:inventory_changed")
 criteria.addItem(<pyrotech:material:12>)
